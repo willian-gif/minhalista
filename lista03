@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1,FOXsport_1
+http://198.255.23.18:2095/streams/55_.m3u8
+#EXTINF:-1,premiere_2
+http://198.255.23.18:2095/streams/63_.m3u8
+#EXTINF:-1,animalplanet_3
+http://198.255.23.18:2095/streams/99_.m3u8
+#EXTINF:-1,iptvtools_4
+http://tvmpf.mpf.mp.br:1935/event455/event455.stream/live.m3u8
+#EXTINF:-1,tv camara_5
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1,HBOHD_6
+https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1,HBOHit_7
+https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1,HBOSignature_8
+https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
+#EXTINF:-1,RedbyHBO_9
+https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:-1,FoxThai_10
+https://www.livedoomovie.com/02_FoxThai_720p/chunklist.m3u8
+#EXTINF:-1,FoxActionHD_11
+https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:-1,iptvtools_12
+https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:-1,FoxFamilyHD_13
+https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
+#EXTINF:-1,FoxMoviesHD_14
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1,FOX_Life_HD_15
+https://www.livedoomovie.com/02_FOX_Life_HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cD7PWUi.png" group-title="BRAZIL",Multishow Channel (Opt-1)
+https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cD7PWUi.png" group-title="BRAZIL",Multishow Channel (Opt-2)
+https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BuBCDj4.png" group-title="BRAZIL",Gloob
+https://globolive.akamaized.net/d/c/x2800/s/hls-gloob24ha/hls-gloob24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tw6ULYQ.png" group-title="BRAZIL",Viva (New!)
+https://globolive.akamaized.net/d/c/x2800/s/hls-viva24ha/hls-viva24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qi5eOxQ.png" group-title="BRAZIL",Rede Globo SP
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-sp1/hls-globo-sp1_1485/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g9MvTqz.png" group-title="BRAZIL",SporTV (New!)
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_1151/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiHjaf3.png" group-title="BRAZIL",SporTV 2 (Opt-1)
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo224ha/hls-spo224ha_346/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiHjaf3.png" group-title="BRAZIL",SporTV 2 (Opt-2)
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo224ha/hls-spo224ha_1151/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
