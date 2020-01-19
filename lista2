@@ -1,63 +1,297 @@
 #EXTM3U
-#EXTINF:-1,BOOMERANG HD
-http://api-3.ubuntu-servers.me/live/6238257/coreurl.me/18718.m3u8?token=QhtZVUcKQwkbXQAFDVNbAlQAU11aUlxUAAdTUwJWBgABX1MADVNQAQhHFRZHFkoGBVxvDQdHXgcIAgZcTxJCEVxLbl1QQFsRCFcNAw1RD0FIE0QNDgBGDAAZFRQKVBVYGw8BAw1WQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBlAMUUYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlYNWlYGEhk=
-#EXTINF:-1,nat_geo_wild_hd
-http://api-4.ubuntu-servers.me/live/6238257/coreurl.me/18606.m3u8?token=QhtZVUcKQwkbB11SV1QNVFVVCAZTVFBTVQZVU1MFBQYJWlBRAFJUBgxHFRZHFkoGBVxvDQdHXgcIAwdSTxJCEVxLbl1QQFsRCFcNAw1RD0FIE0QNDgBGDAAZFRQKVBVYGwwHAANWQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBlELU0YdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlQIU10DEhk=
-#EXTINF:-1,ANIMAL PLANET 4K
-http://api-8.ubuntu-servers.me/live/1625356/coreurl.me/26189.m3u8?token=QhtZVUcKQwkbVVgBUgdeVgFQAF0BA1YHCQ0AXFUJAAELAFcHBgEFVQxHFRZHFkoGBVxvDQdHXgQGBA9dTxJCEVxLbl1QQFsRCFcNAw1RD0FIE0QNDgBGDAAZFRQKVBVYGw8DBwxATRFcHU1RRgxZDztVVRIKBgEUCltCCA8cFQ1XZlVRWQMPVxtfGwQWThoKF0ESXkEtN2YQdngpJmJ0K3YZdBRnJzNlcCZ2ZxQ2fS8hcn8pQykwcnEVGkQudRVOG1tYQEYDFVYbXxsHAVUAQUgTUwsWCxBESRcNRiFiFU4bXElAUQwSWlYLGw4WDwsWXBMcRgoWO0RVRkMWBlFaB0sbCxYEQE0RVARBa1cNVg0BUkQNDAsXFAoXBkZPEloNV1BFW0Y9EVpdRwMWAFcLV0ZM
-#EXTINF:-1,GLOBO SP 4K
-http://198.50.184.215/live/1625356/coreurl.me/26181.m3u8
-#EXTINF:-1,telecine cult hd
-http://api-4.ubuntu-servers.me/live/6238257/coreurl.me/18549.m3u8?token=QhtZVUcKQwkbUl0BV1MLUVYGVAEAB1EBAwBRV1YDUQFbDFBSVVQEUQpHFRZHFkoGBVxvDQdHXgcIAANdTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGw0JBwFbQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBlAIWkYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlYAVFwTTQ==
-#EXTINF:-1,telecine action hd
-http://api-4.ubuntu-servers.me/live/6238257/coreurl.me/18551.m3u8?token=QhtZVUcKQwkbAQlQBlIPW1YGBAEBUFRTAQUCAloGUlMMXVUDBVQAA19HFRZHFkoGBVxvDQdHXgcIAAJVTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGw0DDQRRQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBlAIVEYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlYBU1ITTQ==
-#EXTINF:-1,SPORTV FHD
-http://api-7.ubuntu-servers.me/live/6238257/coreurl.me/18761.m3u8?token=QhtZVUcKQwkbXVsBUFYNWgdTUgZVVlwHVAVVAAcFVlUPX1dQV1NTUQFHFRZHFkoGBVxvDQdHXgcIAgFVTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGwgCDAVSQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWB1EAUkYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlsLUFwTTQ==
-#EXTINF:-1,A&E HD
-http://api-4.ubuntu-servers.me/live/6238257/coreurl.me/18738.m3u8?token=QhtZVUcKQwkbVAtXUgcBW1UBBAcHXV1SCABVB1UHVVVdX1JWAFIDBwpHFRZHFkoGBVxvDQdHXgcIAgRcTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGw0JAA1VQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBlAIUUYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlQOU10TTQ==
-#EXTINF:-1,HBO HD
-http://api-3.ubuntu-servers.me/live/6238257/coreurl.me/18637.m3u8?token=QhtZVUcKQwkbUg9RBVsPU1xVUQIFVgYFCQUEXQZRUQQIAQQHAVRVC19HFRZHFkoGBVxvDQdHXgcIAwRTTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGwoAAAdaQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBlIIVUYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlcBW1AJEhk=
-#EXTINF:-1,HBO PLUS HD
-http://api-3.ubuntu-servers.me/live/6238257/coreurl.me/18635.m3u8?token=QhtZVUcKQwkbA1wCVgcOBVVQU1MCA1wHAA0PAQJWDlBbXFABBAFUBF9HFRZHFkoGBVxvDQdHXgcIAwRRTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGwgEAwFUQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBlEOVEYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlcBW1cBEhk=
-#EXTINF:-1,AMC HD
-http://api-3.ubuntu-servers.me/live/6238257/coreurl.me/18736.m3u8?token=QhtZVUcKQwkbAVoBVQBbUVUEU1FVXQYGCFNTXVoEAwcAAAIDDVUDAFpHFRZHFkoGBVxvDQdHXgcIAgRSTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGwoADARQQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBlMMWkYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlcBUVcEEhk=
-#EXTINF:-1,AMC SD
-http://api-3.ubuntu-servers.me/live/6238257/coreurl.me/18737.m3u8?token=QhtZVUcKQwkbVwwCDFYJUlFVVVBTUFABVQNUUFoCDgAAD1ABBAAHBwxHFRZHFkoGBVxvDQdHXgcIAgRTTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBwVYGwgIBwxXQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBVAJUkYdEgcMEApCQkVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlcBUVAAEhk=
-#EXTINF:-1,CINEMAX FHD
-http://api-3.ubuntu-servers.me/live/6238257/coreurl.me/18848.m3u8?token=QhtZVUcKQwkbXAwFBAYLUVAEVQVXBlcCAgdVXFMAAlMBCwYGUAdWAlpHFRZHFkoGBVxvDQdHXgcIDQNcTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGwoDAgdaQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWB1ALUEYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlMPWlAJEhk=
-#EXTINF:-1,CARTOON NETWORK SD
-http://api-3.ubuntu-servers.me/live/6238257/coreurl.me/18712.m3u8?token=QhtZVUcKQwkbBlgFUFYMU1UBVQdbUlACA1BTUVYFVVRYDgRXAgRVUlhHFRZHFkoGBVxvDQdHXgcIAgZWTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGwsIBwJQQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWDFEKQUgTUwsWCxBESRcNRiFiFU4bXElAUQwSWlYLGw4WDwsWXBMcRgoWO0RVRkMWBlFaB0sbCxYEQE0RVARBa1cNVg0BUkQNDAsXFAoXBkZPEloNV1BFW0Y9EVpdRwMWAlANVVQTTQ==
-#EXTINF:-1,CARTOON NETWORK HD
-http://api-4.ubuntu-servers.me/live/6238257/coreurl.me/18711.m3u8?token=QhtZVUcKQwkbAVxWUVVZUQBQUVFRAF1SBgJUXAAJBlMNX1AMDVZQAA9HFRZHFkoGBVxvDQdHXgcIAgZVTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGw0JBwZSQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBVUNU0YdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlAJUVAFEhk=
-#EXTINF:-1,CARTOON NETWORK FHD
-http://api-4.ubuntu-servers.me/live/6238257/coreurl.me/18849.m3u8?token=QhtZVUcKQwkbV1gNAwFaVgVXUwBTUgAHVAAAVwZRVAcJCAdSA1sEC1hHFRZHFkoGBVxvDQdHXgcIDQNdTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGw0GBwRWQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBlYNUEYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlMAVlYBEhk=
-#EXTINF:-1,ESPN HD
-http://api-8.ubuntu-servers.me/live/6238257/coreurl.me/18673.m3u8?token=QhtZVUcKQwkbXQ4EDVEJVwAAAAAAAVcGUwAHBgEFBAEAAAlQB1pWVw5HFRZHFkoGBVxvDQdHXgcIAwBXTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGwsCAAVQQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBlMPUUYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlEBU1QTTQ==
-#EXTINF:-1,COMBATE SD
-http://api-6.ubuntu-servers.me/live/6238257/coreurl.me/18708.m3u8?token=QhtZVUcKQwkbBAwGVwBdAlEGVFBSAAJXCQMBVABTDlMNW1MHB1dTBV1HFRZHFkoGBVxvDQdHXgcIAgdcTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGwgHBQBbQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWDVsBQUgTUwsWCxBESRcNRiFiFU4bXElAUQwSWlYLGw4WDwsWXBMcRgoWO0RVRkMWBlFaB0sbCxYEQE0RVARBa1cNVg0BUkQNDAsXFAoXBkZPEloNV1BFW0Y9EVpdRwMWBlcNVlQTTQ==
-#EXTINF:-1,COMBATE FHD
-http://api-6.ubuntu-servers.me/live/6238257/coreurl.me/18784.m3u8?token=QhtZVUcKQwkbVQFSV1sBW1RUCAJTXAcFA1ACVFNTUVAOAVIABVsEVgFHFRZHFkoGBVxvDQdHXgcIAg9QTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGwoBDA1WQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWB1YKVUYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlANVlACEhk=
-#EXTINF:-1,FOX HD
-http://api-3.ubuntu-servers.me/live/6238257/coreurl.me/18667.m3u8?token=QhtZVUcKQwkbVQ8BBFIPBwACUQZaBgZQA1QOVQAGBwZbXwQGBFMEBwBHFRZHFkoGBVxvDQdHXgcIAwFTTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGw0JAwJaQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBlANUkYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlcBUlIJEhk=
-#EXTINF:-1,FOX SD
-http://api-4.ubuntu-servers.me/live/6238257/coreurl.me/18668.m3u8?token=QhtZVUcKQwkbU1pWAQEBV1IHVQVWAwJSBVRSVQYJAAQBWgJVV1tUCl1HFRZHFkoGBVxvDQdHXgcIAwFcTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGw8BBQdWQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBVIIUkYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlYBW1cIEhk=
-#EXTINF:-1,TELE CINE PIPOCA HD
-http://api-4.ubuntu-servers.me/live/6238257/coreurl.me/18545.m3u8?token=QhtZVUcKQwkbBAABUlpeAVJTUlZWXAICCAdVAgdWA1tfWgFVUVsAClpHFRZHFkoGBVxvDQdHXgcIAANRTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGw8CAQ1UQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBlUJVEYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlYAU1ETTQ==
-#EXTINF:-1,TELE CINE PIPOCA SD
-http://api-3.ubuntu-servers.me/live/6238257/coreurl.me/18546.m3u8?token=QhtZVUcKQwkbA1oGUFcABlMEBwdQBlMFUgFUAgBSAAYBAFUABgZZAQ5HFRZHFkoGBVxvDQdHXgcIAANSTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGw0IBg1QQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBVALVUYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlAIUlYHEhk=
-#EXTINF:-1,TELE CINE FUN HD
-http://api-3.ubuntu-servers.me/live/6238257/coreurl.me/18547.m3u8?token=QhtZVUcKQwkbBwkBAAYNBQUBVAZWU10ACVZTB1IJDldYAAADAVYHCwpHFRZHFkoGBVxvDQdHXgcIAANTTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGwoDAg1VQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBlEIVEYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlcBVVcCEhk=
-#EXTINF:-1,TELE CINE FUN SD
-http://api-3.ubuntu-servers.me/live/6238257/coreurl.me/18548.m3u8?token=QhtZVUcKQwkbBAsCDFNdUFwAAwVbUwVTCAFUVgABBFoMCAZQVlRUCw1HFRZHFkoGBVxvDQdHXgcIAANcTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGw8FABZOQ1ZBEVxGWgNUPABURg0AAEYMXkBbCE8SWAxmXVRZVQwFEQNHCRYYQFEQFBMKRis2NBZzenohMXN+LRl8EWdxMDd6eipqFGAndCYnfn1ELzEgdxAYFykmEhtAW1BFRlUWBBEDRwgGB1EaT0ZSXxENERZPEg8VJjESG0BcQUVRWhEIXFdHAxZZUU1bRh0SDRA6FlNDQUUBAl1SEBsDEwQWTkNeWB1mV1sMVgYHRVkLDRZGDBIEFUhBXVgMUE1eRmsSCFcbXxsGBFMLUUZM
-#EXTINF:-1,TELE CINE PREMIUM HD
-http://api-3.ubuntu-servers.me/live/6238257/coreurl.me/18543.m3u8?token=QhtZVUcKQwkbXAsABVYNUVdUBVMHAFdUBVAFBgcGB1NcCFMNBQcFVQ5HFRZHFkoGBVxvDQdHXgcIAANXTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGw0IDQBRQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBlEKWkYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlcBVVQBEhk=
-#EXTINF:-1,TELE CINE PREMIUM SD
-http://api-4.ubuntu-servers.me/live/6238257/coreurl.me/18544.m3u8?token=QhtZVUcKQwkbVQkHUVYLAgVQUQZaU11UBFAGUVBWVlFdW1AHB1RQAwhHFRZHFkoGBVxvDQdHXgcIAANQTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGw8FBQdQQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBVAMW0YdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlYPWlUTTQ==
-#EXTINF:-1,TELE CINE TOUCH HD
-http://api-3.ubuntu-servers.me/live/6238257/coreurl.me/18541.m3u8?token=QhtZVUcKQwkbVQsGAFEKVlFSBgdaV1cPAgIDBQEHAFQJWwJQVVtYA1hHFRZHFkoGBVxvDQdHXgcIAANVTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGwoCBgZXQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBlMNVkYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlcJUFwAEhk=
-#EXTINF:-1,TELE CINE TOUCH SD
-http://api-4.ubuntu-servers.me/live/6238257/coreurl.me/18542.m3u8?token=QhtZVUcKQwkbBAtXUVoKV1RVCVICVlIDAlYHVlBUU1BfDlQBBFVSBgBHFRZHFkoGBVxvDQdHXgcIAANWTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGw0ADAVXQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBVANUUYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlYPVVQTTQ==
-#EXTINF:-1,FOX SPORTS HD
-http://api-8.ubuntu-servers.me/live/6238257/coreurl.me/18659.m3u8?token=QhtZVUcKQwkbV1sMVloMW1JUBQFTAVYCA1QHBVVSVVtfCFQFAVAHBghHFRZHFkoGBVxvDQdHXgcIAwJdTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGwgADA1QQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWBlsKWkYdEgcMEApCQkwVXkFyZUAVG1RMQAcPQFAKVxYOQFVQEQkSSEEMF2lCUEQQEVVWD1xLEw4WUkMfGwhYTGsBVw0KVFMQCgoKRRIPFVVBHBUPVldYQFsQPkNQARsOFlEAVVMTTQ==
-#EXTINF:-1,FOX SPORTS SD
-http://api-8.ubuntu-servers.me/live/6238257/coreurl.me/18660.m3u8?token=QhtZVUcKQwkbXQkNDQMOBlYGVlVWVVQGUVADV1ZUBltfWwlVDVUFCgxHFRZHFkoGBVxvDQdHXgcIAwFUTxJCEVxLbl1QQFsRCFcNBQxQCUFIE0QNDgBGDAAZFRQKVBVYGwgCBwxVQx8bAEFAURBWAghuVAEVDAdTEg9ZEQ9cG0BWV25QUQ8AXV1HAxYEQBRBDUJARllHLGVgFXQrLnVlIXB2EXEUMSRhbyx6e2dCbCYodHMrLkUoYnR0F0lDfXJAFRtTXUAQAEdcRwMWDVYKQUgTUwsWCxBESRcNRiFiFU4bXElAUQwSWlYLGw4WDwsWXBMcRgoWO0RVRkMWBlFaB0sbCxYEQE0RVARBa1cNVg0BUkQNDAsXFAoXBkZPEloNV1BFW0Y9EVpdRwMWB1oPVEZM
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil
+http://psrv.io:80/1625356/coreurl.me/27861
+#EXTINF:-1 tvg-logo="http://z4.vc/1CP" group-title="Canais | Variedades",A&E FHD
+http://psrv.io:80/1625356/coreurl.me/18858
+#EXTINF:-1 tvg-logo="http://z4.vc/uuz" group-title="Canais | Variedades",A&E FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22213
+#EXTINF:-1 tvg-logo="http://z4.vc/SDH" group-title="Canais | Variedades",A&E HD
+http://psrv.io:80/1625356/coreurl.me/18738
+#EXTINF:-1 tvg-logo="http://z4.vc/o9i" group-title="Canais | Variedades",A&E SD
+http://psrv.io:80/1625356/coreurl.me/18739
+#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",Al Jazeera
+http://psrv.io:80/1625356/coreurl.me/28158
+#EXTINF:-1 tvg-logo="http://z4.vc/PFh" group-title="Canais | Filmes e Séries",AMC FHD
+http://psrv.io:80/1625356/coreurl.me/18857
+#EXTINF:-1 tvg-logo="http://z4.vc/GcF" group-title="Canais | Filmes e Séries",AMC FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22212
+#EXTINF:-1 tvg-logo="http://z4.vc/5Gw" group-title="Canais | Filmes e Séries",AMC HD
+http://psrv.io:80/1625356/coreurl.me/18736
+#EXTINF:-1 tvg-logo="http://z4.vc/6ZV" group-title="Canais | Filmes e Séries",AMC SD
+http://psrv.io:80/1625356/coreurl.me/18737
+#EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | Documentários",Animal Planet FHD
+http://psrv.io:80/1625356/coreurl.me/18856
+#EXTINF:-1 tvg-logo="http://z4.vc/aPp" group-title="Canais | Documentários",Animal Planet FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22211
+#EXTINF:-1 tvg-logo="http://z4.vc/BZz" group-title="Canais | Documentários",Animal Planet HD
+http://psrv.io:80/1625356/coreurl.me/18734
+#EXTINF:-1 tvg-logo="http://z4.vc/fjU" group-title="Canais | Documentários",Animal Planet SD
+http://psrv.io:80/1625356/coreurl.me/18735
+#EXTINF:-1 tvg-logo="http://z4.vc/s04" group-title="Canais | 4K",ANIMAL PLANET [4K]
+http://psrv.io:80/1625356/coreurl.me/26189
+#EXTINF:-1 tvg-logo="http://z4.vc/I6b" group-title="Canais | Documentários",Arte 1 FHD
+http://psrv.io:80/1625356/coreurl.me/18855
+#EXTINF:-1 tvg-logo="http://z4.vc/2KF" group-title="Canais | Documentários",Arte 1 FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/25196
+#EXTINF:-1 tvg-logo="http://z4.vc/Vfq" group-title="Canais | Documentários",Arte 1 HD
+http://psrv.io:80/1625356/coreurl.me/27884
+#EXTINF:-1 tvg-logo="http://z4.vc/8td" group-title="Canais | Documentários",Arte 1 SD
+http://psrv.io:80/1625356/coreurl.me/18733
+#EXTINF:-1 tvg-logo="http://z4.vc/rpV" group-title="Canais | Filmes e Séries",AXN FHD
+http://psrv.io:80/1625356/coreurl.me/18854
+#EXTINF:-1 tvg-logo="http://z4.vc/ItW" group-title="Canais | Filmes e Séries",AXN FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22210
+#EXTINF:-1 tvg-logo="http://z4.vc/j1K" group-title="Canais | Filmes e Séries",AXN HD
+http://psrv.io:80/1625356/coreurl.me/18730
+#EXTINF:-1 tvg-logo="http://z4.vc/qfK" group-title="Canais | Filmes e Séries",AXN SD
+http://psrv.io:80/1625356/coreurl.me/18731
+#EXTINF:-1 tvg-logo="http://z4.vc/k3q" group-title="Canais | Infantis",BabyTV SD
+#EXTINF:-1 tvg-logo="http://z4.vc/UIf" group-title="Canais | Variedades",Bis FHD
+http://psrv.io:80/1625356/coreurl.me/18785
+#EXTINF:-1 tvg-logo="http://z4.vc/XaE" group-title="Canais | Variedades",Bis FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22150
+#EXTINF:-1 tvg-logo="http://z4.vc/PAl" group-title="Canais | Variedades",Bis HD
+http://psrv.io:80/1625356/coreurl.me/18721
+#EXTINF:-1 tvg-logo="http://z4.vc/ybv" group-title="Canais | Variedades",Bis SD
+http://psrv.io:80/1625356/coreurl.me/18722
+#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",Bloomberg Television
+http://psrv.io:80/1625356/coreurl.me/28159
+#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",Boing Kids [ESP]
+http://psrv.io:80/1625356/coreurl.me/28166
+#EXTINF:-1 tvg-logo="http://z4.vc/6f2" group-title="Canais | Infantis",Boomerang FHD
+http://psrv.io:80/1625356/coreurl.me/18851
+#EXTINF:-1 tvg-logo="http://z4.vc/DAg" group-title="Canais | Infantis",Boomerang FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/25317
+#EXTINF:-1 tvg-logo="http://z4.vc/BLS" group-title="Canais | Infantis",Boomerang HD
+http://psrv.io:80/1625356/coreurl.me/18718
+#EXTINF:-1 tvg-logo="http://z4.vc/H1Y" group-title="Canais | Infantis",Boomerang SD
+#EXTINF:-1 tvg-logo="http://z4.vc/gGw" group-title="Canais | Infantis",Cartoon Network FHD
+http://psrv.io:80/1625356/coreurl.me/18849
+#EXTINF:-1 tvg-logo="http://z4.vc/6WN" group-title="Canais | Infantis",Cartoon Network FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/25314
+#EXTINF:-1 tvg-logo="http://z4.vc/Brc" group-title="Canais | Infantis",Cartoon Network HD
+http://psrv.io:80/1625356/coreurl.me/18711
+#EXTINF:-1 tvg-logo="http://z4.vc/BjV" group-title="Canais | Infantis",Cartoon Network SD
+http://psrv.io:80/1625356/coreurl.me/18712
+#EXTINF:-1 tvg-logo="http://z4.vc/Mqt" group-title="Canais | 4K",CARTOON NETWORK [4K]
+http://psrv.io:80/1625356/coreurl.me/26408
+#EXTINF:-1 tvg-logo="http://z4.vc/IbR" group-title="Canais | Filmes e Séries",Cinemax FHD
+http://psrv.io:80/1625356/coreurl.me/18848
+#EXTINF:-1 tvg-logo="http://z4.vc/i31" group-title="Canais | Filmes e Séries",Cinemax FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/25313
+#EXTINF:-1 tvg-logo="http://z4.vc/Lo1" group-title="Canais | Filmes e Séries",Cinemax HD
+http://psrv.io:80/1625356/coreurl.me/18709
+#EXTINF:-1 tvg-logo="http://z4.vc/ZLC" group-title="Canais | Filmes e Séries",Cinemax SD
+http://psrv.io:80/1625356/coreurl.me/18710
+#EXTINF:-1 tvg-logo="http://z4.vc/2Bh" group-title="Canais | Esportes",Combate FHD
+http://psrv.io:80/1625356/coreurl.me/18784
+#EXTINF:-1 tvg-logo="http://z4.vc/na3" group-title="Canais | Esportes",Combate FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/25312
+#EXTINF:-1 tvg-logo="http://z4.vc/ids" group-title="Canais | Esportes",Combate HD
+http://psrv.io:80/1625356/coreurl.me/18707
+#EXTINF:-1 tvg-logo="http://z4.vc/jLd" group-title="Canais | Esportes",Combate SD
+http://psrv.io:80/1625356/coreurl.me/18708
+#EXTINF:-1 tvg-logo="http://z4.vc/E0D" group-title="Canais | 4K",COMBATE [4K]
+http://psrv.io:80/1625356/coreurl.me/26180
+#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Jogos & Eventos",DAZN  CHANNEL 1
+http://psrv.io:80/1625356/coreurl.me/26195
+#EXTINF:-1 tvg-logo="http://z4.vc/Pjc" group-title="Canais | Jogos & Eventos",DAZN CHANNEL 2
+http://psrv.io:80/1625356/coreurl.me/26197
+#EXTINF:-1 tvg-logo="http://z4.vc/Wp3" group-title="Canais | Jogos & Eventos",DAZN CHANNEL 3
+http://psrv.io:80/1625356/coreurl.me/26196
+#EXTINF:-1 tvg-logo="http://z4.vc/04y" group-title="Canais | Filmes e Séries",Universal Channel FHD
+http://psrv.io:80/1625356/coreurl.me/18792
+#EXTINF:-1 tvg-logo="http://z4.vc/94M" group-title="Canais | Filmes e Séries",Universal Channel FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22155
+#EXTINF:-1 tvg-logo="http://z4.vc/0j9" group-title="Canais | Filmes e Séries",Universal Channel HD
+http://psrv.io:80/1625356/coreurl.me/18520
+#EXTINF:-1 tvg-logo="http://z4.vc/wGT" group-title="Canais | Filmes e Séries",Universal Channel SD
+http://psrv.io:80/1625356/coreurl.me/18521
+#EXTINF:-1 tvg-logo="http://z4.vc/HlB" group-title="Canais | Filmes e Séries",Universal Channel SD
+http://psrv.io:80/1625356/coreurl.me/22253
+#EXTINF:-1 tvg-logo="http://z4.vc/xf5" group-title="Canais | Variedades",VH1 FHD
+http://psrv.io:80/1625356/coreurl.me/18791
+#EXTINF:-1 tvg-logo="http://z4.vc/InM" group-title="Canais | Variedades",VH1 FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22154
+#EXTINF:-1 tvg-logo="http://z4.vc/6fr" group-title="Canais | Variedades",VH1 HD
+http://psrv.io:80/1625356/coreurl.me/18518
+#EXTINF:-1 tvg-logo="http://z4.vc/Xhe" group-title="Canais | Variedades",VH1 MegaHits SD
+http://psrv.io:80/1625356/coreurl.me/18517
+#EXTINF:-1 tvg-logo="http://z4.vc/KZh" group-title="Canais | Variedades",VH1 SD
+http://psrv.io:80/1625356/coreurl.me/22252
+#EXTINF:-1 tvg-logo="http://z4.vc/VCv" group-title="Canais | Variedades",Viva FHD
+http://psrv.io:80/1625356/coreurl.me/18755
+#EXTINF:-1 tvg-logo="http://z4.vc/6NU" group-title="Canais | Variedades",Viva FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/25253
+#EXTINF:-1 tvg-logo="http://z4.vc/LVI" group-title="Canais | Variedades",Viva HD
+http://psrv.io:80/1625356/coreurl.me/18515
+#EXTINF:-1 tvg-logo="http://z4.vc/Pte" group-title="Canais | Variedades",Viva SD
+http://psrv.io:80/1625356/coreurl.me/18516
+#EXTINF:-1 tvg-logo="http://z4.vc/4dc" group-title="Canais | Filmes e Séries",Warner Channel FHD
+http://psrv.io:80/1625356/coreurl.me/18790
+#EXTINF:-1 tvg-logo="http://z4.vc/i3M" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22153
+#EXTINF:-1 tvg-logo="http://z4.vc/W7o" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://psrv.io:80/1625356/coreurl.me/18513
+#EXTINF:-1 tvg-logo="http://z4.vc/QRs" group-title="Canais | Filmes e Séries",Warner Channel SD
+http://psrv.io:80/1625356/coreurl.me/18514
+#EXTINF:-1 tvg-logo="http://z4.vc/KZj" group-title="Canais | Variedades",Woohoo FHD
+http://psrv.io:80/1625356/coreurl.me/18789
+#EXTINF:-1 tvg-logo="http://z4.vc/HQF" group-title="Canais | Variedades",Woohoo FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22127
+#EXTINF:-1 tvg-logo="http://z4.vc/6Z3" group-title="Canais | Variedades",Woohoo HD
+http://psrv.io:80/1625356/coreurl.me/18511
+#EXTINF:-1 tvg-logo="http://z4.vc/fUJ" group-title="Canais | Variedades",Woohoo SD
+http://psrv.io:80/1625356/coreurl.me/18512
+#EXTINF:-1 tvg-logo="http://z4.vc/YP8" group-title="Canais | Filmes e Séries",Sony FHD
+http://psrv.io:80/1625356/coreurl.me/18850
+#EXTINF:-1 tvg-logo="http://z4.vc/FM8" group-title="Canais | Filmes e Séries",Sony FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/25315
+#EXTINF:-1 tvg-logo="http://z4.vc/hkn" group-title="Canais | Filmes e Séries",Sony HD
+http://psrv.io:80/1625356/coreurl.me/18714
+#EXTINF:-1 tvg-logo="http://z4.vc/npa" group-title="Canais | Filmes e Séries",Sony SD
+http://psrv.io:80/1625356/coreurl.me/18715
+#EXTINF:-1 tvg-logo="http://z4.vc/kaZ" group-title="Canais | Filmes e Séries",Sony SD
+http://psrv.io:80/1625356/coreurl.me/22331
+#EXTINF:-1 tvg-logo="http://z4.vc/hBI" group-title="Canais | Filmes e Séries",Space FHD
+http://psrv.io:80/1625356/coreurl.me/18802
+#EXTINF:-1 tvg-logo="http://z4.vc/ao2" group-title="Canais | Filmes e Séries",Space FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22169
+#EXTINF:-1 tvg-logo="http://z4.vc/EPt" group-title="Canais | Filmes e Séries",Space HD
+http://psrv.io:80/1625356/coreurl.me/18564
+#EXTINF:-1 tvg-logo="http://z4.vc/zXZ" group-title="Canais | Filmes e Séries",Space SD
+http://psrv.io:80/1625356/coreurl.me/18565
+#EXTINF:-1 tvg-logo="http://z4.vc/t2m" group-title="Canais | 4K",SPACE [4K]
+http://psrv.io:80/1625356/coreurl.me/27131
+#EXTINF:-1 tvg-logo="http://z4.vc/Fl2" group-title="Canais | SporTV",SporTV 2 FHD
+http://psrv.io:80/1625356/coreurl.me/18763
+#EXTINF:-1 tvg-logo="http://z4.vc/JSJ" group-title="Canais | SporTV",SporTV 2 FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22168
+#EXTINF:-1 tvg-logo="http://z4.vc/7lY" group-title="Canais | SporTV",SporTV 2 HD
+http://psrv.io:80/1625356/coreurl.me/18561
+#EXTINF:-1 tvg-logo="http://z4.vc/P0b" group-title="Canais | SporTV",SporTV 2 SD
+http://psrv.io:80/1625356/coreurl.me/18562
+#EXTINF:-1 tvg-logo="http://z4.vc/dyY" group-title="Canais | SporTV",SporTV 3 FHD
+http://psrv.io:80/1625356/coreurl.me/18762
+#EXTINF:-1 tvg-logo="http://z4.vc/Ya4" group-title="Canais | SporTV",SporTV 3 FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22167
+#EXTINF:-1 tvg-logo="http://z4.vc/PUQ" group-title="Canais | SporTV",SporTV 3 HD
+http://psrv.io:80/1625356/coreurl.me/18559
+#EXTINF:-1 tvg-logo="http://z4.vc/GGG" group-title="Canais | SporTV",SporTV 3 SD
+http://psrv.io:80/1625356/coreurl.me/18560
+#EXTINF:-1 tvg-logo="http://z4.vc/y9H" group-title="Canais | SporTV",SporTV 4K
+http://psrv.io:80/1625356/coreurl.me/18439
+#EXTINF:-1 tvg-logo="http://z4.vc/ftu" group-title="Canais | SporTV",SporTV FHD
+http://psrv.io:80/1625356/coreurl.me/18761
+#EXTINF:-1 tvg-logo="http://z4.vc/SlI" group-title="Canais | SporTV",SporTV FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22166
+#EXTINF:-1 tvg-logo="http://z4.vc/ygd" group-title="Canais | SporTV",SporTV HD
+http://psrv.io:80/1625356/coreurl.me/18558
+#EXTINF:-1 tvg-logo="http://z4.vc/Ffl" group-title="Canais | SporTV",SporTV SD
+http://psrv.io:80/1625356/coreurl.me/18563
+#EXTINF:-1 tvg-logo="http://z4.vc/tDf" group-title="Canais | SporTV",SPORTV [4K]
+http://psrv.io:80/1625356/coreurl.me/26190
+#EXTINF:-1 tvg-logo="http://z4.vc/8f1" group-title="Canais | Filmes e Séries",Studio Universal FHD
+http://psrv.io:80/1625356/coreurl.me/18801
+#EXTINF:-1 tvg-logo="http://z4.vc/AiX" group-title="Canais | Filmes e Séries",Studio Universal FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22165
+#EXTINF:-1 tvg-logo="http://z4.vc/IU1" group-title="Canais | Filmes e Séries",Studio Universal HD
+http://psrv.io:80/1625356/coreurl.me/18556
+#EXTINF:-1 tvg-logo="http://z4.vc/6ft" group-title="Canais | Filmes e Séries",Studio Universal SD
+http://psrv.io:80/1625356/coreurl.me/18557
+#EXTINF:-1 tvg-logo="http://z4.vc/7Na" group-title="Canais | Filmes e Séries",Syfy FHD
+http://psrv.io:80/1625356/coreurl.me/18800
+#EXTINF:-1 tvg-logo="http://z4.vc/j1e" group-title="Canais | Filmes e Séries",Syfy FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22133
+#EXTINF:-1 tvg-logo="http://z4.vc/yWZ" group-title="Canais | Filmes e Séries",Syfy HD
+http://psrv.io:80/1625356/coreurl.me/18566
+#EXTINF:-1 tvg-logo="http://z4.vc/yZB" group-title="Canais | Filmes e Séries",Syfy SD
+http://psrv.io:80/1625356/coreurl.me/18567
+#EXTINF:-1 tvg-logo="http://z4.vc/RDY" group-title="Canais | Filmes e Séries",TBS FHD
+http://psrv.io:80/1625356/coreurl.me/18799
+#EXTINF:-1 tvg-logo="http://z4.vc/lAu" group-title="Canais | Filmes e Séries",TBS FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22164
+#EXTINF:-1 tvg-logo="http://z4.vc/lL4" group-title="Canais | Filmes e Séries",TBS HD
+http://psrv.io:80/1625356/coreurl.me/18554
+#EXTINF:-1 tvg-logo="http://z4.vc/6rM" group-title="Canais | Filmes e Séries",TBS SD
+http://psrv.io:80/1625356/coreurl.me/18555
+#EXTINF:-1 tvg-logo="http://z4.vc/9cn" group-title="Canais | Filmes e Séries",TCM SD
+http://psrv.io:80/1625356/coreurl.me/18553
+#EXTINF:-1 tvg-logo="http://z4.vc/cyv" group-title="Canais | Telecine",Telecine Action FHD
+http://psrv.io:80/1625356/coreurl.me/18760
+#EXTINF:-1 tvg-logo="http://z4.vc/bKl" group-title="Canais | Telecine",Telecine Action FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22163
+#EXTINF:-1 tvg-logo="http://z4.vc/wYg" group-title="Canais | Telecine",Telecine Action HD
+http://psrv.io:80/1625356/coreurl.me/18551
+#EXTINF:-1 tvg-logo="http://z4.vc/2ne" group-title="Canais | Telecine",Telecine Action SD
+http://psrv.io:80/1625356/coreurl.me/18552
+#EXTINF:-1 tvg-logo="http://z4.vc/KyT" group-title="Canais | Telecine",Telecine Cult FHD
+http://psrv.io:80/1625356/coreurl.me/18798
+#EXTINF:-1 tvg-logo="http://z4.vc/JWO" group-title="Canais | Telecine",Telecine Cult FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22162
+#EXTINF:-1 tvg-logo="http://z4.vc/cuv" group-title="Canais | Telecine",Telecine Cult HD
+http://psrv.io:80/1625356/coreurl.me/18549
+#EXTINF:-1 tvg-logo="http://z4.vc/BeC" group-title="Canais | Telecine",Telecine Cult SD
+http://psrv.io:80/1625356/coreurl.me/18550
+#EXTINF:-1 tvg-logo="http://z4.vc/d5H" group-title="Canais | Telecine",Telecine Fun FHD
+http://psrv.io:80/1625356/coreurl.me/18759
+#EXTINF:-1 tvg-logo="http://z4.vc/y6K" group-title="Canais | Telecine",Telecine Fun FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22161
+#EXTINF:-1 tvg-logo="http://z4.vc/7vJ" group-title="Canais | Telecine",Telecine Fun HD
+http://psrv.io:80/1625356/coreurl.me/18547
+#EXTINF:-1 tvg-logo="http://z4.vc/dpl" group-title="Canais | Telecine",Telecine Fun SD
+http://psrv.io:80/1625356/coreurl.me/18548
+#EXTINF:-1 tvg-logo="http://z4.vc/Sq4" group-title="Canais | Telecine",Telecine Pipoca FHD
+http://psrv.io:80/1625356/coreurl.me/18758
+#EXTINF:-1 tvg-logo="http://z4.vc/dl3" group-title="Canais | Telecine",Telecine Pipoca FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22160
+#EXTINF:-1 tvg-logo="http://z4.vc/8dT" group-title="Canais | Telecine",Telecine Pipoca HD
+http://psrv.io:80/1625356/coreurl.me/18545
+#EXTINF:-1 tvg-logo="http://z4.vc/qp8" group-title="Canais | Telecine",Telecine Pipoca SD
+http://psrv.io:80/1625356/coreurl.me/18546
+#EXTINF:-1 tvg-logo="http://z4.vc/ZYg" group-title="Canais | Telecine",Telecine Premium FHD
+http://psrv.io:80/1625356/coreurl.me/18757
+#EXTINF:-1 tvg-logo="http://z4.vc/4S2" group-title="Canais | Telecine",Telecine Premium FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22159
+#EXTINF:-1 tvg-logo="http://z4.vc/RwJ" group-title="Canais | Telecine",Telecine Premium HD
+http://psrv.io:80/1625356/coreurl.me/18543
+#EXTINF:-1 tvg-logo="http://z4.vc/jgo" group-title="Canais | Telecine",Telecine Premium SD
+http://psrv.io:80/1625356/coreurl.me/18544
+#EXTINF:-1 tvg-logo="http://z4.vc/lMo" group-title="Canais | Telecine",Telecine Touch FHD
+http://psrv.io:80/1625356/coreurl.me/18756
+#EXTINF:-1 tvg-logo="http://z4.vc/OhL" group-title="Canais | Telecine",Telecine Touch FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22158
+#EXTINF:-1 tvg-logo="http://z4.vc/jJj" group-title="Canais | Telecine",Telecine Touch HD
+http://psrv.io:80/1625356/coreurl.me/18541
+#EXTINF:-1 tvg-logo="http://z4.vc/c1M" group-title="Canais | Telecine",Telecine Touch SD
+http://psrv.io:80/1625356/coreurl.me/18542
+#EXTINF:-1 tvg-logo="http://z4.vc/poc" group-title="Canais | Abertos",Terra Viva SD
+http://psrv.io:80/1625356/coreurl.me/18540
+#EXTINF:-1 tvg-logo="http://z4.vc/a9V" group-title="Canais | Variedades",TLC FHD
+http://psrv.io:80/1625356/coreurl.me/18797
+#EXTINF:-1 tvg-logo="http://z4.vc/WoP" group-title="Canais | Variedades",TLC FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22128
+#EXTINF:-1 tvg-logo="http://z4.vc/fUs" group-title="Canais | Variedades",TLC HD
+http://psrv.io:80/1625356/coreurl.me/18538
+#EXTINF:-1 tvg-logo="http://z4.vc/r69" group-title="Canais | Variedades",TLC SD
+http://psrv.io:80/1625356/coreurl.me/18539
+#EXTINF:-1 tvg-logo="http://z4.vc/RrC" group-title="Canais | Filmes e Séries",TNT FHD
+http://psrv.io:80/1625356/coreurl.me/18796
+#EXTINF:-1 tvg-logo="http://z4.vc/94U" group-title="Canais | Filmes e Séries",TNT FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22157
+#EXTINF:-1 tvg-logo="http://z4.vc/C6Y" group-title="Canais | Filmes e Séries",TNT HD
+http://psrv.io:80/1625356/coreurl.me/18536
+#EXTINF:-1 tvg-logo="http://z4.vc/VGk" group-title="Canais | Filmes e Séries",TNT SD
+http://psrv.io:80/1625356/coreurl.me/18537
+#EXTINF:-1 tvg-logo="http://z4.vc/cM3" group-title="Canais | Filmes e Séries",TNT Series FHD
+http://psrv.io:80/1625356/coreurl.me/18795
+#EXTINF:-1 tvg-logo="http://z4.vc/KEC" group-title="Canais | Filmes e Séries",TNT Series FHD [H265]
+http://psrv.io:80/1625356/coreurl.me/22156
+#EXTINF:-1 tvg-logo="http://z4.vc/CVR" group-title="Canais | Filmes e Séries",TNT Series HD
+http://psrv.io:80/1625356/coreurl.me/18534
+#EXTINF:-1 tvg-logo="http://z4.vc/gQ3" group-title="Canais | Filmes e Séries",TNT Series SD
+http://psrv.io:80/1625356/coreurl.me/18535
+#EXTINF:-1 tvg-logo="http://z4.vc/8Sd" group-title="Canais | 4K",TNT SERIES [4K]
+http://psrv.io:80/1625356/coreurl.me/26696
+#EXTINF:-1 tvg-logo="http://z4.vc/SDg" group-title="Canais | 4K",TNT [4K]
+http://psrv.io:80/1625356/coreurl.me/26186
