@@ -45,7 +45,7 @@ http://198.255.23.18:2095/streams/102_.m3u8
 http://198.255.23.18:2095/streams/103_.m3u8
 #EXTINF:-1, Discovery kids
 http://198.255.23.18:2095/streams/138_.m3u8
-#EXTINF:-1,Discovery scient
+#EXTINF:-1,Discovery science
 http://198.255.23.18:2095/streams/121_.m3u8
 #EXTINF:-1, Discovery Theater
 http://198.255.23.18:2095/streams/104_.m3u8
