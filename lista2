@@ -11,7 +11,7 @@ http://198.255.23.18:2095/streams/98_.m3u8
 http://198.255.23.18:2095/streams/99_.m3u8
 #EXTINF:-1,Arte 1
 http://198.255.23.18:2095/streams/147_.m3u8
-#EXTINF:-1,Band
+#EXTINF:-1,Band tv
 http://198.255.23.18:2095/streams/13_.m3u8
 #EXTINF:-1,Baby tv
 http://198.255.23.18:2095/streams/126_.m3u8
@@ -53,11 +53,11 @@ http://198.255.23.18:2095/streams/104_.m3u8
 http://198.255.23.18:2095/streams/106_.m3u8
 #EXTINF:-1,discovery world
 http://198.255.23.18:2095/streams/108_.m3u8
-#EXTINF:-1,disney
+#EXTINF:-1,Disney
 http://198.255.23.18:2095/streams/129_.m3u8
-#EXTINF:-1,disney junior
+#EXTINF:-1,Disney junior
 http://198.255.23.18:2095/streams/130_.m3u8
-#EXTINF:-1,disney xd
+#EXTINF:-1,Disney XD
 http://198.255.23.18:2095/streams/131_.m3u8
 #EXTINF:-1,fx
 http://198.255.23.18:2095/streams/112_.m3u8
@@ -65,7 +65,7 @@ http://198.255.23.18:2095/streams/112_.m3u8
 http://198.255.23.18:2095/streams/113_.m3u8
 #EXTINF:-1,fish tv
 http://198.255.23.18:2095/streams/109_.m3u8
-#EXTINF:-1,food
+#EXTINF:-1,FOOD
 http://198.255.23.18:2095/streams/111_.m3u8
 #EXTINF:-1,fox
 http://198.255.23.18:2095/streams/161_.m3u8
@@ -121,7 +121,7 @@ http://198.255.23.18:2095/streams/169_.m3u8
 http://198.255.23.18:2095/streams/141_.m3u8
 #EXTINF:-1,mtv 
 http://198.255.23.18:2095/streams/142_.m3u8
-#EXTINF:-1,MAIS
+#EXTINF:-1,MAIS globosat
 http://198.255.23.18:2095/streams/151_.m3u8
 #EXTINF:-1,MAX
 http://198.255.23.18:2095/streams/195_.m3u8
@@ -183,7 +183,7 @@ http://198.255.23.18:2095/streams/201_.m3u8
 http://198.255.23.18:2095/streams/122_.m3u8
 #EXTINF:-1,tnt
 http://198.255.23.18:2095/streams/202_.m3u8
-#EXTINF:-1,tnt series
+#EXTINF:-1,tnt séries
 http://198.255.23.18:2095/streams/176_.m3u8
 #EXTINF:-1,aparecida
 http://198.255.23.18:2095/streams/38_.m3u8
@@ -193,41 +193,41 @@ http://198.255.23.18:2095/streams/39_.m3u8
 http://198.255.23.18:2095/streams/40_.m3u8
 #EXTINF:-1,tv justiça
 http://198.255.23.18:2095/streams/42_.m3u8
-#EXTINF:-1,ratimbum
+#EXTINF:-1,ra tim bum
 http://198.255.23.18:2095/streams/136_.m3u8
 #EXTINF:-1,tv senado
 http://198.255.23.18:2095/streams/44_.m3u8
 #EXTINF:-1,universal
 http://198.255.23.18:2095/streams/178_.m3u8
-#EXTINF:-1,tele cine action
+#EXTINF:-1,telecine action
 http://198.255.23.18:2095/streams/213_.m3u8
-#EXTINF:-1,tele cine action
+#EXTINF:-1,telecine action
 http://198.255.23.18:2095/streams/214_.m3u8
-#EXTINF:-1,tele cine cult
+#EXTINF:-1,telecine cult
 http://198.255.23.18:2095/streams/203_.m3u8
-#EXTINF:-1,tele cine cult
+#EXTINF:-1,telecine cult
 http://198.255.23.18:2095/streams/203_.m3u8
-#EXTINF:-1,tele cine fun
+#EXTINF:-1,telecine fun
 http://198.255.23.18:2095/streams/205_.m3u8
-#EXTINF:-1,tele cine fun
+#EXTINF:-1,telecine fun
 http://198.255.23.18:2095/streams/205_.m3u8
-#EXTINF:-1,tele cine pipoca
+#EXTINF:-1,telecine pipoca
 http://198.255.23.18:2095/streams/207_.m3u8
-#EXTINF:-1,tele cine pipoca
+#EXTINF:-1,telecine pipoca
 http://198.255.23.18:2095/streams/208_.m3u8
-#EXTINF:-1,tele cine premium
+#EXTINF:-1,telecine premium
 http://198.255.23.18:2095/streams/209_.m3u8
-#EXTINF:-1,tele cine premium
+#EXTINF:-1,telecine premium
 http://198.255.23.18:2095/streams/210_.m3u8
-#EXTINF:-1,tele cine touch
+#EXTINF:-1,telecine touch
 http://198.255.23.18:2095/streams/211_.m3u8
-#EXTINF:-1,tele cine touch
+#EXTINF:-1,telecine touch
 http://198.255.23.18:2095/streams/212_.m3u8
 #EXTINF:-1,vh1 hd
 http://198.255.23.18:2095/streams/145_.m3u8
 #EXTINF:-1,vh1
 http://198.255.23.18:2095/streams/146_.m3u8
-#EXTINF:-1,shoptime
+#EXTINF:-1,shop time
 http://198.255.23.18:2095/streams/152_.m3u8
 #EXTINF:-1,wb tv
 http://198.255.23.18:2095/streams/180_.m3u8
