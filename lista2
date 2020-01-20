@@ -3,7 +3,7 @@
 http://198.255.23.18:2095/streams/157_.m3u8
 #EXTINF:-1,AMC
 http://198.255.23.18:2095/streams/158_.m3u8
-#EXTINF:-1,ANX
+#EXTINF:-1,AXN
 http://198.255.23.18:2095/streams/181_.m3u8
 #EXTINF:-1,Animal Planet
 http://198.255.23.18:2095/streams/98_.m3u8
@@ -117,29 +117,29 @@ http://198.255.23.18:2095/streams/115_.m3u8
 http://198.255.23.18:2095/streams/223_.m3u8
 #EXTINF:-1,lifetime
 http://198.255.23.18:2095/streams/169_.m3u8
-#EXTINF:-1,mtv agora
+#EXTINF:-1,mtv 
 http://198.255.23.18:2095/streams/141_.m3u8
-#EXTINF:-1,mtv live
+#EXTINF:-1,mtv 
 http://198.255.23.18:2095/streams/142_.m3u8
-#EXTINF:-1,mais
+#EXTINF:-1,MAIS
 http://198.255.23.18:2095/streams/151_.m3u8
-#EXTINF:-1,max
+#EXTINF:-1,MAX
 http://198.255.23.18:2095/streams/195_.m3u8
-#EXTINF:-1,max
+#EXTINF:-1,MAX
 http://198.255.23.18:2095/streams/196_.m3u8
-#EXTINF:-1,max prime
+#EXTINF:-1,MAX prime
 http://198.255.23.18:2095/streams/197_.m3u8
 #EXTINF:-1,megapix
 http://198.255.23.18:2095/streams/171_.m3u8
-#EXTINF:-1,canal_76
+#EXTINF:-1,multishow
 http://198.255.23.18:2095/streams/143_.m3u8
 #EXTINF:-1,nat geo wind
 http://198.255.23.18:2095/streams/119_.m3u8
 #EXTINF:-1,nat geo wind
 http://198.255.23.18:2095/streams/119_.m3u8
-#EXTINF:-1,nat geo brasil
+#EXTINF:-1,nat geo 
 http://198.255.23.18:2095/streams/117_.m3u8
-#EXTINF:-1,nat geo brasil
+#EXTINF:-1,nat geo 
 http://198.255.23.18:2095/streams/118_.m3u8
 #EXTINF:-1,nick junior
 http://198.255.23.18:2095/streams/139_.m3u8
@@ -153,9 +153,9 @@ http://198.255.23.18:2095/streams/172_.m3u8
 http://198.255.23.18:2095/streams/61_.m3u8
 #EXTINF:-1,premiere
 http://198.255.23.18:2095/streams/62_.m3u8
-#EXTINF:-1,canal_88
+#EXTINF:-1,record
 http://198.255.23.18:2095/streams/29_.m3u8
-#EXTINF:-1,canal_89
+#EXTINF:-1,record
 http://198.255.23.18:2095/streams/30_.m3u8
 #EXTINF:-1,record news
 http://198.255.23.18:2095/streams/80_.m3u8
@@ -167,71 +167,71 @@ http://198.255.23.18:2095/streams/37_.m3u8
 http://198.255.23.18:2095/streams/160_.m3u8
 #EXTINF:-1,space
 http://198.255.23.18:2095/streams/200_.m3u8
-#EXTINF:-1,canal_96
+#EXTINF:-1,sportv
 http://198.255.23.18:2095/streams/70_.m3u8
-#EXTINF:-1,canal_98
+#EXTINF:-1,sportv 2
 http://198.255.23.18:2095/streams/72_.m3u8
-#EXTINF:-1,canal_99
+#EXTINF:-1,sportv 2
 http://198.255.23.18:2095/streams/73_.m3u8
-#EXTINF:-1,canal_101
+#EXTINF:-1,syfy
 http://198.255.23.18:2095/streams/174_.m3u8
-#EXTINF:-1,canal_102
+#EXTINF:-1,tbs
 http://198.255.23.18:2095/streams/175_.m3u8
-#EXTINF:-1,canal_103
+#EXTINF:-1,tmc
 http://198.255.23.18:2095/streams/201_.m3u8
-#EXTINF:-1,canal_104
+#EXTINF:-1,tlc
 http://198.255.23.18:2095/streams/122_.m3u8
-#EXTINF:-1,canal_105
+#EXTINF:-1,tnt
 http://198.255.23.18:2095/streams/202_.m3u8
-#EXTINF:-1,canal_106
+#EXTINF:-1,tnt series
 http://198.255.23.18:2095/streams/176_.m3u8
-#EXTINF:-1,canal_107
+#EXTINF:-1,aparecida
 http://198.255.23.18:2095/streams/38_.m3u8
-#EXTINF:-1,canal_108
+#EXTINF:-1,tv brasil
 http://198.255.23.18:2095/streams/39_.m3u8
-#EXTINF:-1,canal_109
+#EXTINF:-1,tv brasil
 http://198.255.23.18:2095/streams/40_.m3u8
-#EXTINF:-1,canal_110
+#EXTINF:-1,tv justiça
 http://198.255.23.18:2095/streams/42_.m3u8
-#EXTINF:-1,canal_111
+#EXTINF:-1,ratimbum
 http://198.255.23.18:2095/streams/136_.m3u8
-#EXTINF:-1,canal_112
+#EXTINF:-1,tv senado
 http://198.255.23.18:2095/streams/44_.m3u8
-#EXTINF:-1,canal_113
+#EXTINF:-1,universal
 http://198.255.23.18:2095/streams/178_.m3u8
-#EXTINF:-1,canal_114
+#EXTINF:-1,telecine action
 http://198.255.23.18:2095/streams/213_.m3u8
-#EXTINF:-1,canal_115
+#EXTINF:-1,telecine action
 http://198.255.23.18:2095/streams/214_.m3u8
-#EXTINF:-1,canal_116
+#EXTINF:-1,telecine cult
 http://198.255.23.18:2095/streams/203_.m3u8
-#EXTINF:-1,canal_117
+#EXTINF:-1,telecine cult
 http://198.255.23.18:2095/streams/203_.m3u8
-#EXTINF:-1,canal_118
+#EXTINF:-1,telecine fun
 http://198.255.23.18:2095/streams/205_.m3u8
-#EXTINF:-1,canal_119
+#EXTINF:-1,telecine fun
 http://198.255.23.18:2095/streams/205_.m3u8
-#EXTINF:-1,canal_120
+#EXTINF:-1,telecine pipoca
 http://198.255.23.18:2095/streams/207_.m3u8
-#EXTINF:-1,canal_121
+#EXTINF:-1,telecine pipoca
 http://198.255.23.18:2095/streams/208_.m3u8
-#EXTINF:-1,canal_122
+#EXTINF:-1,telecine premium
 http://198.255.23.18:2095/streams/209_.m3u8
-#EXTINF:-1,canal_123
+#EXTINF:-1,telecine premium
 http://198.255.23.18:2095/streams/210_.m3u8
-#EXTINF:-1,canal_124
+#EXTINF:-1,telecine touch
 http://198.255.23.18:2095/streams/211_.m3u8
-#EXTINF:-1,canal_125
+#EXTINF:-1,telecinetouch
 http://198.255.23.18:2095/streams/212_.m3u8
-#EXTINF:-1,canal_127
+#EXTINF:-1,vh1 hd
 http://198.255.23.18:2095/streams/145_.m3u8
 #EXTINF:-1,canal_128
 http://198.255.23.18:2095/streams/146_.m3u8
-#EXTINF:-1,canal_129
+#EXTINF:-1,shoptime
 http://198.255.23.18:2095/streams/152_.m3u8
-#EXTINF:-1,canal_131
+#EXTINF:-1,Warner Bros
 http://198.255.23.18:2095/streams/180_.m3u8
-#EXTINF:-1,canal_132
+#EXTINF:-1,woohoo
 http://198.255.23.18:2095/streams/154_.m3u8
-#EXTINF:-1,canal_133
+#EXTINF:-1,zoomoo
 http://198.255.23.18:2095/streams/137_.m3u8
