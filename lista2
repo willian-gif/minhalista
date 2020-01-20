@@ -43,11 +43,11 @@ http://198.255.23.18:2095/streams/20_.m3u8
 http://198.255.23.18:2095/streams/102_.m3u8
 #EXTINF:-1,discovery
 http://198.255.23.18:2095/streams/103_.m3u8
-#EXTINF:-1,kids
+#EXTINF:-1, Discovery kids
 http://198.255.23.18:2095/streams/138_.m3u8
-#EXTINF:-1,discovery sci
+#EXTINF:-1,Discovery scient
 http://198.255.23.18:2095/streams/121_.m3u8
-#EXTINF:-1,discovery theater
+#EXTINF:-1, Discovery Theater
 http://198.255.23.18:2095/streams/104_.m3u8
 #EXTINF:-1,discovery turbo
 http://198.255.23.18:2095/streams/106_.m3u8
