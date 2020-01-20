@@ -11,7 +11,7 @@ http://198.255.23.18:2095/streams/98_.m3u8
 http://198.255.23.18:2095/streams/99_.m3u8
 #EXTINF:-1,Arte 1
 http://198.255.23.18:2095/streams/147_.m3u8
-#EXTINF:-1,band
+#EXTINF:-1,Band
 http://198.255.23.18:2095/streams/13_.m3u8
 #EXTINF:-1,Baby tv
 http://198.255.23.18:2095/streams/126_.m3u8
@@ -23,7 +23,7 @@ http://198.255.23.18:2095/streams/46_.m3u8
 http://198.255.23.18:2095/streams/127_.m3u8
 #EXTINF:-1,canal brasil
 http://198.255.23.18:2095/streams/15_.m3u8
-#EXTINF:-1,canal_14
+#EXTINF:-1,canal rural
 http://198.255.23.18:2095/streams/17_.m3u8
 #EXTINF:-1,cartoon network
 http://198.255.23.18:2095/streams/128_.m3u8
@@ -97,7 +97,7 @@ http://198.255.23.18:2095/streams/133_.m3u8
 http://198.255.23.18:2095/streams/185_.m3u8
 #EXTINF:-1,hbo
 http://198.255.23.18:2095/streams/186_.m3u8
-#EXTINF:-1,canal_57
+#EXTINF:-1,hbo 2
 http://198.255.23.18:2095/streams/188_.m3u8
 #EXTINF:-1,hbo family
 http://198.255.23.18:2095/streams/193_.m3u8
@@ -111,7 +111,7 @@ http://198.255.23.18:2095/streams/191_.m3u8
 http://198.255.23.18:2095/streams/192_.m3u8
 #EXTINF:-1,history
 http://198.255.23.18:2095/streams/114_.m3u8
-#EXTINF:-1,canal_65
+#EXTINF:-1,NET
 http://198.255.23.18:2095/streams/115_.m3u8
 #EXTINF:-1,history 2
 http://198.255.23.18:2095/streams/223_.m3u8
@@ -221,11 +221,11 @@ http://198.255.23.18:2095/streams/209_.m3u8
 http://198.255.23.18:2095/streams/210_.m3u8
 #EXTINF:-1,telecine touch
 http://198.255.23.18:2095/streams/211_.m3u8
-#EXTINF:-1,telecinetouch
+#EXTINF:-1,telecine touch
 http://198.255.23.18:2095/streams/212_.m3u8
 #EXTINF:-1,vh1 hd
 http://198.255.23.18:2095/streams/145_.m3u8
-#EXTINF:-1,canal_128
+#EXTINF:-1,vh1
 http://198.255.23.18:2095/streams/146_.m3u8
 #EXTINF:-1,shoptime
 http://198.255.23.18:2095/streams/152_.m3u8
