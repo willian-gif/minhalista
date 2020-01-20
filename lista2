@@ -1,171 +1,171 @@
 #EXTM3U
-#EXTINF:-1,canal_1
+#EXTINF:-1,A&E
 http://198.255.23.18:2095/streams/157_.m3u8
-#EXTINF:-1,canal_2
+#EXTINF:-1,AMC
 http://198.255.23.18:2095/streams/158_.m3u8
-#EXTINF:-1,canal_3
+#EXTINF:-1,ANX
 http://198.255.23.18:2095/streams/181_.m3u8
-#EXTINF:-1,canal_4
+#EXTINF:-1,Animal Planet
 http://198.255.23.18:2095/streams/98_.m3u8
-#EXTINF:-1,canal_5
+#EXTINF:-1,Animal Planet
 http://198.255.23.18:2095/streams/99_.m3u8
-#EXTINF:-1,canal_6
+#EXTINF:-1,Arte 1
 http://198.255.23.18:2095/streams/147_.m3u8
-#EXTINF:-1,canal_9
+#EXTINF:-1,band
 http://198.255.23.18:2095/streams/13_.m3u8
-#EXTINF:-1,canal_8
+#EXTINF:-1,Baby tv
 http://198.255.23.18:2095/streams/126_.m3u8
-#EXTINF:-1,canal_10
+#EXTINF:-1,Band news
 http://198.255.23.18:2095/streams/85_.m3u8
-#EXTINF:-1,canal_11
+#EXTINF:-1,Band sports
 http://198.255.23.18:2095/streams/46_.m3u8
-#EXTINF:-1,canal_12
+#EXTINF:-1,Boomerang
 http://198.255.23.18:2095/streams/127_.m3u8
-#EXTINF:-1,canal_13
+#EXTINF:-1,canal brasil
 http://198.255.23.18:2095/streams/15_.m3u8
 #EXTINF:-1,canal_14
 http://198.255.23.18:2095/streams/17_.m3u8
-#EXTINF:-1,canal_15
+#EXTINF:-1,cartoon network
 http://198.255.23.18:2095/streams/128_.m3u8
-#EXTINF:-1,canal_16
+#EXTINF:-1,cinemax
 http://198.255.23.18:2095/streams/183_.m3u8
-#EXTINF:-1,canal_17
+#EXTINF:-1,cinemax
 http://198.255.23.18:2095/streams/184_.m3u8
-#EXTINF:-1,canal_18
+#EXTINF:-1,combate
 http://198.255.23.18:2095/streams/49_.m3u8
-#EXTINF:-1,canal_21
+#EXTINF:-1,cultura
 http://198.255.23.18:2095/streams/19_.m3u8
-#EXTINF:-1,canal_22
+#EXTINF:-1,curta
 http://198.255.23.18:2095/streams/20_.m3u8
-#EXTINF:-1,canal_23
+#EXTINF:-1,curta
 http://198.255.23.18:2095/streams/20_.m3u8
-#EXTINF:-1,canal_24
+#EXTINF:-1,discovery
 http://198.255.23.18:2095/streams/102_.m3u8
-#EXTINF:-1,canal_25
+#EXTINF:-1,discovery
 http://198.255.23.18:2095/streams/103_.m3u8
-#EXTINF:-1,canal_26
+#EXTINF:-1,kids
 http://198.255.23.18:2095/streams/138_.m3u8
-#EXTINF:-1,canal_27
+#EXTINF:-1,discovery sci
 http://198.255.23.18:2095/streams/121_.m3u8
-#EXTINF:-1,canal_28
+#EXTINF:-1,discovery theater
 http://198.255.23.18:2095/streams/104_.m3u8
-#EXTINF:-1,canal_29
+#EXTINF:-1,discovery turbo
 http://198.255.23.18:2095/streams/106_.m3u8
-#EXTINF:-1,canal_31
+#EXTINF:-1,discovery world
 http://198.255.23.18:2095/streams/108_.m3u8
-#EXTINF:-1,canal_32
+#EXTINF:-1,disney
 http://198.255.23.18:2095/streams/129_.m3u8
-#EXTINF:-1,canal_33
+#EXTINF:-1,disney junior
 http://198.255.23.18:2095/streams/130_.m3u8
-#EXTINF:-1,canal_34
+#EXTINF:-1,disney xd
 http://198.255.23.18:2095/streams/131_.m3u8
-#EXTINF:-1,canal_35
+#EXTINF:-1,fx
 http://198.255.23.18:2095/streams/112_.m3u8
-#EXTINF:-1,canal_36
+#EXTINF:-1,fx
 http://198.255.23.18:2095/streams/113_.m3u8
-#EXTINF:-1,canal_37
+#EXTINF:-1,fish tv
 http://198.255.23.18:2095/streams/109_.m3u8
-#EXTINF:-1,canal_38
+#EXTINF:-1,food
 http://198.255.23.18:2095/streams/111_.m3u8
-#EXTINF:-1,canal_39
+#EXTINF:-1,fox
 http://198.255.23.18:2095/streams/161_.m3u8
-#EXTINF:-1,canal_40
+#EXTINF:-1,fox
 http://198.255.23.18:2095/streams/162_.m3u8
-#EXTINF:-1,canal_41
+#EXTINF:-1,fox life
 http://198.255.23.18:2095/streams/163_.m3u8
-#EXTINF:-1,canal_42
+#EXTINF:-1,fox life
 http://198.255.23.18:2095/streams/164_.m3u8
-#EXTINF:-1,canal_43
+#EXTINF:-1,fox premium 1
 http://198.255.23.18:2095/streams/165_.m3u8
-#EXTINF:-1,canal_44
+#EXTINF:-1,fox premium 1
 http://198.255.23.18:2095/streams/166_.m3u8
-#EXTINF:-1,canal_45
+#EXTINF:-1,fox premium 2
 http://198.255.23.18:2095/streams/167_.m3u8
-#EXTINF:-1,canal_46
+#EXTINF:-1,fox premium 2
 http://198.255.23.18:2095/streams/168_.m3u8
-#EXTINF:-1,canal_47
+#EXTINF:-1,fox sports
 http://198.255.23.18:2095/streams/56_.m3u8
-#EXTINF:-1,canal_48
+#EXTINF:-1,gnt
 http://198.255.23.18:2095/streams/150_.m3u8
-#EXTINF:-1,canal_49
+#EXTINF:-1,globo
 http://198.255.23.18:2095/streams/22_.m3u8
-#EXTINF:-1,canal_52
+#EXTINF:-1,gloob
 http://198.255.23.18:2095/streams/132_.m3u8
-#EXTINF:-1,canal_53
+#EXTINF:-1,gloob
 http://198.255.23.18:2095/streams/133_.m3u8
-#EXTINF:-1,canal_54
+#EXTINF:-1,hbo
 http://198.255.23.18:2095/streams/185_.m3u8
-#EXTINF:-1,canal_55
+#EXTINF:-1,hbo
 http://198.255.23.18:2095/streams/186_.m3u8
 #EXTINF:-1,canal_57
 http://198.255.23.18:2095/streams/188_.m3u8
-#EXTINF:-1,canal_58
+#EXTINF:-1,hbo family
 http://198.255.23.18:2095/streams/193_.m3u8
-#EXTINF:-1,canal_59
+#EXTINF:-1,hbo family
 http://198.255.23.18:2095/streams/194_.m3u8
-#EXTINF:-1,canal_60
+#EXTINF:-1,hbo plus
 http://198.255.23.18:2095/streams/189_.m3u8
-#EXTINF:-1,canal_62
+#EXTINF:-1,hbo signature
 http://198.255.23.18:2095/streams/191_.m3u8
-#EXTINF:-1,canal_63
+#EXTINF:-1,hbo signature
 http://198.255.23.18:2095/streams/192_.m3u8
-#EXTINF:-1,canal_64
+#EXTINF:-1,history
 http://198.255.23.18:2095/streams/114_.m3u8
 #EXTINF:-1,canal_65
 http://198.255.23.18:2095/streams/115_.m3u8
-#EXTINF:-1,canal_66
+#EXTINF:-1,history 2
 http://198.255.23.18:2095/streams/223_.m3u8
-#EXTINF:-1,canal_68
+#EXTINF:-1,lifetime
 http://198.255.23.18:2095/streams/169_.m3u8
-#EXTINF:-1,canal_69
+#EXTINF:-1,mtv agora
 http://198.255.23.18:2095/streams/141_.m3u8
-#EXTINF:-1,canal_70
+#EXTINF:-1,mtv live
 http://198.255.23.18:2095/streams/142_.m3u8
-#EXTINF:-1,canal_71
+#EXTINF:-1,mais
 http://198.255.23.18:2095/streams/151_.m3u8
-#EXTINF:-1,canal_72
+#EXTINF:-1,max
 http://198.255.23.18:2095/streams/195_.m3u8
-#EXTINF:-1,canal_73
+#EXTINF:-1,max
 http://198.255.23.18:2095/streams/196_.m3u8
-#EXTINF:-1,canal_74
+#EXTINF:-1,max prime
 http://198.255.23.18:2095/streams/197_.m3u8
-#EXTINF:-1,canal_75
+#EXTINF:-1,megapix
 http://198.255.23.18:2095/streams/171_.m3u8
 #EXTINF:-1,canal_76
 http://198.255.23.18:2095/streams/143_.m3u8
-#EXTINF:-1,canal_78
+#EXTINF:-1,nat geo wind
 http://198.255.23.18:2095/streams/119_.m3u8
-#EXTINF:-1,canal_79
+#EXTINF:-1,nat geo wind
 http://198.255.23.18:2095/streams/119_.m3u8
-#EXTINF:-1,canal_80
+#EXTINF:-1,nat geo brasil
 http://198.255.23.18:2095/streams/117_.m3u8
-#EXTINF:-1,canal_81
+#EXTINF:-1,nat geo brasil
 http://198.255.23.18:2095/streams/118_.m3u8
-#EXTINF:-1,canal_82
+#EXTINF:-1,nick junior
 http://198.255.23.18:2095/streams/139_.m3u8
-#EXTINF:-1,canal_83
+#EXTINF:-1,nick
 http://198.255.23.18:2095/streams/135_.m3u8
-#EXTINF:-1,canal_84
+#EXTINF:-1,off
 http://198.255.23.18:2095/streams/59_.m3u8
-#EXTINF:-1,canal_85
+#EXTINF:-1,paramount
 http://198.255.23.18:2095/streams/172_.m3u8
-#EXTINF:-1,canal_86
+#EXTINF:-1,premiere
 http://198.255.23.18:2095/streams/61_.m3u8
-#EXTINF:-1,canal_87
+#EXTINF:-1,premiere
 http://198.255.23.18:2095/streams/62_.m3u8
 #EXTINF:-1,canal_88
 http://198.255.23.18:2095/streams/29_.m3u8
 #EXTINF:-1,canal_89
 http://198.255.23.18:2095/streams/30_.m3u8
-#EXTINF:-1,canal_90
+#EXTINF:-1,record news
 http://198.255.23.18:2095/streams/80_.m3u8
-#EXTINF:-1,canal_92
+#EXTINF:-1,rede tv
 http://198.255.23.18:2095/streams/34_.m3u8
-#EXTINF:-1,canal_93
+#EXTINF:-1,sbt
 http://198.255.23.18:2095/streams/37_.m3u8
-#EXTINF:-1,canal_94
+#EXTINF:-1,sony
 http://198.255.23.18:2095/streams/160_.m3u8
-#EXTINF:-1,canal_95
+#EXTINF:-1,space
 http://198.255.23.18:2095/streams/200_.m3u8
 #EXTINF:-1,canal_96
 http://198.255.23.18:2095/streams/70_.m3u8
