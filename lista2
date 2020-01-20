@@ -229,7 +229,7 @@ http://198.255.23.18:2095/streams/145_.m3u8
 http://198.255.23.18:2095/streams/146_.m3u8
 #EXTINF:-1,shoptime
 http://198.255.23.18:2095/streams/152_.m3u8
-#EXTINF:-1,Warner Bros
+#EXTINF:-1,wb tv
 http://198.255.23.18:2095/streams/180_.m3u8
 #EXTINF:-1,woohoo
 http://198.255.23.18:2095/streams/154_.m3u8
