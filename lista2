@@ -199,29 +199,29 @@ http://198.255.23.18:2095/streams/136_.m3u8
 http://198.255.23.18:2095/streams/44_.m3u8
 #EXTINF:-1,universal
 http://198.255.23.18:2095/streams/178_.m3u8
-#EXTINF:-1,telecine action
+#EXTINF:-1,tele cine action
 http://198.255.23.18:2095/streams/213_.m3u8
-#EXTINF:-1,telecine action
+#EXTINF:-1,tele cine action
 http://198.255.23.18:2095/streams/214_.m3u8
-#EXTINF:-1,telecine cult
+#EXTINF:-1,tele cine cult
 http://198.255.23.18:2095/streams/203_.m3u8
-#EXTINF:-1,telecine cult
+#EXTINF:-1,tele cine cult
 http://198.255.23.18:2095/streams/203_.m3u8
-#EXTINF:-1,telecine fun
+#EXTINF:-1,tele cine fun
 http://198.255.23.18:2095/streams/205_.m3u8
-#EXTINF:-1,telecine fun
+#EXTINF:-1,tele cine fun
 http://198.255.23.18:2095/streams/205_.m3u8
-#EXTINF:-1,telecine pipoca
+#EXTINF:-1,tele cine pipoca
 http://198.255.23.18:2095/streams/207_.m3u8
-#EXTINF:-1,telecine pipoca
+#EXTINF:-1,tele cine pipoca
 http://198.255.23.18:2095/streams/208_.m3u8
-#EXTINF:-1,telecine premium
+#EXTINF:-1,tele cine premium
 http://198.255.23.18:2095/streams/209_.m3u8
-#EXTINF:-1,telecine premium
+#EXTINF:-1,tele cine premium
 http://198.255.23.18:2095/streams/210_.m3u8
-#EXTINF:-1,telecine touch
+#EXTINF:-1,tele cine touch
 http://198.255.23.18:2095/streams/211_.m3u8
-#EXTINF:-1,telecine touch
+#EXTINF:-1,tele cine touch
 http://198.255.23.18:2095/streams/212_.m3u8
 #EXTINF:-1,vh1 hd
 http://198.255.23.18:2095/streams/145_.m3u8
