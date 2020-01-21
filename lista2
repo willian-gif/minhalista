@@ -225,7 +225,7 @@ http://198.255.23.18:2095/streams/211_.m3u8
 http://198.255.23.18:2095/streams/212_.m3u8
 #EXTINF:-1,vh1 hd
 http://198.255.23.18:2095/streams/145_.m3u8
-#EXTINF:-1,vh1
+#EXTINF:-1,vh1 mega hits
 http://198.255.23.18:2095/streams/146_.m3u8
 #EXTINF:-1,shop time
 http://198.255.23.18:2095/streams/152_.m3u8
