@@ -68,7 +68,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,PREMIERE
 https://globolive.akamaized.net/d/c/x2800/s/hls-pfc124ha/hls-pfc124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,BBB20 FHD
-http://lista.serverpower.me:80/live/923349/923349/50404.m3u8
-#EXTINF:-1,BBB20 HD
-http://lista.serverpower.me:80/live/923349/923349/50493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB HD" tvg-logo="https://i.imgur.com/F7J0WRX.png" group-title="BIG BROTHER BRASIL",BBB HD
+http://cms-central.co:80/kaiokaio02/951417943/59580
+
