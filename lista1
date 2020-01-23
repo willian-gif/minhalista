@@ -36,8 +36,6 @@ http://video-auth7.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
 https://ptiptv.tk/logo?i=RTPM
 #EXTINF:-1,rtp.pt
 http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1,TVU
-http://stmv1.ifantasy.com.br:1935/tvu/tvu/playlist.m3u8
 #EXTINF:-1,TOP TV
 https://5d23bdca513db.streamlock.net:443/8006/8006/playlist.m3u8
 #EXTINF:-1,VIVA
