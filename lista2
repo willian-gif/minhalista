@@ -1,9 +1,8 @@
 #EXTM3U
  
-
- 
 #EXTINF:-1,Baby tv
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/13.m3u8
+#EXTINF:-1,Baby tv
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/14.m3u8
  
 #EXTINF:-1,Boomerang
