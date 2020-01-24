@@ -110,8 +110,8 @@ http://tvnanet.xyz:25461/live/palmeiras/semmundial/283.m3u8
 #EXTINF:-1,Fox Sports 2
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/87.m3u8
 #EXTINF:-1,Fox Sports 2
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/88.m3u8#EXTINF:-1,Fox Sports 2
-
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/88.m3u8
+#EXTINF:-1,Fox Sports 2
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/282.m3u8
  
 #EXTINF:-1,Premiere
@@ -493,7 +493,7 @@ http://tvnanet.xyz:25461/live/palmeiras/semmundial/152.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/163.m3u8
 #EXTINF:-1,MTV
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/164.m3u8
-
+#EXTINF:-1,MTV
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/165.m3u8
  
 #EXTINF:-1,Multishow
