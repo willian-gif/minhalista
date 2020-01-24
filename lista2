@@ -324,7 +324,6 @@ http://tvnanet.xyz:25461/live/palmeiras/semmundial/07.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/08.m3u8
 #EXTINF:-1,Animal Planet
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/270.m3u8
- 
 #EXTINF:-1,DOGTV
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/09.m3u8
 #EXTINF:-1,DOGTV
@@ -343,6 +342,7 @@ http://tvnanet.xyz:25461/live/palmeiras/semmundial/275.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/44.m3u8
 #EXTINF:-1,HGTV
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/45.m3u8
+#EXTINF:-1,HGTV
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/276.m3u8
 #EXTINF:-1,Home & Health
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/46.m3u8
