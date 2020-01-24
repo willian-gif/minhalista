@@ -1,6 +1,6 @@
 #EXTM3U
  
-Infantil
+
  
 #EXTINF:-1,Baby tv
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/13.m3u8
@@ -57,8 +57,6 @@ http://tvnanet.xyz:25461/live/palmeiras/semmundial/255.m3u8
  
 #EXTINF:-1,Zoomoo
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/268.m3u8
-----------------------------------------------------------------------
-Esportes
  
 #EXTINF:-1,Band Sports
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/21.m3u8
@@ -125,9 +123,7 @@ http://tvnanet.xyz:25461/live/palmeiras/semmundial/302.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/267.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/269.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/266.m3u8
-----------------------------------------------------------------------
-Filmes e Series
- 
+
 #EXTINF:-1,AMC
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/05.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/06.m3u8
@@ -288,8 +284,7 @@ http://tvnanet.xyz:25461/live/palmeiras/semmundial/258.m3u8
 #EXTINF:-1,Warner
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/264.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/265.m3u8
-----------------------------------------------------------------------
-Variedades e Documentarios
+
  
 #EXTINF:-1,Big Brother Brasil
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/02.m3u8
@@ -414,8 +409,6 @@ http://tvnanet.xyz:25461/live/palmeiras/semmundial/261.m3u8
 #EXTINF:-1,Viva
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/262.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/263.m3u8
-----------------------------------------------------------------------
-Noticias
  
 #EXTINF:-1,Band News
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/16.m3u8
@@ -428,9 +421,7 @@ http://tvnanet.xyz:25461/live/palmeiras/semmundial/106.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/206.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/207.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/298.m3u8
-----------------------------------------------------------------------
 
-Esportes
  
 #EXTINF:-1,All Sports
 https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist.m3u8
