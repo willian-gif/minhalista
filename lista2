@@ -2,42 +2,42 @@
  
 Infantil
  
-Baby tv
+#EXTINF:-1,Baby tv
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/13.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/14.m3u8
  
-Boomerang
+#EXTINF:-1,Boomerang
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/25.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/26.m3u8
  
-Cartoon Network
+#EXTINF:-1,Cartoon Network
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/28.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/29.m3u8
  
-Discovery Kids
+#EXTINF:-1,Discovery Kids
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/48.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/49.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/278.m3u8
  
-Disney Channel
+#EXTINF:-1,Disney Channel
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/60.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/61.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/279.m3u8
  
-Disney Junior
+#EXTINF:-1,Disney Junior
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/62.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/63.m3u8
  
-Disney XD
+#EXTINF:-1,Disney XD
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/64.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/65.m3u8
  
-Gloob
+#EXTINF:-1,Gloob
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/129.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/130.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/284.m3u8
  
-Nat Geo Kids
+#EXTINF:-1,Nat Geo Kids
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/169.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/170.m3u8
  
@@ -46,53 +46,53 @@ http://tvnanet.xyz:25461/live/palmeiras/semmundial/175.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/176.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/292.m3u8
  
-Nickelodeon
+#EXTINF:-1,Nickelodeon
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/177.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/178.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/293.m3u8
  
-Tooncast
+#EXTINF:-1,Tooncast
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/254.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/255.m3u8
  
-Zoomoo
+#EXTINF:-1,Zoomoo
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/268.m3u8
 ----------------------------------------------------------------------
 Esportes
  
-Band Sports
+#EXTINF:-1,Band Sports
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/21.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/22.m3u8
  
-Combate
+#EXTINF:-1,Combate
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/33.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/34.m3u8
  
-Espn
+#EXTINF:-1,Espn
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/69.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/70.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/73.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/74.m3u8
  
-Espn Extra
+#EXTINF:-1,Espn Extra
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/68.m3u8
  
-Espn Brasil
+#EXTINF:-1,Espn Brasil
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/71.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/72.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/281.m3u8
  
-Fox Sports
+#EXTINF:-1,Fox Sports
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/89.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/90.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/283.m3u8
  
-Fox Sports 2
+#EXTINF:-1,Fox Sports 2
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/87.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/88.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/282.m3u8
  
-Premiere
+#EXTINF:-1,Premiere
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/186.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/187.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/188.m3u8
@@ -106,37 +106,37 @@ http://tvnanet.xyz:25461/live/palmeiras/semmundial/199.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/295.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/297.m3u8
  
-Sportv
+#EXTINF:-1,Sportv
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/230.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/231.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/303.m3u8
  
-Sportv 2
+#EXTINF:-1,Sportv 2
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/226.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/227.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/301.m3u8
  
-Sportv 3
+#EXTINF:-1,Sportv 3
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/228.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/229.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/302.m3u8
  
-Woohoo
+#EXTINF:-1,Woohoo
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/267.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/269.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/266.m3u8
 ----------------------------------------------------------------------
 Filmes e Series
  
-AMC
+#EXTINF:-1,AMC
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/05.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/06.m3u8
  
-A&E
+#EXTINF:-1,A&E
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/03.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/04.m3u8
  
-AXN
+#EXTINF:-1,AXN
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/11.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/12.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/271.m3u8
@@ -150,127 +150,127 @@ Cinemax
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/30.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/31.m3u8
  
-Comedy Central
+#EXTINF:-1,Comedy Central
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/35.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/36.m3u8
  
-Curta!
+#EXTINF:-1,Curta!
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/39.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/40.m3u8
  
-Fox Life
+#EXTINF:-1,Fox Life
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/80.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/81.m3u8
  
-Fox Premium 1
+#EXTINF:-1,Fox Premium 1
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/82.m3u8
  
-Fox Premium 2
+#EXTINF:-1,Fox Premium 2
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/83.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/84.m3u8
  
-FX
+#EXTINF:-1,FX
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/85.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/93.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/94.m3u8
  
-HBO
+#EXTINF:-1,HBO
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/139.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/144.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/287.m3u8
  
-HBO 2
+#EXTINF:-1,HBO 2
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/135.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/136.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/285.m3u8
  
-HBO+
+#EXTINF:-1,HBO+
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/140.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/141.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/142.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/143.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/288.m3u8
  
-HBO Family
+#EXTINF:-1,HBO Family
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/137.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/138.m3u8
  
-HBO Signature
+#EXTINF:-1,HBO Signature
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/145.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/146.m3u8
  
-Max
+#EXTINF:-1,Max
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/153.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/158.m3u8
  
-Max Prime
+#EXTINF:-1,Max Prime
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/154.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/155.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/156.m3u8
  
-Max UP
+#EXTINF:-1,Max UP
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/159.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/160.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/289.m3u8
  
-Megapix
+#EXTINF:-1,Megapix
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/161.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/162.m3u8
  
-Paramount Channel
+#EXTINF:-1,Paramount Channel
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/182.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/183.m3u8
  
-Sony
+#EXTINF:-1,Sony
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/222.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/223.m3u8
  
-Space
+#EXTINF:-1,Space
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/224.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/225.m3u8
  
-Studio Universal
+#EXTINF:-1,Studio Universal
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/232.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/233.m3u8
  
-Syfy
+#EXTINF:-1,Syfy
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/234.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/235.m3u8
  
-TBS
+#EXTINF:-1,TBS
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/236.m3u8
  
-TCM
+#EXTINF:-1,TCM
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/237.m3u8
  
-Telecine Action
+#EXTINF:-1,Telecine Action
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/238.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/239.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/304.m3u8
  
-Telecine Cult
+#EXTINF:-1,Telecine Cult
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/240.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/241.m3u8
  
-Telecine Fun
+#EXTINF:-1,Telecine Fun
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/242.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/243.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/305.m3u8
  
-Telecine Pipoca
+#EXTINF:-1,Telecine Pipoca
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/244.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/245.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/306.m3u8
  
-Telecine Premium
+#EXTINF:-1,Telecine Premium
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/246.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/247.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/307.m3u8
  
-Telecine Touch
+#EXTINF:-1,Telecine Touch
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/249.m3u8
  
-TNT
+#EXTINF:-1,TNT
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/248.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/250.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/252.m3u8
@@ -281,2107 +281,173 @@ TNT Series
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/251.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/253.m3u8
  
-Universal Channel
+#EXTINF:-1,Universal Channel
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/257.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/258.m3u8
  
-Warner
+#EXTINF:-1,Warner
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/264.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/265.m3u8
 ----------------------------------------------------------------------
 Variedades e Documentarios
  
-Big Brother Brasil
+#EXTINF:-1,Big Brother Brasil
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/02.m3u8
  
-Animal Planet
+#EXTINF:-1,Animal Planet
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/07.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/08.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/270.m3u8
  
-DOGTV
+#EXTINF:-1,DOGTV
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/09.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/10.m3u8
  
-Bis
+#EXTINF:-1,Bis
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/23.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/24.m3u8
  
-Discovery Channel
+#EXTINF:-1,Discovery Channel
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/42.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/43.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/275.m3u8
  
-HGTV
+#EXTINF:-1,HGTV
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/44.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/45.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/276.m3u8
  
-Home & Health
+#EXTINF:-1,Home & Health
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/46.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/47.m3u8
  
-Discovery Science
+#EXTINF:-1,Discovery Science
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/50.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/51.m3u8
  
-Discovery Teather
+#EXTINF:-1,Discovery Teather
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/52.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/277.m3u8
  
-TLC
+#EXTINF:-1,TLC
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/54.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/55.m3u8
  
-Discovery Turbo
+#EXTINF:-1,Discovery Turbo
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/56.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/274.m3u8
  
-Discovery World
+#EXTINF:-1,Discovery World
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/58.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/59.m3u8
  
-E!
+#EXTINF:-1,E!
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/66.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/67.m3u8
  
-Fish tv
+#EXTINF:-1,Fish tv
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/75.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/76.m3u8
  
-Food Network
+#EXTINF:-1,Food Network
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/77.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/78.m3u8
  
-Mais Globosat
+#EXTINF:-1,Mais Globosat
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/127.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/128.m3u8
  
-GNT
+#EXTINF:-1,GNT
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/131.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/132.m3u8
  
-History
+#EXTINF:-1,History
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/147.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/148.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/309.m3u8
  
-History 2
+#EXTINF:-1,History 2
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/133.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/134.m3u8
  
-ID
+#EXTINF:-1,ID
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/149.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/150.m3u8
  
-Life Time
+#EXTINF:-1,Life Time
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/151.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/152.m3u8
  
-MTV
+#EXTINF:-1,MTV
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/163.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/164.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/165.m3u8
  
-Multishow
+#EXTINF:-1,Multishow
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/166.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/167.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/290.m3u8
  
-Wild
+#EXTINF:-1,Wild
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/171.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/172.m3u8
  
-National Geographic
+#EXTINF:-1,National Geographic
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/173.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/174.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/291.m3u8
  
-Hope
+H#EXTINF:-1,ope
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/179.m3u8
  
-OFF
+#EXTINF:-1,OFF
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/180.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/181.m3u8
  
-Play tv
+#EXTINF:-1,Play tv
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/184.m3u8
  
-VH1
+#EXTINF:-1,VH1
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/260.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/261.m3u8
  
-Viva
+#EXTINF:-1,Viva
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/262.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/263.m3u8
 ----------------------------------------------------------------------
 Noticias
  
-Band News
+#EXTINF:-1,Band News
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/16.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/17.m3u8
  
-Globo News
+#EXTINF:-1,Globo News
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/106.m3u8
  
-Record News
+#EXTINF:-1,Record News
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/206.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/207.m3u8
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/298.m3u8
 ----------------------------------------------------------------------
-Abertos
- 
-Tve
-https://video-rvd-lmg.rnp.br/live/ocp(t(FepcWEEt9yM)r(TOqkzw)a(s-wh5A)p(d(lCo)k(oww)m(Q3dgevNHTnhpVLsbObJlVA)n(a(jVnmWA)s(3pw)'a(J8z2mQ)s(ATw)))s(s(5j0)b(z8Z_WzfwdeYL0ydjRgHRgvVoh2WW_apHO_KOY_2e-z9S95p7ADKRwXxzNld68MGN_dRxFVmc0GFkRmwE5A)'s(DFY)b(s-85Q-mHKqmxfYKNGr4VuJxGjVAb4Xy3oLnCFf9zpLTmLTw2sZfDbAzKF0qwRBPK_Zs_IaDhXcNBbWjnSfbFKE3db1i3IJmb3ouRO6bP)'s(WnE)b(pYKQERRr))m(0))/25_index.m3u8
- 
-Globo
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/32.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/95.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/96.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/97.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/98.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/99.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/100.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/101.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/102.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/103.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/104.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/105.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/107.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/108.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/110.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/111.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/112.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/113.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/114.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/115.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/116.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/117.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/118.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/119.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/120.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/121.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/122.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/123.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/124.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/125.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/126.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/168.m3u8
- 
-Rede tv
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/212.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/213.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/214.m3u8
- 
-Band
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/15.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/19.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/20.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/272.m3u8
- 
-CNT
-https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_1080_av-b.m3u8?sd=10&rebase=on
- 
-SBT
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/216.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/219.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/217.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/218.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/300.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/191.m3u8
- 
-Record
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/200.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/201.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/202.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/203.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/204.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/205.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/208.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/209.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/210.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/299.m3u8
- 
-Futura
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/27.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/91.m3u8
- 
-Rede Vida
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/211.m3u8
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/215.m3u8
- 
-Gazeta
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/256.m3u8
- 
-Tv Cultura
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
-----------------------------------------------------------------------
-Cameras ao Vivo
- 
-Fundo do Mar
-https://videos-3.earthcam.com/fecnetwork/nabtrcam1.flv/chunklist_w1579200956.m3u8
- 
-Beira Rio
-https://ipc-12.camerite.com/1dia/68312810-d63a-11e9-97ef-f9e998396b64.stream/chunklist.m3u8
- 
-Residencias
-https://ipc-90.camerite.com/7dias/f74903c0-d608-11e8-bcff-b73f9626d502.stream/chunklist.m3u8
- 
-Rua de Sao Paulo
-https://dj73o2te2agi7.cloudfront.net/a1/14297.stream/str6/chunklist_tkbV9oYXNoPUpTeHc1TG56blVPRTMxLUtJc2Q2ZGk3SjdNODNYRzl0RW92M042Rm9paEE9.m3u8
- 
-San Tiago
-https://edge01.balticlivecam.com/blc/p_CL_Santiago_San_Cristobal/tracks-v1/mono.m3u8?token=f904bb4ec398536a6fe1f02469020359%3A1579484978632
- 
-Ponte Lago
-https://edge01.balticlivecam.com/blc/RadissonDaugava/tracks-v1/mono.m3u8?token=b6065a5d781ca7e326359526f28a78a9%3A1579485205392
- 
-Balticlive
-https://edge01.balticlivecam.com/blc/rigaPanorama/tracks-v1/mono.m3u8?token=60db293376325953c7ed423b3300a768%3A1579485246680
- 
-Praia de Copacabana
-https://cdn.jmvstream.com/w/IPC-6849/camera.stream/chunklist_w514710453.m3u8
- 
-Barra da Lagoa
-https://cdn.jmvstream.com/w/IPC-6871/camera.stream/chunklist_w1679486663.m3u8
- 
-Praia
-http://vid1.streaming.websul.net.br:1935/live/ods-paradouro.stream/chunklist_w1423018578.m3u8
- 
-Ondas do Sul
-http://vid1.streaming.websul.net.br:1935/live/ods-capao.stream/chunklist_w1278813524.m3u8
- 
-Pracinha
-http://vid1.streaming.websul.net.br:1935/live/ods-cidreira.stream/chunklist_w1241802971.m3u8
- 
-Piscinas
-http://stream.tmr.sk:1935/tmr/STREAM35.stream/chunklist_w1749310353.m3u8
- 
-Parque
-https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w240799283.m3u8
- 
-Paqueta
-https://ipc-71.camerite.com/1dia/1c4005b0-87bc-11e9-b90d-613126be2cbe.stream/chunklist.m3u8
- 
-Jerusalem
-http://185.23.131.61/hls/jame_2.m3u8
- 
-Aeroporto Genoveva
-https://5a7bcfb834235.streamlock.net/aeroportogyn/aeroportogyn.stream/chunklist_w1949929400.m3u8
- 
-Tigre
-https://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/playlist.m3u8?wowzasessionid=815286778
- 
-Urso Panda
-https://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/playlist.m3u8?wowzasessionid=169076367
- 
-Urso Polar
-https://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/playlist.m3u8?wowzasessionid=1498930921
- 
-Elefantes
-https://elephants.hls.camzonecdn.com/CamzoneStreams/elephants/playlist.m3u8?wowzasessionid=1012462502
- 
-Pinguins
-https://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/playlist.m3u8?wowzasessionid=1531645538
- 
-Koala
-https://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/playlist.m3u8?wowzasessionid=1998812154
- 
-Temple Bar
-https://videos3.earthcam.com/fecnetwork/4054.flv/chunklist_w1506349469.m3u8?t=twSyMQd7qrv37ckLWYQ4PmZRq3xDWHSsKjJN1jS%2Fvg4%3D
- 
-Praia Beach
-https://58cbb629e4547.streamlock.net/TikiBeachBayFeed/TikiBeachBayFeed.stream/chunklist_w1436537173.m3u8
- 
-FM O Dia
-https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
- 
-CBN SP
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
- 
-CBN RJ
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
- 
-Hotel Colorado
-https://2-fss-2.streamhoster.com/pl_126/200612-1195856-1/chunklist.m3u8
- 
-Pico do Gaviao
-https://cdn.jmvstream.com/w/IPC-6753/camera.stream/chunklist_w643663240.m3u8
- 
-Macacos
-https://ape.hls.camzonecdn.com/CamzoneStreams/ape/playlist.m3u8?wowzasessionid=1478790169
- 
-SHOWS
-https://58cbb629e4547.streamlock.net/TikiBeachBayFeed/TikiBeachBayFeed.stream/chunklist_w1436537173.m3u8
- 
-Cristo Redentor
-https://cdn.jmvstream.com/w/LVW-8205/LVW8205_eilkbMsDoM/chunklist_w6632819.m3u8
-----------------------------------------------------------------------
-Adultos +18
- 
-Playboy
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/185.m3u8
- 
-Venus
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/259.m3u8
- 
-Sextreme
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/220.m3u8
- 
-Sex Hot
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/221.m3u8
- 
-Call Porn
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO
- 
-Clip Hustler Porn
-http://www.hustlertv.eu/video/video_europe.mp4
-----------------------------------------------------------------------
-TV CXTV
- 
-Infantil
- 
-Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
- 
-Gospel Cartoon
-https://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=1307769424
- 
-Milk Tv
-https://stmv1.srvst.com/redesatnet/redesatnet/playlist.m3u8?wowzasessionid=1205648951
- 
-3ABN Kids
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
- 
-Sat 7 Kids
-https://unirtmp.tulix.tv/sat7kids/satkidslive-web.smil/chunklist_w1098762578_b1000000.m3u8
- 
-Ric
-https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/chunklist_w1096549582.m3u8
- 
-TRT Cocuk
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_720p_av-b.m3u8?sd=10&rebase=on
- 
-TV Caminho da Luz
-http://wse01.logicahost.com.br:1935/tvacaminhodaluz/_definst_/tvacaminhodaluz/chunklist_w1552146662.m3u8
-===================================
+
 Esportes
  
-All Sports
+#EXTINF:-1,All Sports
 https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist.m3u8
  
-Red Bull
+#EXTINF:-1,Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
  
-Real Madrid Tv
+#EXTINF:-1,Real Madrid Tv
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
  
-Blue tv
+#EXTINF:-1,Blue tv
 http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/chunklist_w1677843365.m3u8
  
-TV Dubai Racing
+#EXTINF:-1,TV Dubai Racing
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
  
-BFM SPORTS
+#EXTINF:-1,BFM SPORTS
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
  
-TJK
-http://tjktv.ercdn.net/tjktv_1080p.m3u8
-===================================
-Filmes e Series
- 
-Cine+
-https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist.m3u8
- 
-Tv Aracati
-https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
- 
-Tv Imperial
-https://5b7f3c45ab7c2.streamlock.net/8002/8002/chunklist_w489091346_DVR.m3u8
- 
-Tv j Sid
-https://stmv3.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1110193081
- 
-Gospel Movie
-https://stmv1.ifantasy.com.br/gospelf/gospelf/playlist-480.m3u8?wowzasessionid=143818328
- 
-Tv Guarany
-http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8?wowzasessionid=1890861779
- 
-Classique Tv
-https://stmv1.ifantasy.com.br/classique/classique/playlist.m3u8?wowzasessionid=1846045601
- 
-Tv Capital 777
-https://59f2354c05961.streamlock.net:1443/tvcapital/_definst_/tvcapital/chunklist.m3u8
- 
-Tv Que demais
-https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/chunklist.m3u8
- 
-Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
- 
-Rio Largo
-https://stmv1.mycast.com.br/tvriolargo/tvriolargo/chunklist.m3u8?wowzasessionid=432413140
- 
-Tve Boa Esperanca
-http://stmv2.srvstm.com/16692/16692/playlist.m3u8
- 
-Tv Carioca Net
-https://5d2c98775bafe.streamlock.net/8180/8180/chunklist.m3u8
- 
-Tv Metropolitana Rio
-https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w385369272.m3u8
- 
-Tv Beltrão
-https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/chunklist_w1136176074.m3u8
- 
-Tv UFG
-http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w580922050_b1544100_sleng.m3u8
- 
-TRT 1
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_720p_av-b.m3u8?sd=10&rebase=on
- 
-UCSG
-http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist_w1671105487.m3u8
- 
-RTV San Marino
-https://dlxommsyqo2g0.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
- 
-TV Agua Boa
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w151338827.m3u8
- 
-Cine Filmes 4
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
-===================================
-Variedades e Documentarios
- 
-Istv
-https://cdn.jmvstream.com/w/oscarito/_definst_/oscarito/chunklist.m3u8
- 
-Tv Pantanal
-https://stream1.asaweb.com.br:444/tvpantanalms/tvpantanalms/chunks.m3u8
- 
-Tv Birigui
-https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
- 
-Tv Destak
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1071480912.m3u8
- 
-Marica Tv
-https://5abdf4edae5bf.streamlock.net/maricatvstation/maricatvstation/chunklist.m3u8
- 
-Tv Liberdade
-https://5c483b9d1019c.streamlock.net/8238/8238/chunklist.m3u8
- 
-Rede Familia
-https://redefamilia.cdnverizon.com.br/tvstreaming/ngrp:aovivo_all/chunklist_b2456138.m3u8
- 
-Ln Tv
-https://59f2354c05961.streamlock.net:1443/intv02/_definst_/intv02/chunklist_w1082510289.m3u8
- 
-Ru Tv
-https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
- 
-Wts Tv Minas
-https://livefocamundo.com:8081/8200/tracks-v1a1/mono.m3u8
- 
-Tv Clima
-https://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8?wowzasessionid=1707044331
- 
-Canal do Boi
-https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w1698458193.m3u8
- 
-Canal Rural
-https://evpp.mm.uol.com.br/canal_rural/aovivo.sdp/chunklist_w579794042.m3u8
- 
-Agro Canal
-https://5c49cd60dfe56.streamlock.net:6443/agrocanal/live/chunklist_w476550860.m3u8
- 
-Agro Brasil
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/chunklist_w8679974.m3u8
- 
-Garagem Tv
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w371012931_b1396000_sleng.m3u8
- 
-Tv Tubá
-http://69.46.0.171:1935/rcr_tuba/tv.stream/chunklist_w1588868644.m3u8
- 
-RT
-https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
- 
-History Lab
-https://5929b138b139d.streamlock.net/HistoryLab/livestream/chunklist_w1598276770.m3u8
- 
-Tv Baiana
-http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
- 
-Tv e Parana
-http://200.189.113.201/hls/tve.m3u8
- 
-Tv Litoral Panorama
-http://streaming03.zas.media:1935/panorama/panorama/chunklist_w261091232.m3u8
- 
-TCM
-http://live.tcm10.com.br/tcm10.m3u8
- 
-Tv Camara
- 
-https://stream3.camara.gov.br/tv1/manifest.m3u8
- 
-Tv Up
-http://caikron.com.br:1935/unipar/tvup/chunklist_w455488631.m3u8
- 
-TV UNESP
-https://video.unesp.br/live/indoor.m3u8
- 
-TV FAAP
-http://midia.faap.br/faaplatamlive-live/stream_720/chunklist_w317304070.m3u8
- 
-Fano tv
-https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E9F/chunklist_w1400789791.m3u8
- 
-Web tv Nova Paraiba
-https://stmv1.srvstm.com/miguel8553/miguel8553/playlist.m3u8?wowzasessionid=432246882
- 
-TV Maceió
-http://173.236.10.10:1935/toptv/toptv/playlist.m3u8
- 
-Conectv
-http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w2116522128.m3u8
- 
-Lyubione tv
-http://live.planeta-online.tv:1935/public/channel_6/chunklist_w2002922035.m3u8
- 
-DW
-https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8?sd=10&rebase=on
- 
-Tebeo
-https://live2.awedia.com/hls/tebeo_hi.m3u8
- 
-TV Videos News
-https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w889095980.m3u8
- 
-Russian Extreme
-http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
- 
-CGTN Documentary
-https://live.cgtn.com/1000d/prog_index.m3u8
- 
-TV Itapetininga
-http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/chunklist_w819322919.m3u8
- 
-TVE MT
-http://spotvtstr01.se.fertel.cds.ebtcvd.net/hls/STFERTEL01_240/index.m3u8
- 
-TV Andradas
-http://69.46.0.170:1935/tvandradas/antv.stream/chunklist_w2130399306.m3u8
- 
-TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w2090360169.m3u8
- 
-TV Boa Esperança
-https://stmv3.srvstm.com/16692/16692/playlist.m3u8?wowzasessionid=1563842279
- 
- 
- 
- 
- 
- 
-===================================
-Noticias
- 
-Record News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?sd=10&rebase=on
- 
-Tv a Critica
-https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8?sts=st=1579174491~exp=1579181091~acl=/*~hmac=0f5b1508fd4895a310719bbbdaf90c14e09dc54b5abbc02cc6ac143d6aacca15
- 
-Tv Infor Bahia
-https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/chunklist_w111732487.m3u8
- 
-Tv Uniao
-https://5ca42828c3a79.streamlock.net/tvuniao/_definst_/tvuniao/chunklist_w865005993.m3u8
- 
-TV Clic Brasil
-https://dcunilive38-lh.akamaihd.net/i/dclive_1@692593/index_150_av-b.m3u8?sd=10&rebase=on
- 
-Aljazzira
-https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
- 
-DW
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8?sd=10&rebase=on
- 
-TV Ambiental
-https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w2093084315.m3u8
- 
-TV diario do Sertao
-http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1853107702.m3u8
- 
- 
- 
-===================================
-Abertos
- 
-Tve
-https://video-rvd-lmg.rnp.br/live/ocp(t(FepcWEEt9yM)r(TOqkzw)a(s-wh5A)p(d(lCo)k(oww)m(Q3dgevNHTnhpVLsbObJlVA)n(a(jVnmWA)s(3pw)'a(J8z2mQ)s(ATw)))s(s(5j0)b(z8Z_WzfwdeYL0ydjRgHRgvVoh2WW_apHO_KOY_2e-z9S95p7ADKRwXxzNld68MGN_dRxFVmc0GFkRmwE5A)'s(DFY)b(s-85Q-mHKqmxfYKNGr4VuJxGjVAb4Xy3oLnCFf9zpLTmLTw2sZfDbAzKF0qwRBPK_Zs_IaDhXcNBbWjnSfbFKE3db1i3IJmb3ouRO6bP)'s(WnE)b(pYKQERRr))m(0))/25_index.m3u8
- 
-Rede Brasil
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist.m3u8
- 
-Redetv
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist.m3u8
- 
-Band
-http://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer3.m3u8
- 
-Sbt
-https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w1654476730.m3u8
- 
-Record tv
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
- 
-Tv Cultura
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
- 
-Tv Gazeta
-https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-480p.m3u8
- 
-Canal  Futura
-http://caikron.com.br:1935/unipar/tvup/chunklist_w1113934753.m3u8
- 
-Tv Brasil
-http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/chunklist_b1056768.m3u8
- 
-Tv Aberta
-http://v8.ciclano.io:1935/canalpaulo/canalpaulo/chunklist_w1439153144.m3u8
- 
-TV Manchete
-https://stmv4.srvstm.com/daniel5106/daniel5106/playlist.m3u8?wowzasessionid=1351811191
- 
-UNISC
-http://tv.unisc.br/hls/test.m3u8
-===================================
-Musicas e Radios
- 
-Top Tv
-https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w1933981626.m3u8
- 
-M20 Tv
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
- 
-Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1303053298_b2028000_sleng.m3u8
- 
-Retro Tv
-http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w2175849022.m3u8
- 
-Tv Natal
-https://stmv6.srvstm.com/antonioflavio9466/antonioflavio9466/chunklist.m3u8?wowzasessionid=1172237520
- 
-Via Morena
-https://cdn-cleuza-734.ciclano.io:1443/cleuza-734/cleuza-734/chunklist-480p.m3u8
- 
-Kronehit Tv
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
- 
-Radio Capital
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?ISAQUE
- 
-Radio Iglesias
-https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/chunklist.m3u8
- 
-Radio 51
-https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
- 
-Radiou Tv
-https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
- 
-Radio Contact
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1800_av-p.m3u8?sd=10&rebase=on
- 
-La Mega Mundial
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w122139905.m3u8
- 
-Otto Fm
-http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?sessId=27331
- 
-California Music
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
- 
-Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/chunklist_w498574946.m3u8
- 
-Carioca Tv
-http://wse01.logicahost.com.br:1935/cariocainterativo/cariocainterativo/chunklist_w650837699.m3u8
- 
-Portal Foxmix
-https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
- 
-Contry Music
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
- 
-Djing
-https://www.djing.com/tv/29072-04.m3u8
- 
-Power Turk Tv
-https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b846000_sltur.m3u8
- 
-Tv 538
-https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
- 
-Retro Plus
-https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1378151775.m3u8
- 
-Nrj Hits
-https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w1097292515_b1431072.m3u8
- 
-Tv Imagem
-https://stmv1.caxiashost.com.br/caxiashost/caxiashost/chunklist.m3u8?wowzasessionid=1150818573
- 
-Djing Ibiza
-https://www.djing.com/tv/d-29072-04.m3u8
- 
-Djing Avicii
-https://www.djing.com/tv/s-29072-05-avicii.m3u8
- 
-Djing Hedonist
-https://www.djing.com/tv/s-29072-05-hedonist.m3u8
- 
-Djing Karaoke
-https://www.djing.com/tv/k-29072-05.m3u8
- 
-Djing French Touch
-https://www.djing.com/tv/s-29072-05-french-touch.m3u8
- 
-Djing Electro Rock
-https://www.djing.com/tv/s-29072-05-electro-rock.m3u8
- 
-Djing Summer Vibes
-https://www.djing.com/tv/s-29072-05-summer-vibes.m3u8
- 
-Djing Undergroud
-https://www.djing.com/tv/u-29072-04.m3u8
- 
-Djing Animation
-https://www.djing.com/tv/a-29072-04.m3u8
- 
-Djing Classic
-https://www.djing.com/tv/i-29072-04.m3u8
- 
-Retro Channel
-http://198.24.183.198:1936/theretrochannel/stream/chunklist_w1305184298.m3u8
- 
-Tv Pocos
-https://rtmp.cdn.upx.net.br/00084/myStream.sdp/chunklist.m3u8?0a5e94355aab404c5e950868f0f03c8f
- 
-Furg Tv
-https://stream.furg.br/hls/furgtv_480p.m3u8
- 
-TV Mackenzie
-http://ec2-54-157-173-68.compute-1.amazonaws.com:8081/live_tvmackenzie/tvmackenzie/chunks.m3u8?nimblesessionid=9869038
- 
-TV Mega Brasil
-https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/chunklist_w516590798_b1300000.m3u8
- 
-Radio Redentor
-http://62.138.8.15:1935/redentor/redentor/chunklist_w791022934.m3u8
- 
-TV Fronteira
-https://stmv4.srvstm.com/aguiberto6360/aguiberto6360/playlist.m3u8?wowzasessionid=1613902834
- 
-Tropical
-https://flash1.hospedemax.com.br:8012/27b51329b99fc99fe1cf543444520f78/live.m3u8
-===================================
-Religiosos
- 
-Cancao Nova
-https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8?sd=10&rebase=on
- 
-Tv Evangelizar
-http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w214295910.m3u8
- 
-Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
- 
-Tv Aparecida
-http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w1646479017.m3u8
- 
-Tv Seculo 21
-https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-p.m3u8?sd=10&rebase=on
- 
- 
-Tele Padre Pio
-https://5698c1463445c.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w538662995_b227000_slita.m3u8
- 
-Tv Vianney
-http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/chunklist_w121475772.m3u8
- 
-Tv Novo Milênio
-http://wz5.dnip.com.br/mileniotv/mileniotv.sdp/chunklist_w1602105118.m3u8
- 
-Tv Louvar
-https://59f1cbe63db89.streamlock.net:1443/renascer/_definst_/renascer/chunklist_w1970587471.m3u8
- 
-Lux Telivizia
-http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w10542353.m3u8
- 
-Catholic Tv
-http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/index_1_av-b.m3u8?sd=10&rebase=on
- 
-Tv Verbo Divino
-https://5c64355d4b57c.streamlock.net:1936/verbodivinorcc/verbodivinorcc/chunklist_w472669063.m3u8
- 
-Tele Vid
-https://playback2.akamaized.net/streams/28238881_8574038_lsidq3h1hbkf9xio1xf_1/exp=1573091586~acl=%2f*~data=hdntl~hmac=c8e880c353484ccd77b3747952e871b5ff0b9c95788444fc717d2e6de454351b/media/28238881_8574038_lsidq3h1hbkf9xio1xf_1@1756000p.m3u8?dw=80&ts=1573002000
- 
-Canal Orbe 21
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_160p/chunks.m3u8?nimblesessionid=52047992
- 
-Nova Tv Franca
-https://5b7f3c45ab7c2.streamlock.net/8124/8124/chunklist_w404108223_DVR.m3u8
- 
-Web Tv
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8?sd=10&rebase=on
- 
-Canal CBB TV
-https://stmv6.srvstm.com/lindenberg7331/lindenberg7331/playlist.m3u8?wowzasessionid=1200869677
- 
-TV Sobrenatural
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w892143475.m3u8
- 
-TV Assembleia
-https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w809587363.m3u8
- 
-Master
-http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
- 
-TV Espirita Parana
-https://stmv1.srvstm.com/rodney1666/rodney1666/playlist.m3u8?wowzasessionid=379954984
- 
-Ceaka
-https://stmv3.srvstm.com/ceak/ceak/playlist.m3u8?wowzasessionid=1039032116
- 
-Igreja Mundial
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w298575138_b846000.m3u8
- 
-TV Universal
-https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_1080_av-b.m3u8?sd=10&rebase=on
- 
-Hope
-https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
- 
-Fonte
-http://wowza.softhost.com.br:1935/fonte/fontetv/chunklist_w200227235.m3u8
- 
-TV Guardioes
-https://streaming01.zas.media/gideoes/programacao_360p/chunklist_w1413725984.m3u8
- 
-TVCI
-http://flash8.crossdigital.com.br/2306/2306/chunklist_w321064631.m3u8
- 
-Rede Super
-https://5a7bcfb834235.streamlock.net/zw9009/stream/chunklist_w1756927416.m3u8
- 
-Top Mix tv
-https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w980776772.m3u8
- 
-Renascer Gospel
-https://stmv1.srvstm.com/dinalva9388/dinalva9388/playlist.m3u8?wowzasessionid=725142285
- 
-TV Mana Brasil
-http://c3.manasat.com:1935/tvbr/tvbrasil1/chunklist_w1065646833.m3u8
- 
-Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/live/chunklist_w1541843931.m3u8
- 
-NGP
-https://5a0c3936c25c8.streamlock.net/8278/8278/chunklist_w876653111.m3u8
- 
-Canal Executivo
-http://stream.novotempo.com:1935/tv/executivo.smil/chunklist_w1735637543_b2128000_slpor.m3u8
- 
-CBN USA
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_2000_av-p.m3u8?sd=10&rebase=on
- 
-===================================
-Nao Funciona
- 
-TV CNB
-https://5c64355d4b57c.streamlock.net:1936/tvcnb/tvcnb/chunklist_w1813988969.m3u8
- 
-Monterrey
-https://us-b2-p-e-cv4.cdn.mdstrm.com/live-stream/57b4dbf5dbbfc8f16bb63ce1/publish/media_2000.m3u8?dnt=true&ref=https%3A%2F%2Fwww.multimedios.com%2Fvideo&es=us-b2-p-e-cv4.cdn.mdstrm.com&ote=1572508553178&ot=G8cB_CxUwsqk01hnNnYGjw&proto=https&pz=us
- 
-TV Alvorada
-https://5b6d86cbca7b3.streamlock.net/tvalvorada/tvalvorada/chunklist_w1228684702.m3u8
- 
-Teletrack
-https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?nimblesessionid=180241049
- 
-TV Fe em Deus
-https://59f1cbe63db89.streamlock.net:1443/riberto/_definst_/riberto/chunklist_w1680533899.m3u8
- 
-Rede Cidade Viva
-http://rtmp.cdn.upx.net.br/kwjqp/smil:cidadeviva.smil/chunklist_b2130000.m3u8?c9da6ca0066c9e721a9df82a0175791a
- 
- 
-Radio 105
-http://fms.105.net:1935/live/105Test1/playlist.m3u8
- 
-Radio Monte Carlo
-http://wow01.105.net/live/rmc1/playlist.m3u8
- 
-Vem e ve tv
-https://srv-rs1.sisdera.com/vvtv/vvtv/vvtv-0/vvtv_480p/chunks_dvr.m3u8?nimblesessionid=747196
- 
-Extrema tv
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w895690546.m3u8
- 
-Gostei
-https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/chunklist_w327203090.m3u8
- 
-Summer
-http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w1538602918.m3u8
- 
-UF
-http://freeundergroundtv.com/Videos/MAD/MAD_TrackOfTheMoonBeast.mp4
- 
-Mart
-https://srv1.zcast.com.br/adautogomes4150/adautogomes4150/playlist.m3u8?wowzasessionid=2125728507
- 
-Moda Fashion
-https://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/mono.m3u8
- 
-Terra Viva
-https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1198771200.m3u8
- 
-Djing Hot
-https://www.djing.com/tv/h-01-fta.m3u8
- 
-TV Internalta
-https://srv1.zcast.com.br/luiseduardo7379/luiseduardo7379/playlist.m3u8?wowzasessionid=1157449094
- 
-Cariri tv
-https://59f1cbe63db89.streamlock.net:1443/cariritv/_definst_/cariritv/chunklist_w639618753.m3u8
- 
-Mundo tv
-https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w2092596422.m3u8
- 
-1 HD
-https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
- 
-Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w1267948054.m3u8
- 
-Ibiza Global
-http://server10.streaming-pro.com:1937/live/ibgtvlive/chunklist_w290480504.m3u8
- 
-Radio Avela
-https://video1.earthcam.com/myearthcamclips/_definst_/MP4:20180920/d76371d13cdb1eee7a8d4198272b23cd.mp4/chunklist_w1616203618.m3u8
- 
-City
-https://tv.city.bg/play/tshls/citytv/3.m3u8
- 
-MUSIC CHOISE
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
- 
-VISION TV
-http://v8.ciclano.io:1935/visionmusica/_definst_/visionmusica/chunklist_w1783220118.m3u8
- 
-TV NOVOS HORIZONTES
-https://v3.ciclano.io:1443/novoshorizontes/_definst_/novoshorizontes/chunklist_w1011621352.m3u8
- 
-Alex Berlim
-https://alex-net.rosebud-media.de/bounce/alexlivetv20.smil/chunklist_b4192000_slGER.m3u8
- 
-Music Box
-http://212.26.132.86/hls/mb_ua.m3u8
- 
-Klip Kar tv
-https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/3000/prog_index.m3u8
- 
-HITV
-https://rosshow.gcdn.co/streams/1410_287/1080n/index.m3u8
- 
-88 Esterio
-http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w621900191.m3u8
- 
-VIBEE
-http://stream.vibee.tv/chunks.m3u8?nimblesessionid=17861888
- 
-Drean tv
-https://2122248083.dogannet.tv/NP2/DREAMTV/HLS/track_4_1000/playlist.m3u8?key=7eabf2054a36f5c4f187c00cea506951&live=true&app=com.dreamtv
- 
-DRAMA TV
-http://adtv.ercdn.net/addrama/addrama_720p.m3u8
- 
-1001 NOITES
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1565536.m3u8
- 
-THE SHOPPING
-https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_2_av-b.m3u8?sd=10&rebase=on
- 
-IDEAL WORLD
-https://live-isd.simplestreamcdn.com/idealworld/3/prog_index.m3u8
- 
-MY COMEDY
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w238055396_b1928000.m3u8
- 
-Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1303053298_b2028000_sleng.m3u8
- 
-Moda Fashion
-https://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/mono.m3u8
-===================================
-Filmes de Crianca
- 
-Klaus
-http://movies.zeus.openload.network/movies/klaus-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",PETS A VIDA DOS BICHOS 2
-http://movies.zeus.openload.network/movies/pets2-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",TOY STORY 4
-http://movies.zeus.openload.network/movies/toystory4-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",PEQUENO PRINCIPE
-http://movies.zeus.openload.network/movies/opequenoprincipe-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",HAPPY FEET
-http://movies.zeus.openload.network/movies/happyfeet-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",PARQUE DOS SONHOS
-http://movies.zeus.openload.network/movies/oparquedossonhosts-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",COMO TREINAR O SEU DRAG
-http://movies.zeus.openload.network/movies/comotreinarseudragao3-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",ARANHAVERSO
-http://movies.zeus.openload.network/movies/aranhaverso-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",DETONA RALPH
-http://movies.zeus.openload.network/movies/wifiralphh-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",O GRINCH
-http://movies.zeus.openload.network/movies/ogrinch-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",A MORTE DO SUPER MEN
-http://movies.zeus.openload.network/movies/thedeathofsuperman-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",BATMAN MULHER MORCEG
-http://movies.zeus.openload.network/movies/batmanomisteriodamulhermorcego-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",LIGA DA JUSTICA
-http://movies.zeus.openload.network/movies/ligadajusticaalegiaodomal-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Batman:O Cavaleiro de Gotha
-http://movies.zeus.openload.network/movies/batmanocavaleirodegotham-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Batman Contra o Capuz Ver
-http://movies.zeus.openload.network/movies/batmancontraocapuzvermelho-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Lanterna Verde: Primeiro Voo
-http://movies.zeus.openload.network/movies/lanternaverdeprimeirovoo-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Lanterna Verde: Cavaleiros
-http://movies.zeus.openload.network/movies/lanternaverdecavaleiroesmeralda-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Batman: O Cavaleiro das Tr2
-http://movies.zeus.openload.network/movies/animacaobatmancavaleirodastrevasparte2-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Batman: O Cavaleiro das Tr1
-http://movies.zeus.openload.network/movies/animacaobatmancavaleirodastrevasparte1-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Amigos Alienígenas
-http://movies.zeus.openload.network/movies/amigosalienigenas-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Batman: A Piada Mortal
-http://movies.zeus.openload.network/movies/batmanapiadamortal-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",O Bem-Aventurado
-http://movies.zeus.openload.network/movies/obemaventurado-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",O Resgate da Princesa
-http://movies.zeus.openload.network/movies/oresgatedaprincesa-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Pé Pequeno
-http://movies.zeus.openload.network/movies/pepequeno-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Os Incríveis 2
-http://movies.zeus.openload.network/movies/osincriveis2new-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Constantine: Cidade dos Demônios
-http://movies.zeus.openload.network/movies/constantinecidadedemonio-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Hotel Transilvânia 3: Férias Monstruosas
-http://movies.zeus.openload.network/movies/hoteltransilvania3-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",DC Super Hero Girls: Lendas de Atlântida
-http://movies.zeus.openload.network/movies/dcsuperheroeslendasdeatlantida-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Pato Pato Ganso
-http://movies.zeus.openload.network/movies/patopatoganso-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Condorito – O Filme
-http://movies.zeus.openload.network/movies/condoritoofilme-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Duda e os Gnomos
-http://movies.zeus.openload.network/movies/dudaeosgnomos-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Esquadrão Suicida: Acerto de Contas
-http://movies.zeus.openload.network/movies/esquadraosuicidaacertodecontas-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",As Aventuras de Tadeo 2: O Segredo do Rei Midas
-http://movies.zeus.openload.network/movies/aventurasdetadeo2-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Scooby-Doo! E o Combate do Salsicha
-http://movies.zeus.openload.network/movies/scoobydoeocombatedesalsicha-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Madagascar 3 – Os Procurados
-http://movies.zeus.openload.network/movies/madagascar3-dub-720p.mp4
-     
-#EXTINF:-1 tvg-logo=""
-group-title="",O Rei Leão 3: Hakuna Matata
-http://movies.zeus.openload.network/movies/reileao3-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",O Rei Leão 2: O Reino de Simba
-http://movies.zeus.openload.network/movies/reileao2-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Uma Floresta Muito Louca
-http://movies.zeus.openload.network/movies/umaflorestamuitolouca-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",O Touro Ferdinando
-http://movies.zeus.openload.network/movies/ferdinand-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Viva – A Vida é uma Festa
-http://movies.zeus.openload.network/movies/vivaavidaeumafesta-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",A Estrela de Belém
-http://movies.zeus.openload.network/movies/aestreladebelem-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Batman: Gotham by Gaslight
-http://movies.zeus.openload.network/movies/batmangaslight-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Big Pai, Big Filho
-http://movies.zeus.openload.network/movies/bigpai-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Uma Família Feliz
-http://movies.zeus.openload.network/movies/familiafeliz-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Pokémon – O Filme: Eu Escolho Você!
-http://movies.zeus.openload.network/movies/pokemon-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Shrek 2
-http://movies.zeus.openload.network/movies/shrek2-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",shrek
-http://movies.zeus.openload.network/movies/shrek-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Shrek Terceiro
-http://movies.zeus.openload.network/movies/shrek3-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Shrek para Sempre
-http://movies.zeus.openload.network/movies/shreksempre-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Toy Story 2
-http://movies.zeus.openload.network/movies/toystory2-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Dragon Ball Z: A Batalha dos Deuses
-http://movies.zeus.openload.network/movies/batalhadeuses-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Toy Story 3
-http://movies.zeus.openload.network/movies/toystory3-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Carros 3
-http://movies.zeus.openload.network/movies/carros3-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Meu Malvado Favorito 3
-http://movies.zeus.openload.network/movies/meumalvado3-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Meu Malvado Favorito 2
-http://movies.zeus.openload.network/movies/meumalvadofavorito2-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Meu Malvado Favorito
-http://movies.zeus.openload.network/movies/meumalvadofavorito-dub-360p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",O Poderoso Chefinho
-http://movies.zeus.openload.network/movies/poderosochefinho-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Aviões
-http://movies.zeus.openload.network/movies/avioes-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Alvin e os Esquilos 3
-http://movies.zeus.openload.network/movies/esquilos3-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Pica-Pau: O Filme
-http://movies.zeus.openload.network/movies/picapau-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Alvin e os Esquilos 2
-http://movies.zeus.openload.network/movies/esquilos2-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Alvin e os Esquilos
-http://movies.zeus.openload.network/movies/esquilos-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",LEGO Batman: O Filme
-http://movies.zeus.openload.network/movies/legobatman-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Procurando Nemo
-http://movies.zeus.openload.network/movies/nemo-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",O Rei Leão
-http://movies.zeus.openload.network/movies/reileao-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Os Sem-Florestas
-http://movies.zeus.openload.network/movies/semfloresta-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Era do Gelo 4
-http://movies.zeus.openload.network/movies/gelo4-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Era do Gelo 3
-http://movies.zeus.openload.network/movies/gelo3-dub-360p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Era do Gelo 2
-http://movies.zeus.openload.network/movies/gelo2-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",O Expresso Polar
-http://movies.zeus.openload.network/movies/expressopolar-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",ParaNorman
-http://movies.zeus.openload.network/movies/paranorman-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Como Treinar o seu Dragão
-http://movies.zeus.openload.network/movies/comotreinaroseudragao-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",A Era do Gelo
-http://movies.zeus.openload.network/movies/gelo1-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Pets – A Vida Secreta dos Bichos
-http://movies.zeus.openload.network/movies/pets-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Trolls
-http://movies.zeus.openload.network/movies/trolls-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Cegonhas – A História que Não te Contaram
-http://movies.zeus.openload.network/movies/cegonhas-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Toy Story – Um Mundo de Aventuras
-http://movies.zeus.openload.network/movies/toystory-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Procurando Dory
-http://movies.zeus.openload.network/movies/procurandodory-dub-1080p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Zootopia: Essa Cidade é o Bicho
-http://movies.zeus.openload.network/movies/zootopia-dub-720p.mp4
- 
-#EXTINF:-1 tvg-logo=""
-group-title="",Festa da Salsicha
-http://movies.zeus.openload.network/movies/festasalsicha-dub-720p.mp4
-===================================
-Filmes de Terror
- 
-Panico nas Alturas
-http://movies.zeus.openload.network/movies/paniconasalturas-dub-720p.mp4
- 
-IT Capitulo 2
-http://movies.zeus.openload.network/movies/itcapitulodois-dub-720p.mp4
- 
-Pesadelo
-http://movies.zeus.openload.network/movies/pesadelo-dub-720p.mp4
- 
-Limbo
-http://movies.zeus.openload.network/movies/limboentreoceueoinferno-dub-720p.mp4
- 
-Horror em Amityville
-http://movies.zeus.openload.network/movies/horroremamityville-dub-720p.mp4
- 
-A Entidade
-http://movies.zeus.openload.network/movies/aentidade-dub-720p.mp4
- 
-Jogos Mortais 6
-http://movies.zeus.openload.network/movies/jogosmortais6-dub-720p.mp4
- 
-Jogos Mortais 5
-http://movies.zeus.openload.network/movies/jogosmortais5-dub-720p.mp4
- 
-Jogos Mortais 3
-http://movies.zeus.openload.network/movies/jogosmortais3-dub-720p.mp4
- 
-Jogos Mortais 4
-http://movies.zeus.openload.network/movies/jogosmortais4-dub-720p.mp4
- 
-Jogos Mortais 2
-http://movies.zeus.openload.network/movies/jogosmortais2-dub-720p.mp4
- 
-Jogos Mortais
-http://movies.zeus.openload.network/movies/jogosmortais-dub-720p.mp4
- 
-Atividade Paranormal 2
-http://movies.zeus.openload.network/movies/atividadeparanormal2-dub-720p.mp4
- 
-Atividade Paranormal
-http://movies.zeus.openload.network/movies/dimensaofantasma-dub-720p.mp4
- 
-Rupture: superando o Medo
-http://movies.zeus.openload.network/movies/rupture-dub-720p.mp4
- 
-Annabelle 3: De Volta Pra Casa
-http://movies.zeus.openload.network/movies/annabelle3-dub-720p.mp4
- 
-Coqueteis e Adolescentes
-http://movies.zeus.openload.network/movies/coqueteiseadolescentes-dub-720p.mp4
- 
-Zumbilandia
-http://movies.zeus.openload.network/movies/zumbilandia-dub-720p.mp4
- 
-Ma
-http://movies.zeus.openload.network/movies/ma-dub-720p.mp4
- 
-Nos
-http://movies.zeus.openload.network/movies/nos-dub-720p.mp4
- 
-Nas Trevas
-http://movies.zeus.openload.network/movies/nastrevas-dub-720p.mp4
- 
-O Cemiterio Maldito
-http://movies.zeus.openload.network/movies/cemiteriomaldito-dub-720p.mp4
- 
-Rec
-http://movies.zeus.openload.network/movies/rec-dub-720p.mp4
- 
-Dracula
-http://movies.zeus.openload.network/movies/dracula-dub-720p.mp4
- 
-Amizade Desfeita 2
-http://movies.zeus.openload.network/movies/amizadedesfeita2-dub-720p.mp4
- 
-Amizade Desfeita
-http://movies.zeus.openload.network/movies/amizadedesfeita-dub-720p.mp4
- 
-A Morte ta de Parabens
-http://movies.zeus.openload.network/movies/happydeathu2-dub-720p.mp4
- 
-Parque do Inferno
-http://movies.zeus.openload.network/movies/parquedoinferno-dub-720p.mp4
- 
-Nao Adianta Rezar
-http://movies.zeus.openload.network/movies/naoadiantarezar-dub-720p.mp4
- 
-Cadaver
-http://movies.zeus.openload.network/movies/ocadaver-dub-720p.mp4
- 
-Circus Kane
-http://movies.zeus.openload.network/movies/circuskaneocircodoshorrores-dub-720p.mp4
- 
-A Casa do Medo
-http://movies.zeus.openload.network/movies/acasadomedoincidenteemghostland-dub-720p.mp4
-===================================
-Radios ao Vivo
- 
-JB FM
-https://14613.live.streamtheworld.com/JBFM_SC
- 
-Radio Globo Rj
-https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
- 
-Rede Aleluia
-https://74398c.ha.azioncdn.net/primary/radio105fm.sdp/chunklist_54813891-df99-4d5b-9437-1d300dd6d568.m3u8
- 
- 98 FM
-https://s23.maxcast.com.br:8072/live
- 
-Transamerica
-http://transamerica.crossradio.com.br:9114/stream/1;
- 
-Anos 70
-http://192.99.150.31:8241/stream
- 
-Anos 80
-http://192.99.150.31:8697/stream
- 
-Anos 90
-http://192.99.150.31:8056/stream
- 
-Anos 2000
-http://6d9a.webradio.upx.net.br:9940/stream
- 
-Axe
-http://192.99.150.31:8305/stream
- 
-Bossa Nova
-http://6d9a.webradio.upx.net.br:9974/stream
- 
-Brega
-http://192.99.150.31:9007/stream
- 
-Eletronica
-http://192.99.150.31:9095/stream
- 
-Festa
-http://6d9a.webradio.upx.net.br:9070/stream
- 
-Forro
-http://192.99.150.31:9019/stream
- 
-Funk
-http://192.99.150.31:9089/stream
- 
-Gospel
-http://192.99.150.31:9101/stream
- 
-Hip Hop
-http://192.99.150.31:8721/stream
- 
-Historinhas Infantis
-http://192.99.150.31:8371/stream
- 
-Jazz
-http://192.99.150.31:8042/stream
- 
-Kids
-http://192.99.150.31:9431/stream
- 
-Lounge
-http://6d9a.webradio.upx.net.br:9064/stream
- 
-Metal
-http://6d9a.webradio.upx.net.br:9898/stream
- 
-MPB
-http://192.99.150.31:8775/stream
- 
-Musica Classica
-http://6d9a.webradio.upx.net.br:9970/stream
- 
-New Rock
-http://6d9a.webradio.upx.net.br:8028/stream
- 
-Pagode
-http://6d9a.webradio.upx.net.br:9061/stream
- 
-Pop Hits
-http://6d9a.webradio.upx.net.br:9046/stream
- 
-Pop Rock
-http://6d9a.webradio.upx.net.br:8016/stream
- 
-Rap Nacional
-http://192.99.150.31:8377/stream
- 
-Reggae
-http://192.99.150.31:8715/stream
- 
-Roberto Carlos
-http://192.99.150.31:9137/stream
- 
-Rock Classico
-http://192.99.150.31:9125/stream
- 
-Romanticas
-http://192.99.150.31:8962/stream
- 
-Sertanejo
-http://192.99.150.31:9485/stream
- 
-Sertanejo Universitario
-http://192.99.150.31:9191/stream
- 
-Trilha Sonora
-http://6d9a.webradio.upx.net.br:9896/stream
- 
-CBN RJ
-https://medias.sgr.globo.com/hls/aCBNRJ/aCBNRJ.m3u8
- 
-CBN SP
-https://cbn-sjrp.opic.live/playlist.m3u8
- 
-FM O Dia
-https://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist.m3u8
- 
-94.1
-http://painel.amsolution.net.br:8080/boa?
- 
-Sulamerica Paradiso
-https://14533.live.streamtheworld.com/SULAMERICA_SC
- 
-93 FM
-https://18133.live.streamtheworld.com/FM93_SC
- 
-Antena 1
-https://antenaone.crossradio.com.br/stream/2;
-===================================
-Conteudo Erotico
- 
-Videos Filmes Porno
-https://videos.filmesporno.net.br/32235527/video.mp4
-https://videos.filmesporno.net.br/43393445/video.mp4
-https://videos.filmesporno.net.br/2352778/video.mp4
- 
-https://videos.filmesporno.net.br/3103225/video.mp4
-https://videos.filmesporno.net.br/23841602/video.mp4
-https://videos.filmesporno.net.br/221863/video.mp4
-https://videos.filmesporno.net.br/3973156/video.mp4
-https://videos.filmesporno.net.br/13392531/video.mp4
-https://videos.filmesporno.net.br/37977253/video.mp4
-https://videos.filmesporno.net.br/4020088/video.mp4
-https://static.exosrv.com/library/223528/f7ecd5dfaf86c75c329893901ab15ca25dd2075d.mp4
-----------------------------------------------------------------------
-Caseros Fortes
-http://bangextreme.se/files/original_videos/c52f1bd66cc19d0.mpg
-http://bangextreme.se/files/original_videos/c5b2cebf15b2055.mp4
-http://bangextreme.se/files/original_videos/cda72177eba360f.mpeg
-http://bangextreme.se/files/original_videos/d47844673f2db74.avi
-http://bangextreme.se/files/original_videos/e369853df766fa4.mpg
-http://bangextreme.se/files/original_videos/e761813f83dfc86.avi
-http://bangextreme.se/files/original_videos/f8e59f4b2fe7c57.avi
-http://bangextreme.se/files/original_videos/60243f9b1ac2dba.mp4
-http://bangextreme.se/files/original_videos/71d7232b9fed020.mp4
-http://bangextreme.se/files/original_videos/970af30e481057c.mpg
-http://bangextreme.se/files/original_videos/980ecd059122ce2.mpg
-http://bangextreme.se/files/original_videos/98d8a23fd60826a.avi
-http://bangextreme.se/files/original_videos/c3008b2c6f5370b.mp4
-http://bangextreme.se/files/original_videos/b60c5ab647a2704.mpg
-http://bangextreme.se/files/original_videos/2d2ca7eedf739ef.mpg
-http://bangextreme.se/files/original_videos/9a49a25d845a483.wmv
-http://bangextreme.se/files/original_videos/fc49306d97602c8.mpg
-----------------------------------------------------------------------
-Videos Porno Para Celular
-http://bangextreme.se/files/trimed_videos/00752bafd185b5f.flv
-http://bangextreme.se/files/trimed_videos/00757c2890aeaab.flv
-http://bangextreme.se/files/trimed_videos/00a7ddc3ce9f293.flv
-http://bangextreme.se/files/trimed_videos/00b796c304a82ad.flv
-http://bangextreme.se/files/trimed_videos/00bb566ba924c49.flv
-http://bangextreme.se/files/trimed_videos/00c623f0e1a9b4d.flv
-http://bangextreme.se/files/trimed_videos/00c9c1808f5c60a.flv
-http://bangextreme.se/files/trimed_videos/01003666d480343.flv
-http://bangextreme.se/files/trimed_videos/010acecc0fadf99.flv
-http://bangextreme.se/files/trimed_videos/011a36b2130c43e.flv
-http://bangextreme.se/files/trimed_videos/01209a40575f70d.flv
-http://bangextreme.se/files/trimed_videos/0132974f40b0b4c.flv
-http://bangextreme.se/files/trimed_videos/016b5bb1b09cbb3.flv
-http://bangextreme.se/files/trimed_videos/0191f4fe2d364b9.flv
-http://bangextreme.se/files/trimed_videos/0199c99cedb279e.flv
-http://bangextreme.se/files/trimed_videos/07435ed71b1211c.flv
-http://bangextreme.se/files/trimed_videos/073bb0d9fd02755.flv
-http://bangextreme.se/files/trimed_videos/01c4acbbdde0291.flv
-http://bangextreme.se/files/trimed_videos/01d7d2f3343f188.flv
-http://bangextreme.se/files/trimed_videos/01f721a21e7afa8.flv
-http://bangextreme.se/files/trimed_videos/021e3ee0ee6e551.flv
-http://bangextreme.se/files/trimed_videos/02386f698c32d1a.flv
-http://bangextreme.se/files/trimed_videos/0252e47a7e4f26f.flv
-http://bangextreme.se/files/trimed_videos/02596abfe536f4c.flv
-http://bangextreme.se/files/trimed_videos/025b87208aea848.flv
-http://bangextreme.se/files/trimed_videos/02638e330d56652.flv
-http://bangextreme.se/files/trimed_videos/0266ec2b7bb464d.flv
-http://bangextreme.se/files/trimed_videos/0294f0cd1dbe8e7.flv
-http://bangextreme.se/files/trimed_videos/02a506716eaa05d.flv
-http://bangextreme.se/files/trimed_videos/02ae9f235bc7ca0.flv
-http://bangextreme.se/files/trimed_videos/02b655f012745cc.flv
-http://bangextreme.se/files/trimed_videos/02d584eee1a61e6.flv
-http://bangextreme.se/files/trimed_videos/072fc594710942f.flv
-http://bangextreme.se/files/trimed_videos/071801b418d6b97.flv
-http://bangextreme.se/files/trimed_videos/06fdb3890a473fb.flv
-http://bangextreme.se/files/trimed_videos/02dc2a6adc3abb6.flv
-http://bangextreme.se/files/trimed_videos/03065cbe6f7ced4.flv
-http://bangextreme.se/files/trimed_videos/0332de394e9aabf.flv
-http://bangextreme.se/files/trimed_videos/034ce27cb7364cc.flv
-http://bangextreme.se/files/trimed_videos/035d1818ae2f5b5.flv
-http://bangextreme.se/files/trimed_videos/036d62e7916f733.flv
-http://bangextreme.se/files/trimed_videos/0397a6867665697.flv
-http://bangextreme.se/files/trimed_videos/03a78a3aa0b4d0c.flv
-http://bangextreme.se/files/trimed_videos/03b2e3a0c8b9f47.flv
-http://bangextreme.se/files/trimed_videos/06f1d427573209f.flv
-http://bangextreme.se/files/trimed_videos/03c520a673ecec9.flv
-http://bangextreme.se/files/trimed_videos/03c8ef6fc578d64.flv
-http://bangextreme.se/files/trimed_videos/03d718bd946fdf8.flv
-http://bangextreme.se/files/trimed_videos/03ebcdba8015053.flv
-http://bangextreme.se/files/trimed_videos/03f9bdf834212a6.flv
-http://bangextreme.se/files/trimed_videos/03fe5df084cff80.flv
-http://bangextreme.se/files/trimed_videos/042ef692aceab42.flv
-http://bangextreme.se/files/trimed_videos/042f52dd12d5847.flv
-http://bangextreme.se/files/trimed_videos/04343dcc2146897.flv
-http://bangextreme.se/files/trimed_videos/043b41b6247ceb6.flv
-http://bangextreme.se/files/trimed_videos/043bae266046fde.flv
-http://bangextreme.se/files/trimed_videos/043e92ac687fa6d.flv
-http://bangextreme.se/files/trimed_videos/04449851c8389c6.flv
-http://bangextreme.se/files/trimed_videos/04480288bfc0bc8.flv
-http://bangextreme.se/files/trimed_videos/046cd4bdecb3560.flv
-http://bangextreme.se/files/trimed_videos/0489d2f8f7c322f.flv
-http://bangextreme.se/files/trimed_videos/04a8cadfc5ac1f2.flv
-http://bangextreme.se/files/trimed_videos/04d0bd34a14e199.flv
-http://bangextreme.se/files/trimed_videos/04daddc82ca849e.flv
-http://bangextreme.se/files/trimed_videos/04ea1f67a72f09e.flv
-http://bangextreme.se/files/trimed_videos/04f3cc62a8e5978.flv
-http://bangextreme.se/files/trimed_videos/0504e70f07cfc90.flv
-http://bangextreme.se/files/trimed_videos/050d0d014dc106f.flv
-http://bangextreme.se/files/trimed_videos/052247fe77a0215.flv
-http://bangextreme.se/files/trimed_videos/05325f51b8a50d1.flv
-http://bangextreme.se/files/trimed_videos/05512992c82af97.flv
-http://bangextreme.se/files/trimed_videos/05712c932a92d4f.flv
-http://bangextreme.se/files/trimed_videos/0574beb2966131c.flv
-http://bangextreme.se/files/trimed_videos/05ab79a083821d3.flv
-http://bangextreme.se/files/trimed_videos/05bd326b1bfcdfd.flv
-http://bangextreme.se/files/trimed_videos/05e4f5706408503.flv
-http://bangextreme.se/files/trimed_videos/061e5f33a090e78.flv
-http://bangextreme.se/files/trimed_videos/0645b1d5c28c178.flv
-http://bangextreme.se/files/trimed_videos/0663f27b78466cf.flv
-http://bangextreme.se/files/trimed_videos/066806df93e9f33.flv
-http://bangextreme.se/files/trimed_videos/0689ffa1cfbe3b9.flv
-http://bangextreme.se/files/trimed_videos/068c21687ea816a.flv
-http://bangextreme.se/files/trimed_videos/06a087c7eeb7603.flv
-http://bangextreme.se/files/trimed_videos/06b13c5af619d1a.flv
-http://bangextreme.se/files/trimed_videos/06cc511b97a29f3.flv
-http://bangextreme.se/files/trimed_videos/06d49fb994fcbd1.flv
-----------------------------------------------------------------------
-Filmes Brazzers
-http://static.brazzers.com/scenes/3291/180sec.flv
-http://static.brazzers.com/scenes/3292/180sec.flv
-http://static.brazzers.com/scenes/3293/180sec.flv
-http://static.brazzers.com/scenes/3294/180sec.flv
-http://static.brazzers.com/scenes/3295/180sec.flv
-http://static.brazzers.com/scenes/3296/180sec.flv
-http://static.brazzers.com/scenes/3297/180sec.flv
-http://static.brazzers.com/scenes/3298/180sec.flv
-http://static.brazzers.com/scenes/3300/180sec.flv
-http://static.brazzers.com/scenes/3301/180sec.flv
-http://static.brazzers.com/scenes/3302/180sec.flv
-http://static.brazzers.com/scenes/3303/180sec.flv
-http://static.brazzers.com/scenes/3304/180sec.flv
-http://static.brazzers.com/scenes/3305/180sec.flv
-http://static.brazzers.com/scenes/3306/180sec.flv
-http://static.brazzers.com/scenes/3307/180sec.flv
-http://static.brazzers.com/scenes/3308/180sec.flv
-http://static.brazzers.com/scenes/3309/180sec.flv
-http://static.brazzers.com/scenes/3310/180sec.flv
-http://static.brazzers.com/scenes/3311/180sec.flv
-http://static.brazzers.com/scenes/3312/180sec.flv
-http://static.brazzers.com/scenes/3313/180sec.flv
-http://static.brazzers.com/scenes/3314/180sec.flv
-http://static.brazzers.com/scenes/3315/180sec.flv
-http://static.brazzers.com/scenes/3316/180sec.flv
-http://static.brazzers.com/scenes/3317/180sec.flv
-http://static.brazzers.com/scenes/3318/180sec.flv
-http://static.brazzers.com/scenes/3321/180sec.flv
-http://static.brazzers.com/scenes/3323/180sec.flv
-http://static.brazzers.com/scenes/3324/180sec.flv
-http://static.brazzers.com/scenes/3325/180sec.flv
-http://static.brazzers.com/scenes/3326/180sec.flv
-http://static.brazzers.com/scenes/3327/180sec.flv
-http://static.brazzers.com/scenes/3328/180sec.flv
-http://static.brazzers.com/scenes/3330/180sec.flv
-http://static.brazzers.com/scenes/3331/180sec.flv
-http://static.brazzers.com/scenes/3332/180sec.flv
-http://static.brazzers.com/scenes/3333/180sec.flv
-http://static.brazzers.com/scenes/3334/180sec.flv
-http://static.brazzers.com/scenes/3335/180sec.flv
-http://static.brazzers.com/scenes/3336/180sec.flv
-http://static.brazzers.com/scenes/3337/180sec.flv
-http://static.brazzers.com/scenes/3338/180sec.flv
-http://static.brazzers.com/scenes/3339/180sec.flv
-http://static.brazzers.com/scenes/3340/180sec.flv
-http://static.brazzers.com/scenes/3341/180sec.flv
-http://static.brazzers.com/scenes/3342/180sec.flv
-http://static.brazzers.com/scenes/3343/180sec.flv
-http://static.brazzers.com/scenes/3344/180sec.flv
-http://static.brazzers.com/scenes/3345/180sec.flv
-http://static.brazzers.com/scenes/3347/180sec.flv
-http://static.brazzers.com/scenes/3348/180sec.flv
-http://static.brazzers.com/scenes/3349/180sec.flv
-http://static.brazzers.com/scenes/3351/180sec.flv
-http://static.brazzers.com/scenes/3352/180sec.flv
-http://static.brazzers.com/scenes/3353/180sec.flv
-http://static.brazzers.com/scenes/3354/180sec.flv
-http://static.brazzers.com/scenes/3355/180sec.flv
-http://static.brazzers.com/scenes/3356/180sec.flv
-http://static.brazzers.com/scenes/3357/180sec.flv
-http://static.brazzers.com/scenes/3358/180sec.flv
-http://static.brazzers.com/scenes/3359/180sec.flv
-http://static.brazzers.com/scenes/3362/180sec.flv
-http://static.brazzers.com/scenes/3365/180sec.flv
-http://static.brazzers.com/scenes/3366/180sec.flv
-http://static.brazzers.com/scenes/3367/180sec.flv
-http://static.brazzers.com/scenes/3368/180sec.flv
-http://static.brazzers.com/scenes/3369/180sec.flv
-http://static.brazzers.com/scenes/3371/180sec.flv
-http://static.brazzers.com/scenes/3372/180sec.flv
-http://static.brazzers.com/scenes/3373/180sec.flv
-http://static.brazzers.com/scenes/3374/180sec.flv
-http://static.brazzers.com/scenes/3375/180sec.flv
-http://static.brazzers.com/scenes/3376/180sec.flv
-http://static.brazzers.com/scenes/3377/180sec.flv
-http://static.brazzers.com/scenes/3378/180sec.flv
-http://static.brazzers.com/scenes/3379/180sec.flv
-http://static.brazzers.com/scenes/3380/180sec.flv
-http://static.brazzers.com/scenes/3381/180sec.flv
-http://static.brazzers.com/scenes/3382/180sec.flv
-http://static.brazzers.com/scenes/3383/180sec.flv
-http://static.brazzers.com/scenes/3384/180sec.flv
-http://static.brazzers.com/scenes/3385/180sec.flv
-http://static.brazzers.com/scenes/3386/180sec.flv
-http://static.brazzers.com/scenes/3387/180sec.flv
-http://static.brazzers.com/scenes/3388/180sec.flv
-http://static.brazzers.com/scenes/3389/180sec.flv
-http://static.brazzers.com/scenes/3390/180sec.flv
-http://static.brazzers.com/scenes/3391/180sec.flv
-http://static.brazzers.com/scenes/3392/180sec.flv
-http://static.brazzers.com/scenes/3393/180sec.flv
-http://static.brazzers.com/scenes/3394/180sec.flv
-http://static.brazzers.com/scenes/3395/180sec.flv
-http://static.brazzers.com/scenes/3396/180sec.flv
-http://static.brazzers.com/scenes/3397/180sec.flv
-http://static.brazzers.com/scenes/3398/180sec.flv
-http://static.brazzers.com/scenes/3400/180sec.flv
-http://static.brazzers.com/scenes/3401/180sec.flv
-http://static.brazzers.com/scenes/3402/180sec.flv
-http://static.brazzers.com/scenes/3404/180sec.flv
-http://static.brazzers.com/scenes/3405/180sec.flv
-http://static.brazzers.com/scenes/3406/180sec.flv
-http://static.brazzers.com/scenes/3407/180sec.flv
-http://static.brazzers.com/scenes/3408/180sec.flv
-http://static.brazzers.com/scenes/3409/180sec.flv
-http://static.brazzers.com/scenes/3410/180sec.flv
-http://static.brazzers.com/scenes/3411/180sec.flv
-http://static.brazzers.com/scenes/3412/180sec.flv
-http://static.brazzers.com/scenes/3413/180sec.flv
-http://static.brazzers.com/scenes/3414/180sec.flv
-http://static.brazzers.com/scenes/3415/180sec.flv
-http://static.brazzers.com/scenes/3416/180sec.flv
-http://static.brazzers.com/scenes/3417/180sec.flv
-http://static.brazzers.com/scenes/3418/180sec.flv
-http://static.brazzers.com/scenes/3419/180sec.flv
-http://static.brazzers.com/scenes/3420/180sec.flv
-http://static.brazzers.com/scenes/3421/180sec.flv
-http://static.brazzers.com/scenes/3422/180sec.flv
-http://static.brazzers.com/scenes/3423/180sec.flv
-http://static.brazzers.com/scenes/3424/180sec.flv
-http://static.brazzers.com/scenes/3425/180sec.flv
-http://static.brazzers.com/scenes/3426/180sec.flv
-http://static.brazzers.com/scenes/3427/180sec.flv
-http://static.brazzers.com/scenes/3428/180sec.flv
-http://static.brazzers.com/scenes/3429/180sec.flv
-http://static.brazzers.com/scenes/3430/180sec.flv
-http://static.brazzers.com/scenes/3431/180sec.flv
-http://static.brazzers.com/scenes/3432/180sec.flv
-http://static.brazzers.com/scenes/3433/180sec.flv
-http://static.brazzers.com/scenes/3434/180sec.flv
-http://static.brazzers.com/scenes/3435/180sec.flv
-http://static.brazzers.com/scenes/3436/180sec.flv
-http://static.brazzers.com/scenes/3437/180sec.flv
-http://static.brazzers.com/scenes/3438/180sec.flv
-http://static.brazzers.com/scenes/3439/180sec.flv
-http://static.brazzers.com/scenes/3440/180sec.flv
-http://static.brazzers.com/scenes/3441/180sec.flv
-http://static.brazzers.com/scenes/3442/180sec.flv
-http://static.brazzers.com/scenes/3443/180sec.flv
-http://static.brazzers.com/scenes/3444/180sec.flv
-http://static.brazzers.com/scenes/3445/180sec.flv
-http://static.brazzers.com/scenes/3446/180sec.flv
-http://static.brazzers.com/scenes/3447/180sec.flv
-http://static.brazzers.com/scenes/3448/180sec.flv
-http://static.brazzers.com/scenes/3449/180sec.flv
-http://static.brazzers.com/scenes/3466/180sec.flv
-http://static.brazzers.com/scenes/3468/180sec.flv
-http://static.brazzers.com/scenes/3469/180sec.flv
-http://static.brazzers.com/scenes/3471/180sec.flv
-http://static.brazzers.com/scenes/3474/180sec.flv
-http://static.brazzers.com/scenes/3475/180sec.flv
-http://static.brazzers.com/scenes/3477/180sec.flv
-http://static.brazzers.com/scenes/3482/180sec.flv
-http://static.brazzers.com/scenes/3483/180sec.flv
-http://static.brazzers.com/scenes/3485/180sec.flv
-http://static.brazzers.com/scenes/3487/180sec.flv
-http://static.brazzers.com/scenes/3488/180sec.flv
-http://static.brazzers.com/scenes/3489/180sec.flv
-http://static.brazzers.com/scenes/3490/180sec.flv
-http://static.brazzers.com/scenes/3491/180sec.flv
-http://static.brazzers.com/scenes/3492/180sec.flv
-http://static.brazzers.com/scenes/3493/180sec.flv
-http://static.brazzers.com/scenes/3494/180sec.flv
-http://static.brazzers.com/scenes/3495/180sec.flv
-http://static.brazzers.com/scenes/3496/180sec.flv
-http://static.brazzers.com/scenes/3497/180sec.flv
-http://static.brazzers.com/scenes/3498/180sec.flv
-http://static.brazzers.com/scenes/3499/180sec.flv
-http://static.brazzers.com/scenes/3500/180sec.flv
-http://static.brazzers.com/scenes/3501/180sec.flv
-http://static.brazzers.com/scenes/3503/180sec.flv
-http://static.brazzers.com/scenes/3504/180sec.flv
-http://static.brazzers.com/scenes/3505/180sec.flv
-http://static.brazzers.com/scenes/3507/180sec.flv
-http://static.brazzers.com/scenes/3508/180sec.flv
-http://static.brazzers.com/scenes/3509/180sec.flv
-http://static.brazzers.com/scenes/3510/180sec.flv
-http://static.brazzers.com/scenes/3511/180sec.flv
-http://static.brazzers.com/scenes/3512/180sec.flv
-http://static.brazzers.com/scenes/3513/180sec.flv
-http://static.brazzers.com/scenes/3514/180sec.flv
-http://static.brazzers.com/scenes/3515/180sec.flv
-http://static.brazzers.com/scenes/3516/180sec.flv
-http://static.brazzers.com/scenes/3517/180sec.flv
-http://static.brazzers.com/scenes/3518/180sec.flv
-http://static.brazzers.com/scenes/3520/180sec.flv
-http://static.brazzers.com/scenes/3521/180sec.flv
-http://static.brazzers.com/scenes/3522/180sec.flv
-http://static.brazzers.com/scenes/3523/180sec.flv
-http://static.brazzers.com/scenes/3526/180sec.flv
-http://static.brazzers.com/scenes/3527/180sec.flv
-http://static.brazzers.com/scenes/3528/180sec.flv
-http://static.brazzers.com/scenes/3529/180sec.flv
-http://static.brazzers.com/scenes/3530/180sec.flv
-http://static.brazzers.com/scenes/3531/180sec.flv
-http://static.brazzers.com/scenes/3534/180sec.flv
-http://static.brazzers.com/scenes/3535/180sec.flv
-http://static.brazzers.com/scenes/3536/180sec.flv
-http://static.brazzers.com/scenes/3537/180sec.flv
-http://static.brazzers.com/scenes/3538/180sec.flv
-http://static.brazzers.com/scenes/3539/180sec.flv
-http://static.brazzers.com/scenes/3540/180sec.flv
-http://static.brazzers.com/scenes/3541/180sec.flv
-http://static.brazzers.com/scenes/3542/180sec.flv
-http://static.brazzers.com/scenes/3543/180sec.flv
-http://static.brazzers.com/scenes/3544/180sec.flv
-http://static.brazzers.com/scenes/3545/180sec.flv
-http://static.brazzers.com/scenes/3546/180sec.flv
-http://static.brazzers.com/scenes/3547/180sec.flv
-http://static.brazzers.com/scenes/3548/180sec.flv
-http://static.brazzers.com/scenes/3549/180sec.flv
-http://static.brazzers.com/scenes/3550/180sec.flv
-http://static.brazzers.com/scenes/3551/180sec.flv
-http://static.brazzers.com/scenes/3552/180sec.flv
-http://static.brazzers.com/scenes/3553/180sec.flv
-http://static.brazzers.com/scenes/3554/180sec.flv
-http://static.brazzers.com/scenes/3555/180sec.flv
-http://static.brazzers.com/scenes/3556/180sec.flv
-http://static.brazzers.com/scenes/3557/180sec.flv
-http://static.brazzers.com/scenes/3558/180sec.flv
-http://static.brazzers.com/scenes/3559/180sec.flv
-http://static.brazzers.com/scenes/3560/180sec.flv
-http://static.brazzers.com/scenes/3561/180sec.flv
-http://static.brazzers.com/scenes/3562/180sec.flv
-http://static.brazzers.com/scenes/3563/180sec.flv
-http://static.brazzers.com/scenes/3564/180sec.flv
-http://static.brazzers.com/scenes/3565/180sec.flv
-http://static.brazzers.com/scenes/3566/180sec.flv
-http://static.brazzers.com/scenes/3567/180sec.flv
-http://static.brazzers.com/scenes/3568/180sec.flv
-http://static.brazzers.com/scenes/3569/180sec.flv
-http://static.brazzers.com/scenes/3570/180sec.flv
-http://static.brazzers.com/scenes/3571/180sec.flv
-http://static.brazzers.com/scenes/3572/180sec.flv
-http://static.brazzers.com/scenes/3573/180sec.flv
-http://static.brazzers.com/scenes/3575/180sec.flv
-http://static.brazzers.com/scenes/3576/180sec.flv
-http://static.brazzers.com/scenes/3577/180sec.flv
-http://static.brazzers.com/scenes/3586/180sec.flv
-http://static.brazzers.com/scenes/3588/180sec.flv
-http://static.brazzers.com/scenes/3589/180sec.flv
-http://static.brazzers.com/scenes/3590/180sec.flv
-http://static.brazzers.com/scenes/3591/180sec.flv
-http://static.brazzers.com/scenes/3592/180sec.flv
-http://static.brazzers.com/scenes/3593/180sec.flv
-http://static.brazzers.com/scenes/3594/180sec.flv
-http://static.brazzers.com/scenes/3595/180sec.flv
-http://static.brazzers.com/scenes/3596/180sec.flv
-http://static.brazzers.com/scenes/3597/180sec.flv
-http://static.brazzers.com/scenes/3598/180sec.flv
-http://static.brazzers.com/scenes/3599/180sec.flv
-http://static.brazzers.com/scenes/3600/180sec.flv
-http://static.brazzers.com/scenes/3601/180sec.flv
-http://static.brazzers.com/scenes/3602/180sec.flv
-http://static.brazzers.com/scenes/3603/180sec.flv
-http://static.brazzers.com/scenes/3604/180sec.flv
-http://static.brazzers.com/scenes/3605/180sec.flv
-http://static.brazzers.com/scenes/3606/180sec.flv
-http://static.brazzers.com/scenes/3607/180sec.flv
-http://static.brazzers.com/scenes/3608/180sec.flv
-http://static.brazzers.com/scenes/3609/180sec.flv
-http://static.brazzers.com/scenes/3610/180sec.flv
-http://static.brazzers.com/scenes/3611/180sec.flv
-http://static.brazzers.com/scenes/3612/180sec.flv
-http://static.brazzers.com/scenes/3613/180sec.flv
-http://static.brazzers.com/scenes/3614/180sec.flv
-http://static.brazzers.com/scenes/3615/180sec.flv
-http://static.brazzers.com/scenes/3616/180sec.flv
-http://static.brazzers.com/scenes/3617/180sec.flv
-http://static.brazzers.com/scenes/3619/180sec.flv
-http://static.brazzers.com/scenes/3620/180sec.flv
-http://static.brazzers.com/scenes/3621/180sec.flv
-http://static.brazzers.com/scenes/3622/180sec.flv
-http://static.brazzers.com/scenes/3623/180sec.flv
-http://static.brazzers.com/scenes/3625/180sec.flv
-http://static.brazzers.com/scenes/3626/180sec.flv
-http://static.brazzers.com/scenes/3627/180sec.flv
-http://static.brazzers.com/scenes/3628/180sec.flv
-http://static.brazzers.com/scenes/3629/180sec.flv
-http://static.brazzers.com/scenes/3630/180sec.flv
-http://static.brazzers.com/scenes/3631/180sec.flv
-http://static.brazzers.com/scenes/3632/180sec.flv
-----------------------------------------------------------------------
-Baby Porn
-http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4
-http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4
-http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4
-http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4
-----------------------------------------------------------------------
-4K Porno
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
-----------------------------------------------------------------------
-Porno 3D
-http://galleries.3Dcatchyfetish.com/tube/001/trailer.f4v
-http://galleries.3dcatchyfetish.com/tube/002/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/003/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/004/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/012/trailer.f4v
-http://galleries.3dcatchyfetish.com/tube/013/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/014/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/017/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/018/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/019/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/022/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/023trailer.f4v
-http://galleries.3dcatchyfetish.com/tube/024/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/027/trailer.f4v
-http://galleries.3dcatchyfetish.com/tube/028/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/029/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/030/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/031/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/032/trailer.f4v
-http://galleries.3Dcatchyfetish.com/tube/033/trailer.f4v
-----------------------------------------------------------------------
-Fodas Caseiras
-http://www.flagras.blog.br/wp-content/uploads/2016/02/empregada1.mp4
-http://www.flagras.blog.br/wp-content/uploads/2016/02/escola3.mp4
-http://www.flagras.blog.br/wp-content/uploads/2016/04/V%C3%ADdeo-de-suruba.mp4
-http://www.flagras.blog.br/wp-content/uploads/2016/04/Suruba-da-novinha.mp4
-http://www.flagras.blog.br/wp-content/uploads/2016/06/Flagra-amador-do-moleque-comendo-a-ficante-no-banheiro-da-ca.flv.mp4
-http://www.flagras.blog.br/wp-content/uploads/2016/06/Flagra-da-Karina.mp4
-http://www.flagras.blog.br/wp-content/uploads/2016/07/Flagra-vizinha-dando.mp4
-http://www.flagras.blog.br/wp-content/uploads/2016/08/sexo-na-praia.mp4
-http://www.flagras.blog.br/wp-content/uploads/2016/10/flagras-095.mp4
-http://www.flagras.blog.br/wp-content/uploads/2017/03/flagras-306.mp4
-http://www.flagras.blog.br/wp-content/uploads/2017/03/flagras-279.mp4
-http://www.flagras.blog.br/wp-content/uploads/2017/03/flagras-278.mp4
-----------------------------------------------------------------------
-Novinha Gostosa10
-http://videos.novinhagostosa10.com/upload_videos/39960389.mp4
-http://videos.novinhagostosa10.com/upload_videos/37214497.mp4
-http://videos.novinhagostosa10.com/upload_videos/36518569.mp4
-http://videos.novinhagostosa10.com/upload_videos/27356487.mp4
-http://videos.novinhagostosa10.com/upload_videos/9270065.mp4
-http://videos.novinhagostosa10.com/upload_videos/21295905.mp4
-http://videos.novinhagostosa10.com/upload_videos/1016024.mp4
-http://streaming.pornonacionais.com/wp-content/uploads/2019/03/Porno-pai-e-filha.mp4
-----------------------------------------------------------------------
-Porno Videos
-http://tube.paperstreetcash.com/12mins/rubateen/rubateen_neona_12minute.mp4
-http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
-http://tube.paperstreetcash.com/12mins/rubateen/rubateen_mirabella_12minute.mp4
-http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_lacie_channing_8minutes.mp4
-http://tube.paperstreetcash.com/12mins/rubateen/rubateen_jane_12minute.mp4
-http://tube.paperstreetcash.com/12mins/rubateen/rubateen_ilina_12minute.mp4
-http://tube.paperstreetcash.com/12mins/rubateen/rubateen_gerta_12minute.mp4
-http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
-http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
-http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
-http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
-http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
-----------------------------------------------------------------------
+
