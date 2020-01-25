@@ -14,3 +14,54 @@ http://lista.serverpower.me:80/757575/757575/37533
 http://lista.serverpower.me:80/757575/757575/37202
 #EXTINF:-1,eurosport 1
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39494
+#EXTINF:-1, FOX PREMIUM
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/83.m3u8
+#EXTINF:-1
+tvg-logo="
+" group-title="Categorias",  Record
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_360_av-p.m3u8?sd=10&amp;rebase=on
+ 
+#EXTINF:-1
+tvg-logo="
+" group-title="Categorias",  Premier 3
+https://globolive.akamaized.net/d/c/x2800/s/hls-pfc7/hls-pfc7_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+ 
+#EXTINF:-1
+tvg-logo="
+" group-title="Categorias",  Record
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-p.m3u8?sd=10&amp;rebase=on
+ 
+#EXTINF:-1
+tvg-logo="
+" group-title="Categorias",  Disney Channel
+https://mj1b2xsspj.singularcdn.net.br/encompass/DisneyChannelBRA/master_Layer3.m3u8
+ 
+#EXTINF:-1
+tvg-logo="
+" group-title="Categorias",  Ratibum
+https://mj1b2xsspj.singularcdn.net.br/encompass/TVRaTimBum/master_Layer4.m3u8
+ 
+#EXTINF:-1
+tvg-logo="
+" group-title="Categorias",  Gloobinho
+https://globolive.akamaized.net/d/c/x2800/s/hls-gloobinho24ha/hls-gloobinho24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+ 
+#EXTINF:-1
+tvg-logo="
+" group-title="Categorias",  Gloob
+https://globolive.akamaized.net/d/c/x2800/s/hls-gloob24ha/hls-gloob24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+ 
+#EXTINF:-1
+tvg-logo="
+" group-title="Categorias",  Premier 2
+https://globolive.akamaized.net/d/c/x2800/s/hls-pfc4/hls-pfc4_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+ 
+#EXTINF:-1
+tvg-logo="
+" group-title="Categorias", Premier
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc4/hls-pfc4_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+ 
+#EXTINF:-1
+tvg-logo="
+" group-title="Categorias", BBB 20
+https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
