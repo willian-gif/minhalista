@@ -38,7 +38,4 @@ https://stmv1.ifantasy.com.br/gospelf/gospelf/playlist-480.m3u8?wowzasessionid=8
 https://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=1030040184
 #EXTINF:-1,retrotv
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w2175849022.m3u8
-#EXTINF:-1,FMoDia
-https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b298304.m3u8
-#EXTINF:-1,CapitalTv
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?ISAQUE
+
