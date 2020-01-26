@@ -4,11 +4,11 @@
 https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 #EXTINF:-1,OFF
 https://globolive.akamaized.net/d/c/x2800/s/hls-off24ha/hls-off24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-0,SPORTV
+#EXTINF:-1,SPORTV
 https://globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-0,SPORTV 2
+#EXTINF:-1,SPORTV 2
 https://globolive.akamaized.net/d/c/x2800/s/hls-spo224ha/hls-spo224ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-0,SPORTV 3
+#EXTINF:-1,SPORTV 3
 https://globolive.akamaized.net/d/c/x2800/s/hls-spo324ha/hls-spo324ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 #EXTINF:-1,COMBATE
 https://globolive.akamaized.net/d/c/x2800/s/hls-cbt24ha/hls-cbt24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
@@ -32,10 +32,31 @@ https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_2126/playlis
 https://globolive.akamaized.net/d/c/x2800/s/hls-bra24ha/hls-bra24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 #EXTINF:-1,PREMIERE
 https://globolive.akamaized.net/d/c/x2800/s/hls-pfc124ha/hls-pfc124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,gospelfilmes
-https://stmv1.ifantasy.com.br/gospelf/gospelf/playlist-480.m3u8?wowzasessionid=806916836
-#EXTINF:-1,gospelcartoon
-https://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=1030040184
-#EXTINF:-1,retrotv
-http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w2175849022.m3u8
+#EXTINF:-1,ESPN EXTRA
+http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Extra/master_Layer1.m3u8
+#EXTINF:-1,ESPN 2
+http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN2/master_Layer1.m3u8
+#EXTINF:-1,ESPN
+http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN/master_Layer1.m3u8
+#EXTINF:-1,ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1,DISNEY XD
+http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyXDBRA/master_Layer2.m3u8
+#EXTINF:-1,DISNEY JR
+http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyJrBRA/master_Layer2.m3u8
+#EXTINF:-1,DISNEY Channel
+http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyChannelBRA/master_Layer2.m3u8
+#EXTINF:-1,SYFY
+https://globolive.akamaized.net/d/c/x2800/s/hls-syfy24ha/hls-syfy24ha_2547/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:-1,STUDIO UNIVERSAL
+https://globolive.akamaized.net/d/c/x2800/s/hls-stduniv24ha/hls-stduniv24ha_2547/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:-1,UNIVERSAL CHANNEL
+https://globolive.akamaized.net/d/c/x2800/s/hls-univ24ha/hls-univ24ha_2547/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:-1,GOSPEL MUSIC TV
+http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8
+#EXTINF:-1,HIT MUSIC
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1,MAIS GLOBOSAT
+https://globolive.akamaized.net/d/c/x2800/s/hls-maisgsat24ha/hls-maisgsat24ha_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:-1,
 
