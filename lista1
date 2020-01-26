@@ -30,18 +30,6 @@ https://globolive.akamaized.net/d/c/x2800/s/hls-bis24ha/hls-bis24ha_2126/playlis
 https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 #EXTINF:-1,CANAL BRASIL
 https://globolive.akamaized.net/d/c/x2800/s/hls-bra24ha/hls-bra24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,NBC
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist.m3u8
-#EXTINF:-1,BBCworld
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1,AWS
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1,DW
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#EXTINF:-1,skynews
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1,nat geo
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 #EXTINF:-1,PREMIERE
 https://globolive.akamaized.net/d/c/x2800/s/hls-pfc124ha/hls-pfc124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 #EXTINF:-1,cinemais
@@ -50,16 +38,6 @@ https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w541394271.m3u
 http://c2.manasat.com:1935/kkids/kkids2/chunklist_w817493835.m3u8
 #EXTINF:-1,apalavra
 https://5a7d54e35f9d2.streamlock.net/apalavra/apalavra.smil/chunklist_w1522438324_b1300000.m3u8
-#EXTINF:-1,agrobrasiltv
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/chunklist_w2134620678.m3u8
-#EXTINF:-1,pioneira-tv3
-https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w1654476730.m3u8
-#EXTINF:-1,agrobrasiltv
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/chunklist_w2134620678.m3u8
-#EXTINF:-1,agrocanal
-https://5c49cd60dfe56.streamlock.net:6443/agrocanal/live/chunklist_w1234661345.m3u8
-#EXTINF:-1,canaldoboi
-https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist.m3u8
 #EXTINF:-1,gospelfilmes
 https://stmv1.ifantasy.com.br/gospelf/gospelf/playlist-480.m3u8?wowzasessionid=806916836
 #EXTINF:-1,gospelcartoon
