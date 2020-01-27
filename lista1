@@ -62,4 +62,23 @@ https://globolive.akamaized.net/d/c/x2800/s/hls-maisgsat24ha/hls-maisgsat24ha_23
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/foxsports.smil/chunklist_sleng.m3u8
 #EXTINF:-1,premiere sd
 https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc124ha/hls-pfc124ha_1151/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:-1,TNT
+https://origin.canaismax.com/mylive/tnthd/video.m3u8?md5=rbjwqaOWYF90ZR9hvThB6w&expires=1579700824
+#EXTINF:-1,TELECINE CULT
+https://origin.canaismax.com/live/telecineculthd/video.m3u8?md5=mtmTPYXqtlK8PPBhx9ySBQ&expires=1579700996
+#EXTINF:-1,TELECINE PIPOCA
+https://origin.canaismax.com/live/telecinepipocahd/video.m3u8?md5=K01uPFbAjF7QRc4suIZpjA&expires=1579834486
+#EXTINF:-1,TELECINE PREMIUM
+https://origin.canaismax.com/live/telecinepremiumhd/video.m3u8?md5=pyhaJjSuF7ka8UMjj96LGg&expires=1579834725
+#EXTINF:-1,TELECINE ACTION
+https://origin.canaismax.com/live/telecineactionhd/video.m3u8?md5=LVIF55GhE33_-osNUnqwpQ&expires=1579837920
+#EXTINF:-1,HBO
+https://origin.canaismax.com/mylive/hbosd/video.m3u8?md5=4v4U_NF1gPdzggxsEDly4g&expires=1579838107
+#EXTINF:-1,HBO PLUS
+https://origin.canaismax.com/live/hboplushd/video.m3u8?md5=NiskVvCcdZOVICxlWH1vrw&expires=1579838226
+#EXTINF:-1,HBO 2
+https://origin.canaismax.com/live/hbo2hd/video.m3u8?md5=PCdizdKe5v0TSP6XpLHroQ&expires=1579838376
+#EXTINF:-1,FOXPREMIUM 1
+https://origin.canaismax.com/live/foxpremiumhd/video.m3u8?md5=nDKfnNUynjXSw2J_ntuEDA&expires=1579836604
+
 
