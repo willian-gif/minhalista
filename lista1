@@ -58,9 +58,10 @@ http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 #EXTINF:-1,MAIS GLOBOSAT
 https://globolive.akamaized.net/d/c/x2800/s/hls-maisgsat24ha/hls-maisgsat24ha_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,O Cavaleiro das Trevas 1080p
-https://lh3.googleusercontent.com/BHPfSOezzD-BCWSKrRifzJ3pAc3ldXkwMQX8OSK-xC1ytXOfvVN9yNqQQKGSd7MUPQ69NYCwjA=m37
-#EXTINF:-1,O Cavaleiro das Trevas 720p
-https://lh3.googleusercontent.com/BHPfSOezzD-BCWSKrRifzJ3pAc3ldXkwMQX8OSK-xC1ytXOfvVN9yNqQQKGSd7MUPQ69NYCwjA=m22
-#EXTINF:-1,O Cavaleiro das Trevas 360p
-https://lh3.googleusercontent.com/BHPfSOezzD-BCWSKrRifzJ3pAc3ldXkwMQX8OSK-xC1ytXOfvVN9yNqQQKGSd7MUPQ69NYCwjA=m18
+#EXTINF:-1,fox sports hd
+https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/foxsports.smil/chunklist_sleng.m3u8
+#EXTINF:-1,espn brasil hd
+http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
+#EXTINF:-1,premiere sd
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc124ha/hls-pfc124ha_1151/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
