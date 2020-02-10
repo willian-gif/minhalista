@@ -1,86 +1,22 @@
-#EXTM3U
-
-#EXTINF:-1,GLOBO RJ
-https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,OFF
-https://globolive.akamaized.net/d/c/x2800/s/hls-off24ha/hls-off24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,SPORTV
-https://globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,SPORTV 2
-https://globolive.akamaized.net/d/c/x2800/s/hls-spo224ha/hls-spo224ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,SPORTV 3
-https://globolive.akamaized.net/d/c/x2800/s/hls-spo324ha/hls-spo324ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,COMBATE
-https://globolive.akamaized.net/d/c/x2800/s/hls-cbt24ha/hls-cbt24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,LITTLE GLOOB
-https://globolive.akamaized.net/d/c/x2800/s/hls-gloobinho24ha/hls-gloobinho24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,GLOOB
-https://globolive.akamaized.net/d/c/x2800/s/hls-gloob24ha/hls-gloob24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,GLOBO NEWS
-https://globolive.akamaized.net/d/c/x2800/s/hls-gnews24ha/hls-gnews24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,TOP TV
-https://5d23bdca513db.streamlock.net:443/8006/8006/playlist.m3u8
-#EXTINF:-1,VIVA
-https://globolive.akamaized.net/d/c/x2800/s/hls-viva24ha/hls-viva24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,GNT
-https://globolive.akamaized.net/d/c/x2800/s/hls-gnt24ha/hls-gnt24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,BIS
-https://globolive.akamaized.net/d/c/x2800/s/hls-bis24ha/hls-bis24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,MULTISHOW
-https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,CANAL BRASIL
-https://globolive.akamaized.net/d/c/x2800/s/hls-bra24ha/hls-bra24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,PREMIERE
-https://globolive.akamaized.net/d/c/x2800/s/hls-pfc124ha/hls-pfc124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,ESPN EXTRA
-http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Extra/master_Layer1.m3u8
-#EXTINF:-1,ESPN 2
-http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN2/master_Layer1.m3u8
-#EXTINF:-1,ESPN
-http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN/master_Layer1.m3u8
-#EXTINF:-1,ALL SPORTS
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1,DISNEY XD
-http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyXDBRA/master_Layer2.m3u8
-#EXTINF:-1,DISNEY JR
-http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyJrBRA/master_Layer2.m3u8
-#EXTINF:-1,DISNEY Channel
-http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyChannelBRA/master_Layer2.m3u8
-#EXTINF:-1,SYFY
-https://globolive.akamaized.net/d/c/x2800/s/hls-syfy24ha/hls-syfy24ha_2547/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,STUDIO UNIVERSAL
-https://globolive.akamaized.net/d/c/x2800/s/hls-stduniv24ha/hls-stduniv24ha_2547/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,UNIVERSAL CHANNEL
-https://globolive.akamaized.net/d/c/x2800/s/hls-univ24ha/hls-univ24ha_2547/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,GOSPEL MUSIC TV
-http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8
-#EXTINF:-1,HIT MUSIC
-http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:-1,MAIS GLOBOSAT
-https://globolive.akamaized.net/d/c/x2800/s/hls-maisgsat24ha/hls-maisgsat24ha_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,fox sports hd
-https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/foxsports.smil/chunklist_sleng.m3u8
-#EXTINF:-1,premiere sd
-https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc124ha/hls-pfc124ha_1151/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1,TNT
-https://origin.canaismax.com/mylive/tnthd/video.m3u8?md5=rbjwqaOWYF90ZR9hvThB6w&expires=1579700824
-#EXTINF:-1,TELECINE CULT
-https://origin.canaismax.com/live/telecineculthd/video.m3u8?md5=mtmTPYXqtlK8PPBhx9ySBQ&expires=1579700996
-#EXTINF:-1,TELECINE PIPOCA
-https://origin.canaismax.com/live/telecinepipocahd/video.m3u8?md5=K01uPFbAjF7QRc4suIZpjA&expires=1579834486
-#EXTINF:-1,TELECINE PREMIUM
-https://origin.canaismax.com/live/telecinepremiumhd/video.m3u8?md5=pyhaJjSuF7ka8UMjj96LGg&expires=1579834725
-#EXTINF:-1,TELECINE ACTION
-https://origin.canaismax.com/live/telecineactionhd/video.m3u8?md5=LVIF55GhE33_-osNUnqwpQ&expires=1579837920
-#EXTINF:-1,HBO
-https://origin.canaismax.com/mylive/hbosd/video.m3u8?md5=4v4U_NF1gPdzggxsEDly4g&expires=1579838107
-#EXTINF:-1,HBO PLUS
-https://origin.canaismax.com/live/hboplushd/video.m3u8?md5=NiskVvCcdZOVICxlWH1vrw&expires=1579838226
-#EXTINF:-1,HBO 2
-https://origin.canaismax.com/live/hbo2hd/video.m3u8?md5=PCdizdKe5v0TSP6XpLHroQ&expires=1579838376
-#EXTINF:-1,FOXPREMIUM 1
-https://origin.canaismax.com/live/foxpremiumhd/video.m3u8?md5=nDKfnNUynjXSw2J_ntuEDA&expires=1579836604
-#EXTINF:-1,Boomerang
-http://185.93.1.216:8900/live/B2A463CD6CC4/B2A463CD6CC4/5785.ts
-
-
+#EXTINF:0,TELECINE PREMIUM
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecinepremium_a929eb33_e57c2ec622eaf5cb974da153da2fb277a80db970/playlist.m3u8
+#EXTINF:0,GLOBO
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_18fd59971e9813cd93add221915f0911494805b0/playlist.m3u8
+#EXTINF:0,SBT
+https://r2---sn-jgxg5acg-m52e.googlevideo.com/videoplayback?expire=1581313170&ei=MphAXtHpNYzIwASJ-4DQBQ&ip=45.162.167.20&id=XiAzNp9JOnw.0&itag=140&source=yt_live_broadcast&requiressl=yes&mm=44%2C29&mn=sn-jgxg5acg-m52e%2Csn-bg07dnz7&ms=lva%2Crdu&mv=m&mvi=1&pl=24&initcwndbps=626250&vprv=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&gir=yes&mt=1581291502&fvip=4&keepalive=yes&fexp=23842630&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=ALgxI2wwRAIgBzn3IXD_PQksfMvHtAzJ1XzRPIZia6QgX0aC00bUYwwCIBsV0NEmH2KtpD3s4N8NFl5Rkl44pvPWV2NIuJ5Cvl7E&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRAIgBrG-YAo-uF3E6CTqtrGFl-AqTwqJrlU0-uU6JfUMoWkCID3K7YM0St8o3xTfJtJVfvJanZjmlRA-W22AC-L4eASB&alr=yes&cpn=msHqOXlHsy7LxLrF&cver=20200207&sq=758669
+#EXTINF:0,band
+https://video01.kshost.com.br/rba2779/rba2779/chunklist.m3u8
+#EXTINF:0,redetv
+https://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1005388798.m3u8
+#EXTINF:0,sportv alt
+https://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1005388798.m3u8
+#EXTINF:0,COMBATE
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/combate_ac3478d6_5cfb9299ab65db96f0a1af7d9749b2fa28761810/playlist.m3u8
+#EXTINF:0,ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,SPORTV2
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv2_22ab0e43_e38d913e26b132997dc80c58cb41f4bf47a3f61d/playlist.m3u8
+#EXTINF:0,globo
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_18fd59971e9813cd93add221915f0911494805b0/playlist.m3u8
