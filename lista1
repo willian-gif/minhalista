@@ -1,124 +1,155 @@
 #EXTM3U
-#EXTINF:-1,A&E HD
-http://62.4.21.29:25461/467858/467858/37219
-#EXTINF:-1,A&E HD (ALTER)
-http://62.4.21.29:25461/467858/467858/37555
-#EXTINF:-1,A&E
-http://62.4.21.29:25461/467858/467858/37029
-#EXTINF:-1,A&E (ALTER)
-http://62.4.21.29:25461/467858/467858/37577
-#EXTINF:-1,AMC HD
-http://62.4.21.29:25461/467858/467858/37132
-#EXTINF:-1,AMC HD (ALTER)
-http://62.4.21.29:25461/467858/467858/37557
-#EXTINF:-1,AMC
-http://62.4.21.29:25461/467858/467858/37043
-#EXTINF:-1,ANIMAL PLANET HD
-http://62.4.21.29:25461/467858/467858/37133
-#EXTINF:-1,ANIMAL PLANET HD (ALTER)
-http://62.4.21.29:25461/467858/467858/37595
-#EXTINF:-1,ANIMAL PLANET
-http://62.4.21.29:25461/467858/467858/37076
-#EXTINF:-1,ANIMAL PLANET (ALTER)
-http://62.4.21.29:25461/467858/467858/37583
-#EXTINF:-1,ARTE 1 HD
-http://62.4.21.29:25461/467858/467858/37134
-#EXTINF:-1,ARTE 1 HD (ALTER)
-http://62.4.21.29:25461/467858/467858/37641
-#EXTINF:-1,ARTE 1
-http://62.4.21.29:25461/467858/467858/37075
-#EXTINF:-1,AXN HD
-http://62.4.21.29:25461/467858/467858/37135
-#EXTINF:-1,AXN HD (ALTER)
-http://62.4.21.29:25461/467858/467858/37556
-#EXTINF:-1,AXN
-http://62.4.21.29:25461/467858/467858/37077
-#EXTINF:-1,AXN (ALTER)
-http://62.4.21.29:25461/467858/467858/37578
-#EXTINF:-1,BABY TV (ALTER)
-http://62.4.21.29:25461/467858/467858/37598
-#EXTINF:-1,BAND NEWS HD
-http://62.4.21.29:25461/467858/467858/37136
-#EXTINF:-1,BAND NEWS
-http://62.4.21.29:25461/467858/467858/37104
-#EXTINF:-1,BAND HD
-http://62.4.21.29:25461/467858/467858/37220
-#EXTINF:-1,BAND
-http://62.4.21.29:25461/467858/467858/37096
-#EXTINF:-1,BAND (ALTER)
-http://62.4.21.29:25461/467858/467858/37639
-#EXTINF:-1,BAND SPORTS HD
-http://62.4.21.29:25461/467858/467858/37137
-#EXTINF:-1,BAND SPORTS HD (ALTER)
-http://62.4.21.29:25461/467858/467858/37543
-#EXTINF:-1,BAND SPORTS
-http://62.4.21.29:25461/467858/467858/37103
-#EXTINF:-1,BAND SPORTS (ALTER)
-http://62.4.21.29:25461/467858/467858/37532
-#EXTINF:-1,BIS HD
-http://62.4.21.29:25461/467858/467858/37221
-#EXTINF:-1,BIS HD (ALTER)
-http://62.4.21.29:25461/467858/467858/37640
-#EXTINF:-1,BIS
-http://62.4.21.29:25461/467858/467858/37101
-#EXTINF:-1,BIS (ALTER)
-http://62.4.21.29:25461/467858/467858/37658
-#EXTINF:-1,BOOMERANG HD
-http://62.4.21.29:25461/467858/467858/37138
-#EXTINF:-1,BOOMERANG HD (ALTER)
-http://62.4.21.29:25461/467858/467858/37605
-#EXTINF:-1,BOOMERANG
-http://62.4.21.29:25461/467858/467858/37056
-#EXTINF:-1,BOOMERANG (ALTER)
-http://62.4.21.29:25461/467858/467858/37601
-#EXTINF:-1,Satellite TV BRASIL HD
-http://62.4.21.29:25461/467858/467858/37139
-#EXTINF:-1,Satellite TV BRASIL HD (ALTER)
-http://62.4.21.29:25461/467858/467858/37630
-#EXTINF:-1,Satellite TV BRASIL
-http://62.4.21.29:25461/467858/467858/37105
-#EXTINF:-1,Satellite TV SONY HD
-http://62.4.21.29:25461/467858/467858/37140
-#EXTINF:-1,Satellite TV SONY HD (ALTER)
-http://62.4.21.29:25461/467858/467858/37554
-#EXTINF:-1,Satellite TV SONY
-http://62.4.21.29:25461/467858/467858/37073
-#EXTINF:-1,CARTOON NETWORK
-http://62.4.21.29:25461/467858/467858/37041
-#EXTINF:-1,CARTOON NETWORK (ALTER)
-http://62.4.21.29:25461/467858/467858/37602
-#EXTINF:-1,CINEMAX HD (ALTER)
-http://62.4.21.29:25461/467858/467858/37553
-#EXTINF:-1,CINEMAX HD
-http://62.4.21.29:25461/467858/467858/37222
-#EXTINF:-1,CINEMAX
-http://62.4.21.29:25461/467858/467858/29705
-#EXTINF:-1,CINEMAX (ALTER)
-http://62.4.21.29:25461/467858/467858/37575
-#EXTINF:-1,COMBATE HD
-http://62.4.21.29:25461/467858/467858/37142
-#EXTINF:-1,COMBATE HD (ALTER)
-http://62.4.21.29:25461/467858/467858/37546
-#EXTINF:-1,COMBATE
-http://62.4.21.29:25461/467858/467858/37106
-#EXTINF:-1,COMBATE (ALTER)
-http://62.4.21.29:25461/467858/467858/37529
-#EXTINF:-1,COMEDY CENTRAL HD
-http://62.4.21.29:25461/467858/467858/37143
-#EXTINF:-1,COMEDY CENTRAL HD (ALTER)
-http://62.4.21.29:25461/467858/467858/37643
-#EXTINF:-1,COMEDY CENTRAL
-http://62.4.21.29:25461/467858/467858/37049
-#EXTINF:-1,COMEDY CENTRAL (ALTER)
-http://62.4.21.29:25461/467858/467858/37660
-#EXTINF:-1,CULTURA
-http://62.4.21.29:25461/467858/467858/37026
-#EXTINF:-1,CURTA! HD
-http://62.4.21.29:25461/467858/467858/37144
-#EXTINF:-1,CURTA!
-http://62.4.21.29:25461/467858/467858/37059
-#EXTINF:-1,DISCOVERY H&H HD
-http://62.4.21.29:25461/467858/467858/37145
-#EXTINF:-1,DISCOVERY H&H
-http://62.4.21.29:25461/467858/467858/37117
-#EXTINF:-1,DISCOVERY CHANNEL HD (ALTER)
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=""group-title="",premiere
+http://lb.kstream.org/aovivo/HD_PFC_CLUBES/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=""group-title="",premiere
+http://lb.kstream.org/aovivo/HD_PFC_CLUBES_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=""group-title="",premiere
+http://lb.kstream.org/aovivo/HD_PFC_CLUBES_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=""group-title="",fox sports
+http://lb.kstream.org/aovivo/SD_FOX_SPORTS/video.m3u8?token=0afb3e65a7ce96a2782e10a5f9f8bea6
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=""group-title="",fox sports hd
+http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=625e5a88ffe135882d549182525ea3d5
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=""group-title="",fox sports hd
+http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=625e5a88ffe135882d549182525ea3d5
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=""group-title="",fox sports hd
+http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=0afb3e65a7ce96a2782e10a5f9f8bea6
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=""group-title="",sportv hd
+http://lb.kstream.org/aovivo/SD_SPORTV_1/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=""group-title="",sportv hd
+http://lb.kstream.org/aovivo/HD_SPORTV_1/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=""group-title="",sportv hd
+http://lb.kstream.org/aovivo/HD_SPORTV_1/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=""group-title="",sportv hd
+http://lb.kstream.org/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=""group-title="",sportv hd
+http://lb.kstream.org/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=""group-title="",sportv 2 hd
+http://lb.kstream.org/aovivo/HD_SPORTV_2/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=""group-title="",sportv 2
+http://lb.kstream.org/aovivo/HD_SPORTV_2_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF
+:-1 tvg-logo=""group-title="",sportv 2
+http://lb.kstream.org/aovivo/HD_SPORTV_2_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF
+:-1 tvg-logo=""group-title="",sportv 3
+http://lb.kstream.org/aovivo/SD_SPORTV_3/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF
+:-1 tvg-logo=""group-title="",sportv 3
+http://lb.kstream.org/aovivo/HD_SPORTV_3/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF
+:-1 tvg-logo=""group-title="",sportv 3
+http://lb.kstream.org/aovivo/HD_SPORTV_3_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF
+:-1 tvg-logo=""group-title="",viva
+http://lb.kstream.org/aovivo/HD_VIVA/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF
+:-1 tvg-logo=""group-title="",viva
+http://lb.kstream.org/aovivo/HD_VIVA_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF
+:-1 tvg-logo=""group-title="",espn Brasil
+http://lb.kstream.org/aovivo/SD_ESPN_BRASIL/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF
+:-1 tvg-logo=""group-title="",espn Brasil
+http://lb.kstream.org/aovivo/HD_ESPN_BRASIL/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF
+:-1 tvg-logo=""group-title="",espn brasil
+http://lb.kstream.org/aovivo/HD_ESPN_BRASIL_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF
+:-1 tvg-logo=""group-title="",espn brasil
+http://lb.kstream.org/aovivo/HD_ESPN_BRASIL_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF
+:-1 tvg-logo=""group-title="",premiere 2
+http://lb.kstream.org/aovivo/HD_PFC_2/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF  
+:-1 tvg-logo=""group-title="",premiere 2
+http://lb.kstream.org/aovivo/HD_PFC_2_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF
+:-1 tvg-logo=""group-title="",premiere 3
+http://lb.kstream.org/aovivo/HD_PFC_3/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
+ 
+ 
+ 
+#EXTINF
+:-1 tvg-logo=""group-title="",premiere 3
+http://lb.kstream.org/aovivo/HD_PFC_3_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
