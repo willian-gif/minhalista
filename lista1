@@ -1,141 +1,58 @@
 #EXTM3U
  
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",premiere
+#EXTINF:-1,premiere
 http://lb.kstream.org/aovivo/HD_PFC_CLUBES/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",premiere
+#EXTINF:-1,premiere
 http://lb.kstream.org/aovivo/HD_PFC_CLUBES_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",premiere
+#EXTINF:-1,premiere
 http://lb.kstream.org/aovivo/HD_PFC_CLUBES_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",fox sports
+#EXTINF:-1,fox sports
 http://lb.kstream.org/aovivo/SD_FOX_SPORTS/video.m3u8?token=0afb3e65a7ce96a2782e10a5f9f8bea6
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",fox sports hd
+#EXTINF:-1,fox sports hd
 http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=625e5a88ffe135882d549182525ea3d5
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",fox sports hd
+#EXTINF:-1,fox sports hd
 http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=625e5a88ffe135882d549182525ea3d5
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",fox sports hd
+#EXTINF:-1,fox sports hd
 http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=0afb3e65a7ce96a2782e10a5f9f8bea6
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",sportv hd
+#EXTINF:-1,sportv hd
 http://lb.kstream.org/aovivo/SD_SPORTV_1/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",sportv hd
+#EXTINF:-1,sportv hd
 http://lb.kstream.org/aovivo/HD_SPORTV_1/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",sportv hd
+#EXTINF:-1,sportv hd
 http://lb.kstream.org/aovivo/HD_SPORTV_1/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",sportv hd
+#EXTINF:-1,sportv hd
 http://lb.kstream.org/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",sportv hd
+#EXTINF:-1,sportv hd
 http://lb.kstream.org/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",sportv 2 hd
+#EXTINF:-1,sportv 2 hd
 http://lb.kstream.org/aovivo/HD_SPORTV_2/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",sportv 2
+#EXTINF:-1,sportv 2
 http://lb.kstream.org/aovivo/HD_SPORTV_2_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",sportv 2
+#EXTINF:-1,sportv 2
 http://lb.kstream.org/aovivo/HD_SPORTV_2_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",sportv 3
+#EXTINF:-1,sportv 3
 http://lb.kstream.org/aovivo/SD_SPORTV_3/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",sportv 3
+#EXTINF:-1,sportv 3
 http://lb.kstream.org/aovivo/HD_SPORTV_3/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",sportv 3
+#EXTINF:-1,sportv 3
 http://lb.kstream.org/aovivo/HD_SPORTV_3_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",viva
+#EXTINF:-1,viva
 http://lb.kstream.org/aovivo/HD_VIVA/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",viva
+#EXTINF:-1,viva
 http://lb.kstream.org/aovivo/HD_VIVA_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",espn Brasil
+#EXTINF:-1,espn Brasil
 http://lb.kstream.org/aovivo/SD_ESPN_BRASIL/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",espn Brasil
-http://lb.kstream.org/aovivo/HD_ESPN_BRASIL/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",espn brasil
+#EXTINF:-1,espn Brasil
+http://lb.kstream.org/aovivo/HD_ESPN_BRASIL/video.m3u8?token=9345ef13d5e1fb780114245f059e221f 
+#EXTINF:-1,espn brasil
 http://lb.kstream.org/aovivo/HD_ESPN_BRASIL_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",espn brasil
+#EXTINF:-1,espn brasil
 http://lb.kstream.org/aovivo/HD_ESPN_BRASIL_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",premiere 2
+#EXTINF:-1,premiere 2
 http://lb.kstream.org/aovivo/HD_PFC_2/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF  :-1 tvg-logo=""group-title="",premiere 2
+#EXTINF:-1,premiere 2
 http://lb.kstream.org/aovivo/HD_PFC_2_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",premiere 3
-http://lb.kstream.org/aovivo/HD_PFC_3/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
- 
- 
- 
-#EXTINF:-1 tvg-logo=""group-title="",premiere 3
+#EXTINF:-1,premiere 3
+http://lb.kstream.org/aovivo/HD_PFC_3/video.m3u8?token=9345ef13d5e1fb780114245f059e221f 
+#EXTINF:-1,premiere 3
 http://lb.kstream.org/aovivo/HD_PFC_3_ALTER/video.m3u8?token=9345ef13d5e1fb780114245f059e221f
