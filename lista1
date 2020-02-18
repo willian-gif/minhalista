@@ -16,13 +16,13 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-360p.m3u8
 #EXTINF:-1 tvg-logo="file:///storage/emulated/0/Download/unnamed.jpg"group-title="INFANTIL",FOX
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="file:///storage/emulated/0/Download/download.png"group-title="INFANTIL",FOX CHENNAL
+#EXTINF:-1 tvg-logo="file:///storage/emulated/0/Download/download.png"group-title="INFANTIL",FOX CHANNEL
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_95ce5c30fc73ca1dd2d836e2e7bd05f5f48758be/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="FILMES E SÉRIES",FOX PREMIUM 1
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/foxpremium1.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="file:///storage/emulated/0/Download/images%20(1).jpeg"group-title="CANAIS ABERTOS",DISCOVERY TURBO
 http://edge-aws.aovivo.club/hls/s:78.47.27.206/discoveryturbo_ca3512f4_f41906d165671a3e5ade327027da3f336494fe2c/playlist.m3u8
-#EXTINF:-1 tvg-logo="file:///storage/emulated/0/Download/images%20(2).jpeg"group-title="INFANTIL",DISCOVERY CHENNAL
+#EXTINF:-1 tvg-logo="file:///storage/emulated/0/Download/images%20(2).jpeg"group-title="INFANTIL",DISCOVERY CHANNEL
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/disney.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="file:///storage/emulated/0/Download/Discovery_kids_logo.png"group-title="INFANTIL",DISCOVERY KIDS
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/discoverykids.m3u8?wmsAuthSign=
