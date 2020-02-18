@@ -1,12 +1,46 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BBB 20HD.com", BBB
-https://d1cy34jllwtrns.cloudfront.net/hls1/bbb.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BBB 20HD.com", BBB tds as câmeras
-https://d1cy34jllwtrns.cloudfront.net/hls1/bbb.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BBB 20HD.com", BBB 2cm
-https://d1cy34jllwtrns.cloudfront.net/hls1/bbbnew.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BBB 20HD.com", BBB
-https://d1cy34jllwtrns.cloudfront.net/hls1/bbb2.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BBB 20HD.com", BBB
-https://d1cy34jllwtrns.cloudfront.net/hls1/bbb3.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="file:///storage/emulated/0/Download/globo-1-600x338.webp"group-title="CANAIS ABERTOS",GLOBO RJ
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/globorj_bc15c774_729e85beeccad4735f805f723a75361d719b0a96/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pt.m.wikipedia.org/wiki/Sistema_Brasileiro_de_Televis%C3%A3o#/media/Ficheiro%3ALogotipo_do_SBT.svg"group-title="CANAIS ABERTOS",SBT SP
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sbtsp_2a5ac580_40ff50307969c1dc8c0aa243287d9f0c426d52f3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"group-title="DOCUMENTARIO",ANIMAL PLANET
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/animalplanet.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo=""group-title="FILMES E SÉRIES",TELECINE PIPOCA
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo=""group-title="FILMES E SÉRIES",TELECINE PREIUM
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="file:///storage/emulated/0/Download/93b93c34bd95b28979fa77a2c983.png"group-title="CANAIS DE SPORTS",SPORTV1
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="file:///storage/emulated/0/Download/images.jpeg"group-title="CANAIS ABERTOS",TV GAZETA HD
+https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-360p.m3u8
+#EXTINF:-1 tvg-logo="file:///storage/emulated/0/Download/unnamed.jpg"group-title="INFANTIL",FOX
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="file:///storage/emulated/0/Download/download.png"group-title="INFANTIL",FOX CHENNAL
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_95ce5c30fc73ca1dd2d836e2e7bd05f5f48758be/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="FILMES E SÉRIES",FOX PREMIUM 1
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/foxpremium1.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="file:///storage/emulated/0/Download/images%20(1).jpeg"group-title="CANAIS ABERTOS",DISCOVERY TURBO
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/discoveryturbo_ca3512f4_f41906d165671a3e5ade327027da3f336494fe2c/playlist.m3u8
+#EXTINF:-1 tvg-logo="file:///storage/emulated/0/Download/images%20(2).jpeg"group-title="INFANTIL",DISCOVERY CHENNAL
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/disney.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="file:///storage/emulated/0/Download/Discovery_kids_logo.png"group-title="INFANTIL",DISCOVERY KIDS
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/discoverykids.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo=""group-title="FILMES E SÉRIES",SPACE
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/space.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIO",WARNER
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo=""group-title="INFANTIL",BOOMMERANG
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/boomerang.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo=""group-title="INFANTIL",HBO FAMILY
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/hbofamily.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo=""group-title="FILMES E SÉRIES",HBO
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo=""group-title="FILMES E SÉRIES",MEGAPIX
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo=""group-title="FILMES E SÉRIES",FOX PREMIUM 2
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/foxpremium2.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo=""group-title="INFANTIL",DISNEY JUNIOR
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/disneyjunior.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo=""group-title="INFANTIL",GLOOB
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/gloob.m3u8?wmsAuthSign=
