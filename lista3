@@ -101,17 +101,3 @@ http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/227
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/229
 #EXTINF:-1,espn extra
 http://acess.goldpremium.xyz:25461/liveplay/PiFnN856RD/68
-#EXTINF:-1,premiereclubes
-http://proxyts.ec.cx:8082/hls1/premiereclubes.m3u8?wmsAuthSign=
-#EXTINF:-1,foxsports2
-http://proxyts.ec.cx:8082/hls1/foxsports2.m3u8?wmsAuthSign=
-#EXTINF:-1,combate
-http://proxyts.ec.cx:8082/hls1/combate.m3u8?wmsAuthSign=
-#EXTINF:-1,espnbrasil
-http://proxyts.ec.cx:8082/hls1/espnbrasil.m3u8?wmsAuthSign=
-#EXTINF:-1,kkids2
-http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
-#EXTINF:-1,pp_sp
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
-#EXTINF:-1,pp_rj
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
