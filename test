@@ -1,293 +1,622 @@
-#EXTINF:0,BR A&E
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2346.m3u8
+#EXTM3U
  
-#EXTINF:0,BR A&E
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13681.m3u8
  
-#EXTINF:0,BR A&E
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7495.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Boomerang
+http://proxyts.habbo.vg:8084/hls1/boomerang.m3u8?wmsAuthSign
  
-#EXTINF:0,BR A&E FHD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/26420.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Cartoon Network
+http://proxyts.habbo.vg:8084/hls1/cartoon.m3u8?wmsAuthSign
  
-#EXTINF:0,BR A&E FHD H.265
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22278.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Discovery Kids
+http://proxyts.habbo.vg:8084/hls1/discoverykids.m3u8?wmsAuthSign
  
-#EXTINF:0,BR A&E HD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7088.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Disney Channel
+http://proxyts.habbo.vg:8084/hls1/disney.m3u8?wmsAuthSign
  
-#EXTINF:0,BR A&E HD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13682.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Disney Junior
+http://proxyts.habbo.vg:8084/hls1/disneyjunior.m3u8?wmsAuthSign
  
-#EXTINF:0,BR A&E HD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7494.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Disney XD
+http://proxyts.habbo.vg:8084/hls1/disneyxd.m3u8?wmsAuthSign
  
-#EXTINF:0,BR AMC
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2345.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Gloob
+http://proxyts.habbo.vg:8084/hls1/gloob.m3u8?wmsAuthSign
  
-#EXTINF:0,BR AMC
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13683.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Nat Geo Kids
+http://proxyts.habbo.vg:8084/hls1/natgeokids.m3u8?wmsAuthSign
  
-#EXTINF:0,BR AMC
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7493.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Nick jr
+http://proxyts.habbo.vg:8084/hls1/nickjr.m3u8?wmsAuthSign
  
-#EXTINF:0,BR AMC FHD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/26421.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Nickelodeon
+http://proxyts.habbo.vg:8084/hls1/nick.m3u8?wmsAuthSign
  
-#EXTINF:0,BR AMC FHD H.265
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22277.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Tooncast
+http://proxyts.habbo.vg:8084/hls1/tooncast.m3u8?wmsAuthSign
  
-#EXTINF:0,BR AMC HD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2344.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Baby tv
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/14.m3u8
  
-#EXTINF:0,BR AMC HD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13686.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Zoomoo
+http://proxyts.habbo.vg:8084/hls1/zoomoo.m3u8?wmsAuthSign=
  
-#EXTINF:0,BR AMC HD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7492.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Band Sports
+http://proxyts.habbo.vg:8084/hls1/bandsports.m3u8?wmsAuthSign
  
-#EXTINF:0,BR Animal  Planet FHD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7151.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Combate
+http://proxyts.habbo.vg:8084/hls1/combate.m3u8?wmsAuthSign
  
-#EXTINF:0,BR Animal Planet
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2343.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Espn
+http://proxyts.habbo.vg:8084/hls1/espn.m3u8?wmsAuthSign
  
-#EXTINF:0,BR Animal Planet
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13695.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Espn 2
+http://proxyts.habbo.vg:8084/hls1/espn2.m3u8?wmsAuthSign
  
-#EXTINF:0,BR Animal Planet
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7491.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Espn Extra
+http://proxyts.habbo.vg:8084/hls1/espnextra.m3u8?wmsAuthSign
  
-#EXTINF:0,BR Animal Planet 4K
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/26411.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Espn Brasil
+http://proxyts.habbo.vg:8084/hls1/espnbrasil.m3u8?wmsAuthSign
  
-#EXTINF:0,BR Animal Planet FHD H.265
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22276.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Fox Sports
+http://proxyts.habbo.vg:8084/hls1/foxsports1.m3u8?wmsAuthSign
  
-#EXTINF:0,BR Animal Planet HD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2342.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Fox Sports 2
+http://proxyts.habbo.vg:8084/hls1/foxsports2.m3u8?wmsAuthSign
  
-#EXTINF:0,BR Animal Planet HD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13696.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Premiere
+http://proxyts.habbo.vg:8084/hls1/premiereclubes.m3u8?wmsAuthSign
  
-#EXTINF:0,BR Animal Planet HD          
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7490.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Sportv
+http://proxyts.habbo.vg:8084/hls1/sportv1.m3u8?wmsAuthSign
  
-#EXTINF:0,BR Aparecida
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2341.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Sportv 2
+http://proxyts.habbo.vg:8084/hls1/sportv2.m3u8?wmsAuthSign
  
-#EXTINF:0,BR Apenas um Show 24H
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/21028.m3u8
- 
-#EXTINF:0,BR Arte 1
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2339.m3u8
- 
-#EXTINF:0,BR Arte 1            
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7489.m3u8
- 
-#EXTINF:0,BR Arte 1 HD                         
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7488.m3u8
- 
-#EXTINF:0,BR As aventuras de Jackie Chan 24H
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7202.m3u8
- 
-#EXTINF:0,BR AXN
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2338.m3u8
- 
-#EXTINF:0,BR AXN
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13697.m3u8
- 
-#EXTINF:0,BR AXN                           
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7487.m3u8
- 
-#EXTINF:0,BR AXN FHD H.265
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22275.m3u8
- 
-#EXTINF:0,BR AXN HD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2337.m3u8
- 
-#EXTINF:0,BR AXN HD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13698.m3u8
- 
-#EXTINF:0,BR AXN HD                            
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7486.m3u8
- 
-#EXTINF:0,BR Baby TV
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2336.m3u8
- 
-#EXTINF:0,BR Baby TV                           
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7485.m3u8
- 
-#EXTINF:0,BR Band
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2335.m3u8
- 
-#EXTINF:0,BR Band
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13699.m3u8
- 
-#EXTINF:0,BR Band                          
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7484.m3u8
- 
-#EXTINF:0,BR Band 4k
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/26404.m3u8
- 
-#EXTINF:0,BR Band FHD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7188.m3u8
- 
-#EXTINF:0,BR Band FHD H.265
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22274.m3u8
- 
-#EXTINF:0,BR Band HD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2334.m3u8
- 
-#EXTINF:0,BR Band HD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13700.m3u8
- 
-#EXTINF:0,BR Band HD       
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7483.m3u8
- 
-#EXTINF:0,BR Band News
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2333.m3u8
- 
-#EXTINF:0,BR Band News
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13771.m3u8
- 
-#EXTINF:0,BR Band News     
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7482.m3u8
- 
-#EXTINF:0,BR Band News FHD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7150.m3u8
- 
-#EXTINF:0,BR Band News FHD H.265
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22273.m3u8
- 
-#EXTINF:0,BR Band News HD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13772.m3u8
- 
-#EXTINF:0,BR Band News HD          
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7481.m3u8
- 
-#EXTINF:0,BR Band Sports
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2332.m3u8
- 
-#EXTINF:0,BR Band Sports
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13773.m3u8
- 
-#EXTINF:0,BR Band Sports                           
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7480.m3u8
- 
-#EXTINF:0,BR Band Sports FHD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/26422.m3u8
- 
-#EXTINF:0,BR Band Sports FHD H.265
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22272.m3u8
- 
-#EXTINF:0,BR Band Sports HD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13774.m3u8
- 
-#EXTINF:0,BR Band Sports HD            
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7479.m3u8
- 
-#EXTINF:0,BR Ben 10 24H
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7598.m3u8
- 
-#EXTINF:0,BR BIS
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2330.m3u8
- 
-#EXTINF:0,BR BIS                   
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7478.m3u8
- 
-#EXTINF:0,BR BIS FHD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7162.m3u8
- 
-#EXTINF:0,BR BIS FHD H.265
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22271.m3u8
- 
-#EXTINF:0,BR BIS HD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2329.m3u8
- 
-#EXTINF:0,BR BIS HD            
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7477.m3u8
- 
-#EXTINF:0,BR Black Kamen Rider 24H
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/11946.m3u8
- 
-#EXTINF:0,BR Boa Vontade
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7476.m3u8
- 
-#EXTINF:0,BR Bob Esponja 24H
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7220.m3u8
- 
-#EXTINF:0,BR Boomerang
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2328.m3u8
- 
-#EXTINF:0,BR Boomerang  FHD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7149.m3u8
- 
-#EXTINF:0,BR Boomerang  
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7475.m3u8
- 
-#EXTINF:0,BR Boomerang FHD H.265
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22270.m3u8
- 
-#EXTINF:0,BR Boomerang HD                      
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7474.m3u8
- 
-#EXTINF:0,BR Caillou 24H
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/3834.m3u8
- 
-#EXTINF:0,BR Canal Brasil
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7473.m3u8
- 
-#EXTINF:0,BR Canal Brasil HD           
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7472.m3u8
- 
-#EXTINF:0,BR Canal do Boi
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/11574.m3u8
- 
-#EXTINF:0,BR Canal Sony
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2325.m3u8
- 
-#EXTINF:0,BR Canal Sony        
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7471.m3u8
- 
-#EXTINF:0,BR Canal Sony FHD H.265
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22224.m3u8
- 
-#EXTINF:0,BR Canal Sony HD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2324.m3u8
- 
-#EXTINF:0,BR Canal Sony HD     
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7470.m3u8
- 
-#EXTINF:0,BR Cancao Nova
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22152.m3u8
- 
-#EXTINF:0,BR Capitao Planeta 24H
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13286.m3u8
- 
-#EXTINF:0,BR Carl o Super Caminhao 24H
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/8288.m3u8
- 
-#EXTINF:0,BR Cartoon Network
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2322.m3u8
- 
-#EXTINF:0,BR Cartoon Network
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13701.m3u8
- 
-#EXTINF:0,BR Cartoon Network       
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7468.m3u8
- 
-#EXTINF:0,BR Cartoon Network FHD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/26423.m3u8
- 
-#EXTINF:0,BR Cartoon Network FHD H.265
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22269.m3u8
- 
-#EXTINF:0,BR Cartoon Network HD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2321.m3u8
- 
-#EXTINF:0,BR Cartoon Network HD
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13702.m3u8
- 
-#EXTINF:0,BR Cartoon Network HD                            
-http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7467.m3u8
+#EXTINF:-1 tvg-logo=""
+group-title="",Sportv 3
+http://proxyts.habbo.vg:8084/hls1/sportv3.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Esporte Interativo
+http://proxyts.habbo.vg:8084/hls1/esporteinterativo.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Dazn
+http://proxyts.habbo.vg:8084/hls1/dazn.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Woohoo
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/269.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Amc
+http://proxyts.habbo.vg:8084/hls1/amc.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Telecine Action
+http://proxyts.habbo.vg:8084/hls1/telecineaction.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Telecine Cult
+http://proxyts.habbo.vg:8084/hls1/telecinecult.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Telecine Fun
+http://proxyts.habbo.vg:8084/hls1/telecinefun.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Telecine Pipoca
+http://proxyts.habbo.vg:8084/hls1/telecinepipoca.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Telecine Premium
+http://proxyts.habbo.vg:8084/hls1/telecinepremium.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Telecine Touch
+http://proxyts.habbo.vg:8084/hls1/telecinetouch.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Hbo
+http://proxyts.habbo.vg:8084/hls1/hbo.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Hbo 2
+http://proxyts.habbo.vg:8084/hls1/hbo2.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Hbo Family
+http://proxyts.habbo.vg:8084/hls1/hbofamily.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Hbo Plus
+http://proxyts.habbo.vg:8084/hls1/hboplus.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Hbo Signature
+http://proxyts.habbo.vg:8084/hls1/hbosignature.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Hbo Mundi
+http://proxyts.habbo.vg:8084/hls1/max.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Hbo Xtreme
+http://proxyts.habbo.vg:8084/hls1/maxprime.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Hbo Pop
+http://proxyts.habbo.vg:8084/hls1/maxup.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Cinemax
+http://proxyts.habbo.vg:8084/hls1/cinemax.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Megapix
+http://proxyts.habbo.vg:8084/hls1/megapix.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Paramount Channel
+http://proxyts.habbo.vg:8084/hls1/Paramount.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Space
+http://proxyts.habbo.vg:8084/hls1/space.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Studio Universal
+http://proxyts.habbo.vg:8084/hls1/studiouniversal.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tbs
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/236.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tcm
+http://proxyts.habbo.vg:8084/hls1/tcm.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tnt
+http://proxyts.habbo.vg:8084/hls1/tnt.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tnt Séries
+http://proxyts.habbo.vg:8084/hls1/tntseries.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Universal Channel
+http://proxyts.habbo.vg:8084/hls1/universal.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Warner
+http://proxyts.habbo.vg:8084/hls1/warner.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",A&E
+http://proxyts.habbo.vg:8084/hls1/aie.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Axn
+http://proxyts.habbo.vg:8084/hls1/axn.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Sony
+http://proxyts.habbo.vg:8084/hls1/sony.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Comedy Central
+http://proxyts.habbo.vg:8084/hls1/comedycentral.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Fox
+http://proxyts.habbo.vg:8084/hls1/fox.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Fox Life
+http://proxyts.habbo.vg:8084/hls1/foxlife.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Fox Premium 1
+http://proxyts.habbo.vg:8084/hls1/foxpremium1.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Fox Premium 2
+http://proxyts.habbo.vg:8084/hls1/foxpremium2.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Fx
+http://proxyts.habbo.vg:8084/hls1/fx.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Syfy
+http://proxyts.habbo.vg:8084/hls1/syfy.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Globo News
+http://proxyts.habbo.vg:8084/hls1/globonews.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Band News
+http://proxyts.habbo.vg:8084/hls1/bandnews.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Record News
+http://proxyts.habbo.vg:8084/hls1/recordnews.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Big Brother Brasil
+http://proxyts.habbo.vg:8084/hls1/bbb.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Dog tv
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/09.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Hgvt
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/44.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Arte 1
+http://proxyts.habbo.vg:8084/hls1/arte1.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Curta
+http://proxyts.habbo.vg:8084/hls1/curta.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Discovery Home & Health
+http://proxyts.habbo.vg:8084/hls1/discoveryhomeihealth.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Discovery Channel
+http://proxyts.habbo.vg:8084/hls1/discovery.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Discovery Turbo
+http://proxyts.habbo.vg:8084/hls1/discoveryturbo.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Discovery Civilization
+http://proxyts.habbo.vg:8084/hls1/discoverycivilization.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Discovery Sience
+http://proxyts.habbo.vg:8084/hls1/DiscoverySience.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Discovery Theater
+http://proxyts.habbo.vg:8084/hls1/Discoverytheater.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Nat Geo Wild
+http://proxyts.habbo.vg:8084/hls1/natgeowild.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Discovery World
+http://proxyts.habbo.vg:8084/hls1/DiscoveryWorld.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",E!
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/66.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Play tv
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/184.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Vh1
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/260.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tv Fish
+http://proxyts.habbo.vg:8084/hls1/fishtv.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",+Globosat
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/127.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Gnt
+http://proxyts.habbo.vg:8084/hls1/gnt.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",History
+http://proxyts.habbo.vg:8084/hls1/history.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",History 2
+http://proxyts.habbo.vg:8084/hls1/history2.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",National Geographic
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/173.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Investigação Discovery
+http://proxyts.habbo.vg:8084/hls1/investigacaodiscovery.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Lifetime
+http://proxyts.habbo.vg:8084/hls1/lifetime.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Multishow
+http://proxyts.habbo.vg:8084/hls1/multishow.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Mtv
+http://proxyts.habbo.vg:8084/hls1/mtv.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Bis
+http://proxyts.habbo.vg:8084/hls1/bis.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Off
+http://proxyts.habbo.vg:8084/hls1/off.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tlc
+http://proxyts.habbo.vg:8084/hls1/tlc.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Animal Planet
+http://proxyts.habbo.vg:8084/hls1/animalplanet.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Viva
+http://proxyts.habbo.vg:8084/hls1/viva.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Food Network
+http://proxyts.habbo.vg:8084/hls1/foodnetwork.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tv Aracati
+http://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tve
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w603331333.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Redetv
+https://5b7f3c45ab7c2.streamlock.net/9010/ngrp:9010_all/chunklist_w1880434489_b1359872_DVR.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Globo
+http://proxyts.habbo.vg:8084/hls1/boborj.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Band
+http://proxyts.habbo.vg:8084/hls1/band.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Sbt
+http://proxyts.habbo.vg:8084/hls1/sbt.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Record tv
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Futura
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/27.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Cultura
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/37.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Rede Vida
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/215.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Gazeta
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/256.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Playboy
+http://proxyts.habbo.vg:8084/hls1/playboytv.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Sextreme
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/220.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Sex Hot
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/221.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Venus
+http://proxyts.habbo.vg:8084/hls1/venus.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Black Sex
+http://proxyts.habbo.vg:8084/hls1/sexhot.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Erotic
+http://proxyts.habbo.vg:8084/hls1/erotic.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Evil Angel
+http://proxyts.habbo.vg:8084/hls1/evilangel.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Pinko
+http://proxyts.habbo.vg:8084/hls1/pinko.m3u8?wmsAuthSign
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Imperial
+https://5b7f3c45ab7c2.streamlock.net/8002/8002/chunklist_w489091346_DVR.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Istv
+https://cdn.jmvstream.com/w/oscarito/_definst_/oscarito/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tv Carioca Net
+https://5d2c98775bafe.streamlock.net/8180/8180/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tv Natal
+http://stmv6.srvstm.com/antonioflavio9466/antonioflavio9466/chunklist.m3u8?wowzasessionid=1172237520
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tv J Sid
+https://stmv3.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1110193081
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tv Pantanal
+https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Top tv
+https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w1933981626.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tv Birigui
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Gospel Movie
+https://stmv1.ifantasy.com.br/gospelf/gospelf/playlist-480.m3u8?wowzasessionid=143818328
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tv Guarany
+http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8?wowzasessionid=1890861779
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Classique tv
+https://stmv1.ifantasy.com.br/classique/classique/playlist.m3u8?wowzasessionid=1846045601
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Gospel Cartoon
+https://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=1307769424
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tv Capital 777
+https://59f2354c05961.streamlock.net:1443/tvcapital/_definst_/tvcapital/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tv Destak
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1071480912.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tv A Critica
+https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8?sts=st=1579174491~exp=1579181091~acl=/*~hmac=0f5b1508fd4895a310719bbbdaf90c14e09dc54b5abbc02cc6ac143d6aacca15
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tv Info Bahia
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/chunklist_w111732487.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tv Kid Mais
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Via Morena
+https://cdn-cleuza-734.ciclano.io:1443/cleuza-734/cleuza-734/chunklist-480p.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Wts Tv Minas
+http://173.236.10.10:1935/webtvminas/webtvminas/chunklist_w1249579693.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Real Madrid tv
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Milk tv
+https://stmv1.srvst.com/redesatnet/redesatnet/playlist.m3u8?wowzasessionid=1205648951
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Marica tv
+https://5abdf4edae5bf.streamlock.net/maricatvstation/maricatvstation/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tv Liberdade
+https://5c483b9d1019c.streamlock.net/8238/8238/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Rede Família
+https://redefamilia.cdnverizon.com.br/tvstreaming/ngrp:aovivo_all/chunklist_b2431298.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Cine+
+https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",M2O tv
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1303053298_b2028000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Retro tv
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w2175849022.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Ln tv
+https://59f2354c05961.streamlock.net:1443/intv02/_definst_/intv02/chunklist_w1082510289.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Rio Largo
+https://stmv1.mycast.com.br/tvriolargo/tvriolargo/chunklist.m3u8?wowzasessionid=432413140
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tv Uniao
+https://5ca42828c3a79.streamlock.net/tvuniao/_definst_/tvuniao/chunklist_w865005993.m3u8
+ 
+#EXTINF:-1 tvg-logo=""
+group-title="",Tv A Caminho da Luz
+http://wse01.logicahost.com.br:1935/tvacaminhodaluz/_definst_/tvacaminhodaluz/chunklist_w641201826.m3u8
