@@ -1,284 +1,182 @@
 #EXTM3U
- 
 #EXTINF: -1 group-title = "TV ITALIANA", Rai Premium [Italia]
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
- 
 https://livestartover.atresmedia.com/lasexta/master.m3u8?fluxustv.m3u8
- 
 #EXTINF: 0 tipo = "favoritos" channelId = "2207" group-title = "TV ITALIANA", RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
- 
 #EXTINF: -1 tvg-id = "" tvg-logo = "http://www.cxtv.com.br/img/Tvs/Logo/1d40c5df4382948baeb49aa7d953126b.jpg", RAI MOVIE INTERNACIONAL 01
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
- 
 #EXTINF: -1 tvg-logo = "http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/rai.png" group-title = "FILMES", RAI Movie HD Italia
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
- 
 #EXTINF: -1 tvg-logo = "https://www.freqsat.com/wp-content/uploads/2018/08/Rai-Premium-HD-TV.jpg" group-title = "FILMES", RAI Premium HD Italia
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
- 
 #EXTINF: -1 tvg-logo = "https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI4.png" group-title = "FILMES", RAI 4 HD Italia
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
- 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_5_HD_-_Logo_2017.svg/1280px-Rai_5_HD_-_Logo_2017.svg.png" group-title = "INTERNACIONAL", RAI 5 HD Italia
 https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
- 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title = "INTERNACIONAL", DOCUMENTÁRIO CGTN China
 https://live.cgtn.com/1000d/prog_index.m3u8
- 
 #EXTINF: -1 tvg-id = "" tvg-logo = "http://www.cxtv.com.br/img/Tvs/Logo/1d40c5df4382948baeb49aa7d953126b.jpg", RAI MOVIE INTERNACIONAL 01
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
- 
- 
 #EXTINF: -1 tvg-logo = "http://tvnews.by/uploads/posts/2014-10/1413546329_World_Fashion.png" group-title = "CANAL ABERTO", World Fashion Channel
 https://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/mono.m3u8
- 
 EXTINF: -1 $ ExtFilter = "CINEPLAY | Filmes" group-title = "INTERNACIONAL" tvg-logo = "https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg", Red Bull TV SD USA
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_578.m3u8
- 
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/xFSBik0.png" group-title = "INTERNACIONAL", The Weather Channel HD EUA
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
  
 #EXTINF: -1 tvg-logo = "https://www.tvw.org/wp-content/uploads/2014/01/TVWLogo1.jpg" group-title = "INTERNACIONAL", canal de TV a cabo HD Washington EUA
 https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w795404484_b2179072.m3u8
- 
 #EXTINF: -1 $ ExtFilter = "CINEPLAY | Filmes" group-title = "INTERNACIONAL" tvg-logo = "https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg", Hope Channel HD EUA
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
- 
 #EXTINF: -1 tvg-id = "Telemax" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/4/4c/Documentários", TELEMAX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
- 
 #EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "" group-title = "Local", Canal 4 Tenerife (Opt-1)
 http://5940924978228.streamlock.net:1935/Directo2/Directo2/playlist.m3u8
 #EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://7tvregiondemurcia.es/wp-content/uploads/2015/04/logo1.png" group-title = "Local ", Canal Málaga (Opt-1)
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
- 
 #EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/AFT43kx.png" group-title = "", Cadena Elite
 https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8?fluxustv.m3u8
- 
 EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "" group-title = "Crianças", Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
- 
 #EXTINF: -1 group-title = "TV ITALIANA", Rai Premium [Italia]
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
- 
 #EXTINF: 0 tipo = "favoritos" channelId = "2207" group-title = "TV ITALIANA", RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
- 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d40c5df4382948baeb49aa7d953126b.jpg",RAI MOVIE INTERNACIONAL 01
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
- 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/rai.png" group-title="FILMES", RAI Movie HD Italia
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
- 
 #EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Rai-Premium-HD-TV.jpg" group-title="FILMES",RAI Premium HD Italia
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
- 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI4.png" group-title="FILMES",RAI 4 HD Italia
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
- 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_5_HD_-_Logo_2017.svg/1280px-Rai_5_HD_-_Logo_2017.svg.png" group-title="INTERNACIONAL",RAI 5 HD Italia
 https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
- 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="INTERNACIONAL",CGTN DOCUMENTARY China
 https://live.cgtn.com/1000d/prog_index.m3u8
- 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d40c5df4382948baeb49aa7d953126b.jpg",RAI MOVIE INTERNACIONAL 01
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
- 
- 
 #EXTINF:-1 tvg-logo="http://tvnews.by/uploads/posts/2014-10/1413546329_World_Fashion.png" group-title="CANAL ABERTO",World Fashion Channel
 https://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/mono.m3u8
- 
 EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg",Red Bull TV SD USA
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_578.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xFSBik0.png" group-title="INTERNACIONAL",The Weather Channel HD USA
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
- 
 #EXTINF:-1 tvg-logo="https://www.tvw.org/wp-content/uploads/2014/01/TVWLogo1.jpg" group-title="INTERNACIONAL",TVW Cable Channel HD Washington USA
 https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w795404484_b2179072.m3u8
- 
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL" tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg",Hope Channel HD USA
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
- 
 #EXTINF:-1 tvg-id="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Documentários",TELEMAX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
- 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",Canal 4 Tenerife (Opt-1)
 http://5940924978228.streamlock.net:1935/Directo2/Directo2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7tvregiondemurcia.es/wp-content/uploads/2015/04/logo1.png" group-title="Local",Canal Málaga (Opt-1)
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
- 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AFT43kx.png" group-title="",Cadena Elite
 https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8?fluxustv.m3u8
- 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
- 
 #EXTINF: 0 type = "stream" channelId = "- 1" tvg-logo = "https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title = "DOCUMENTÁRIO", ANIMAIS ÁFRICA DO SUL
 http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://www.tvw.org/wp-content/uploads/2014/01/TVWLogo1.jpg" group-title="INTERNACIONAL",TVW Cable Channel HD Washington USA
 https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w795404484_b2179072.m3u8
- 
 #EXTINF: 0 type = "stream" channelId = "- 1" tvg-logo = "http://online.tvm.co.mz/site/public/images/flat_1.png" group-title = "TV PORTUGAL" , TV MOCAMBIQUE INTERNACIONAL (PT)
 http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_w768465874_b714000_slpor.m3u8
- 
 #EXTINF: 0 type = "stream" channelId = "- 1" tvg-logo = "https://vignette4.wikia.nocookie.net/logopedia/images/f/fd/TVM-0.png/revision/latest? cb = 20170405170018 "group-title =" TV PORTUGAL ", TV MOÇAMBIQUE (PT)
 http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w1330919236_b714000_slpor.m3u8
- 
 #EXTINF:-1 tvg-logo="https://www.omroepwest.nl/Content/Images/west/logo.png" group-title="INTERNACIONAL",Omroep West Holanda
 https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/chunklist_b4227072.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/07QG2DA.jpg?1" group-title="INTERNACIONAL",BLOOMBERG TV HD NY USA
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LGONAFN.png" group-title="INTERNACIONAL",WGN CHICAGO HD USA
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
- 
 #EXTINF: 0 type = "stream" channelId = "352" tvg-logo = "http://www.digicelplay.com.pg/Images/Assets/7269/1/" group-title = "DOCUMENTÁRIO", DWTV HD (ESPANHOL)
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8
- 
 #EXTINF: 0group-title = "VARIEDADES DE TV", CONECTV
 http://stream02.msolutionbrasil.com.br:1935/conectv/live/livestream.m3u8
- 
 #EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "TV ARGENTINA", El Garaje TV | SD
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
- 
 #EXTINF: -1 group-title = "TV TURQUIA", Meclis TV [Turquia]
- 
 #EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="INTERNACIONAL" tvg-logo="http://www.frosat.net/images/logotv/original/tv2-tr.jpg",TV2 HD Turquia
 https://teve2.dogannet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://escbubble.com/wp-content/uploads/2014/08/Russia-RTR-TV.gif" group-title="INTERNACIONAL",Planeta PTP HD Russia
 https://a635216505-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
- 
 http://stream02.msolutionbrasil.com.br:1935/conectv/live/livestream.m3u8
- 
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8
- 
 #EXTINF: -1 group-title = "TV RÚSSIA", Mir 24 [Rússia]
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
- 
 #EXTINF: -1 título do grupo = "TV GRÉCIA", Kontra TV [Grécia]
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
- 
 #EXTINF: -1 group-title = "TV FRANCÊS", La Chaine Normande [França]
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
- 
 #EXTINF: -1 group-title = "TV FRANCÊS", França 24 [Franca]
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
- 
 #EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "TV ARGENTINA", Litus | HD
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
- 
 #EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "TV MÉXICO", Canal 20 Zacatecas | SD
 http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
- 
 #EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "TV MÉXICO", Canal 4 | SD
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
- 
 #EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "TV MÉXICO", Milenio | SD
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
- 
 #EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "TV MÉXICO", Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
- 
 #EXTINF: -1 tvg-logo = "http://www.liveradio.ie/files/images/119710/logo_toplatino_300x300.jpg" group-title = "TV MÉXICO", MEX - principais latino
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
- 
 #EXTINF: -1 título do grupo = "TV ITALIANA", Canale 7 [Italia]
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
- 
- 
 #EXTINF: 0 tipo = "favoritos" channelId = "- 1" group-title = "TV ITALIANA", CANALE 10
 http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
- 
 #EXTINF: 0 type = "stream" channelId = "2489" group-title = "TV ESPANHOLA", CANAL UMA VEZ
 http://live2.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w498860999_b850000_slesp.m3u8
- 
 #EXTINF: 0 tipo = "favoritos" channelId = "- 1" group-title = "TV ESPANHOLA", TELEVALÊNCIA
 http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
- 
 #EXTINF: 0 tipo = "favoritos" channelId = "- 1" group-title = "TV ESPANHOLA", RTVCE
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
- 
 #EXTINF: 0 tipo = "favoritos" channelId = "- 1" group-title = "TV ESPANHOLA", LEBRIJA TV
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
- 
 #EXTINF: 0 tipo = "favoritos" channelId = "- 1" group-title = "TV ESPANHOLA", LANCELOT TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
- 
 #EXTINF:-1 tvg-logo="https://s3-media4.fl.yelpcdn.com/bphoto/g7GekeCmwy6d_WScOZ1aOA/l.jpg" group-title="INTERNACIONAL",Mir 24 HD Russia
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
- 
- 
 #EXTINF: 0 tipo = "favoritos" channelId = "- 1" group-title = "TV ESPANHOLA", 7 MURCIA
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
- 
 #EXTINF: -1 tvg-logo = "hhttp: //www.cxtv.com.br/img/Tvs/Logo/b141e293ab2a3165a38ecfc3116068b8.png" group-title = "CANAIS INTERNACIONAIS", VEN: PROMAR TV
 http://edge.wms28.lorini.net/promar/promar/chunklist_w590746241.m3u8
- 
 #EXTINF: -1 tvg-id = "TV Telesur" tvg-logo = "https://i.imgur.com/6euqurz.png?1" group-title = "CANAIS INTERNACIONAIS", VEN: TV TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
- 
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/Xwbpj7i.jpg" group-title = "CANAIS INTERNACIONAIS", POR: OVACION SD
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
- 
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/oaxSwdU.png" group-title = "CANAIS INTERNACIONAIS", POR: TV PERU SD
 http://cdnh4.iblups.com/hls/irtp.m3u8
- 
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/JuJyG1P.png" group-title = "CANAIS INTERNACIONAIS", POR: ANTARES TV SD
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
- 
- 
 #EXTINF: -1 tvg-id = "" tvg-logo = "" group-title = "CANAIS INTERNACIONAIS", MEX: MULTIMEDIOS MONTERREY 2
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
- 
 #EXTINF: -1 tvg-id = "" tvg-logo = "" group-title = "CANAIS INTERNACIONAIS", MEX: TELEMAR
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
- 
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/dmHjzfS.png" group-title = "CANAIS INTERNACIONAIS", COL: TELE ISLAS SD
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
- 
- 
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/q0weOxZ.png?1" group-title = "CANAIS INTERNACIONAIS", ARG: CANAL 26 HD
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1713125811_b2628000_sleng.m3u8
- 
- 
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/D6ISx7c.png?1" group-title = "ESPORTES INTERNACIONAIS", TODOS OS ESPORTES DE KASS 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
- 
- 
 #EXTINF: -1 tvg-logo = "http://s3.vefire.ru/l/250x150/ru/100AutoMoto.png" group-title = "ESPORTES INTERNACIONAIS", 100AUTOMOTO TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
- 
 #EXTINF: 0 type = "stream" channelId = "- 1" group-title = "ESPORTES INTERNACIONAIS", CDO
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
- 
- 
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Retro-Music-webtvonlive-com.jpg" group-title="MUSICA",Retro Music Television Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1844566778.m3u8
- 
- 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98f2c63bd8626875fa4b533767d074ff.png" group-title="MUSICA",m2o TV 1
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
- 
- 
 #EXTINF:-1 tvg-logo="http://digitalradio.it/wp-content/uploads/2016/10/Logo-m2o.png" group-title="MUSICA",m2o TV 2
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
- 
- 
 #EXTINF:-1 tvg-logo="http://www.news24.jp/external/images/bnr_newsJP_150x60.jpg" group-title="INTERNACIONAL",NEWS 24 HD Japão
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
- 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/arirang.png" group-title="INTERNACIONAL",Arirang HD Koreia do Sul
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/LA7_logo.png" group-title="INTERNACIONAL",Canale 7 HD Italia
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
- 
- 
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/miami-tv-channel-577.jpg" group-title="INTERNACIONAL",MIAMI TV HD +18 USA
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2127559280_b2592000.m3u8
