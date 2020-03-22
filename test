@@ -1,9 +1,5 @@
 #EXTM3U
- 
-#EXTINF:-1 ,band
-https://video01.kshost.com.br/rba2779/rba2779/chunklist.m3u8
-#EXTINF:-1,globo
-https://live.video.globo.com:443/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_964/playlist.m3u8
+
 #EXTINF:-1 ,telecine premium
 http://proxyts.canais.ink:8082/hls1/telecinepremium.m3u8
 #EXTINF:-1 ,cinemax
