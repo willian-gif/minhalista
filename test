@@ -1,136 +1,54 @@
 #EXTM3U
  
-#EXTINF:-1 , Canal 1
+#EXTINF:-1 ,band
 https://video01.kshost.com.br/rba2779/rba2779/chunklist.m3u8
- 
- 
-#EXTINF:-1, Canal 2
+#EXTINF:-1,globo
 https://live.video.globo.com:443/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_964/playlist.m3u8
- 
-#EXTINF:-1 ,Canal 0
+#EXTINF:-1 ,telecinepremium
 Http://proxyts.canais.ink:8082/hls1/telecinepremium.m3u8
- 
- 
-#EXTINF:-1 ,Canal 9999
+#EXTINF:-1 ,cinemax
 http://proxyts.habbin.fo:8082/hls1/cinemax.m3u8
- 
- 
- 
- 
- 
 #EXTINF:-1, canal 4
 https://stmv2.srvstm.com:443/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1996569495
- 
- 
- 
 #EXTINF:-1,PORNO
 http://live.redtraffic.xyz:80/pornstar.m3u8
- 
- 
-#EXTINF:-1,PPRNO
+#EXTINF:-1,PORNO
 http://live.redtraffic.xyz:80/pornstar.m3u8?PEDROJUNIORTUTORIAIS
- 
 #EXTINF:-1,CANAL 5
 http://tv.minhalista.me:80/Alana088/87765739/36931
- 
- 
- 
- 
 #EXTINF:-1,Canal 6
 http://evpp.mm.uol.com.br:80/redetv1/redetv1/chunklist_w539847817.m3u8
- 
-#EXTINF:-1,Canal 7
+#EXTINF:-1,fox channel
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/foxhd.smil/chunklist_b1101581_sleng.m3u8
- 
- 
 #EXTINF:-1,Canal 8
 http://tv.minhalista.me:80/Alana088/87765739/36934
- 
- 
 #EXTINF:-1,Canal 9
 http://tv.minhalista.me:80/Alana088/87765739/36939
- 
- 
 #EXTINF:-1,Canal 10
 http://tv.minhalista.me:80/Alana088/87765739/36937
- 
- 
- 
 #EXTINF:-1,canal 11
- 
 http://tv.minhalista.me:80/Alana088/87765739/36926
- 
 #EXTINF:-1,Canal 12
 http://tv.minhalista.me:80/Alana088/87765739/36957
- 
- 
 #EXTINF:-1,Canal 13
 http://tv.minhalista.me:80/Alana088/87765739/36991
- 
- 
 #EXTINF:-1,Canal 14
- 
 http://tv.minhalista.me:80/Alana088/87765739/36972
- 
- 
 #EXTINF:-1,Canal 15
- 
 http://tv.minhalista.me:80/Alana088/87765739/37111
- 
- 
 #EXTINF:-1,Canal 16
 http://tv.minhalista.me:80/Alana088/87765739/37086
- 
 #EXTINF:-1,Canal 17
 http://tv.minhalista.me:80/Alana088/87765739/36959
- 
-#EXTINF:-1,Canal 18
+#EXTINF:-1,tve
 http://tv.minhalista.me:80/Alana088/87765739/38428
- 
- 
-#EXTINF:-1,Canal 19
-http://tv.minhalista.me:80/Alana088/87765739/36900
- 
- 
-#EXTINF:-1, Canal
-http://tv.minhalista.me:80/Alana088/87765739/36925
- 
-#EXTINF:-1, Canal
-http://tv.minhalista.me:80/Cesar93/e9rb03e9s/37109
- 
-#EXTINF:-,1 Canal
-http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1305676722.m3u8
- 
-#EXTINF:-1,Canal
-http://proxyts.hapixel.biz:8084/hls1/telecineaction.m3u8
- 
-#EXTINF:-,1 Porno
-https://hls-hw.xvideos-cdn.com/videos/hls/2f/b8/4f/2fb84f08daddc65001a9f95c85cc437e/hls-1080p.m3u8?e=1584671930&l=0&h=3424242e8d12a2157e1328840c9523e8
- 
- 
-#EXTINF:-,1 Porno
-https://hls1-l3.xvideos-cdn.com/94d66db532d6de2bfb8af43f72d76482c771c4fe-1584671493/videos/hls/48/5a/2b/485a2baa1ba6c88ab658ca28d40ae2be/hls-360p-2531f.m3u8
- 
- 
- 
-#EXTINF:-1, 0000
-https://edge-aws.aovivo.club/hls/s:78.46.240.155/viva_5d00f2c6_976a4eaddc021e9fa19ad1e802e9fa4ab9b6233c/playlist.m3u8
- 
- 
-#EXTINF:-,  MegaPix
+#EXTINF:-,MegaPix
 http://proxyts.habbin.fo:8082/hls1/megapix.m3u8
- 
-#EXTINF:-,  telecineaction
+#EXTINF:-,telecine action
 http://proxyts.habbin.fo:8082/hls1/telecineaction.m3u8
- 
-#EXTINF :-,  space
+#EXTINF :-,space
 http://proxyts.habbin.fo:8082/hls1/space.m3u8
- 
-#EXTINF:-,  cinemax
+#EXTINF:-,cinemax
 http://proxyts.habbin.fo:8082/hls1/cinemax.m3u8
- 
-#EXTINF:-,  bbb2
+#EXTINF:-,bbb20
 http://proxyts.habbin.fo:8082/hls1/bbb2.m3u8
- 
-#EXTINF :-,1 Viva
-https://edge-aws.aovivo.club/hls/s:78.46.240.155/viva_5d00f2c6_976a4eaddc021e9fa19ad1e802e9fa4ab9b6233c/playlist.m3u8
