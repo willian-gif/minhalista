@@ -1,20 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,Globo News
-https://live.video.globo.com/h/0215849311341072748051158484473396961554693UcTSP7TXedaN7si1iBe5JQ/k/html5/a/A/d/m/s/hls-gnews24ha/hls-gnews24ha_1417/playlist.m3u8
 #EXTINF:-1,cnn brasil
 https://streaming.cnnbrasil.com.br/cnndigital_mainOutput5.m3u8
-#EXTINF:-1,telecine premium
-http://proxyts.canais.ink:8082/hls1/telecinepremium.m3u8
-#EXTINF:-1,cinemax
-http://proxyts.habbin.fo:8082/hls1/cinemax.m3u8
 #EXTINF:-1,fox channel
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/foxhd.smil/chunklist_b1101581_sleng.m3u8
-#EXTINF:-1,MegaPix
-http://proxyts.habbin.fo:8082/hls1/megapix.m3u8
-#EXTINF:-1,telecine action
-http://proxyts.habbin.fo:8082/hls1/telecineaction.m3u8
-#EXTINF:-1,space
-http://proxyts.habbin.fo:8082/hls1/space.m3u8
-#EXTINF:-1,bbb2
-http://proxyts.habbin.fo:8082/hls1/bbb2.m3u8
+
