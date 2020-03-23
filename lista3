@@ -2,3 +2,5 @@
 
 #EXTINF:-1,Globo News
 https://live.video.globo.com/h/0215849311341072748051158484473396961554693UcTSP7TXedaN7si1iBe5JQ/k/html5/a/A/d/m/s/hls-gnews24ha/hls-gnews24ha_1417/playlist.m3u8
+#EXTINF:-1,cnn brasil
+https://streaming.cnnbrasil.com.br/cnndigital_mainOutput5.m3u8
