@@ -2,3 +2,66 @@
 
 #EXTINF:-1,fox channel
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/foxhd.smil/chunklist_b1101581_sleng.m3u8
+#EXTINF:-1,Discovery Channel
+https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
+ 
+ 
+#EXTINF:-1,Discover Kids
+https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
+ 
+ 
+#EXTINF:-1,Viva
+https://2204.janjua.pw:8088/live/aovivotudo_nick/playlist.m3u8?
+ 
+#EXTINF:-1,Telecine Action
+http://tv.minhalista.me:80/Emilio/2019/37040
+ 
+#EXTINF:-1,Telecine Pipoca
+http://tv.minhalista.me:80/Emilio/2019/36937
+ 
+#EXTINF:-1,Combate
+https://2208.janjua.pw:8088/live/aovivotudo_tnt/playlist.m3u8
+ 
+#EXTINF:-1,Megapix
+http://tv.minhalista.me:80/Emilio/2019/37072
+ 
+#EXTINF:-1,TNT
+https://2202.janjua.pw:8088/live/aovivotudo_tnt/playlist.m3u8?
+ 
+#EXTINF:-1,HBO3
+http://www.sansat.net:25461/ja0817y43/EN5j9Jv4Ld/57089
+ 
+#EXTINF:-1,CNN BRASIL
+https://streaming.cnnbrasil.com.br:443/cnndigital_mainOutput5.m3u8
+ 
+#EXTINF:-1,Telecine Premiun
+http://tv.minhalista.me:80/Emilio/2019/37335
+ 
+#EXTINF:-1,animal Planet
+http://tv.minhalista.me:80/Emilio/2019/37128
+ 
+ 
+#EXTINF:-1,AXN
+http://tv.minhalista.me:80/Emilio/2019/37130
+ 
+ 
+#EXTINF:-1,Globo
+https://live.video.globo.com:443/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_964/playlist.m3u8
+ 
+ 
+#EXTINF:-1,Cine 24 hora
+http://stmv2.srvstm.com:80/tvjsid/tvjsid/playlist.m3u8
+ 
+ 
+#EXTINF:-1,M2o Tv Musica
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+ 
+#EXTINF:-1,Nick
+http://painel.smartlista.org:8880/1ebzm2drwun/k65jmdezaux/2232
+ 
+#EXTINF:-1,Viva
+http://tv.factoryiptv.com:80/9h9fB8UtWv/duoiptv/36997
+ 
+ 
+#EXTINF:-1,Nick
+https://2d04.janjua.pw:8088/live/aovivotudo_nick/playlist.m3u8?
