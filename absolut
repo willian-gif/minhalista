@@ -1,35 +1,19 @@
 #EXTM3U
-#EXTINF:-1,discoverykids
+#EXTINF:-1,discovery kids
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
-#EXTINF:-1,discoverykids
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b664685_sleng.m3u8
-#EXTINF:-1,nickelodeon6
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:-1,nickelodeon
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/chunklist_b664685_sleng.m3u8
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:-1,fx
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b1101581_sleng.m3u8
-#EXTINF:-1,fx
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b664685_sleng.m3u8
-#EXTINF:-1,foxhd
+#EXTINF:-1,fox
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/chunklist_b1101581_sleng.m3u8
-#EXTINF:-1,foxhd
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/chunklist_b664685_sleng.m3u8
-#EXTINF:-1,foxpremium1hd
+#EXTINF:-1,foxpremium1
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/chunklist_b1101581_sleng.m3u8
-#EXTINF:-1,foxpremium1hd
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/chunklist_b664685_sleng.m3u8
-#EXTINF:-1,discoverychannel
+#EXTINF:-1,discovery channel
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1101581_sleng.m3u8
-#EXTINF:-1,discoverychannel
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b664685_sleng.m3u8
 #EXTINF:-1,mtv
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b1101581_sleng.m3u8
-#EXTINF:-1,mtv
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b664685_sleng.m3u8
-#EXTINF:-1,foxsports
-https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/foxsports.smil/chunklist_b664685_sleng.m3u8
-#EXTINF:-1,foxsports
+#EXTINF:-1,fox sports
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:-1,espn
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/espn.smil/chunklist_b1101581_sleng.m3u8
@@ -75,21 +59,9 @@ http://server.cinenaweb.us:8080/24HVision/102030/1073
 http://server.cinenaweb.us:8080/24HVision/102030/7717
 #EXTINF:-1,24H inspetor bugiganga
 http://server.cinenaweb.us:8080/24HVision/102030/7720
-#EXTINF:-1,24HVision
+#EXTINF:-1,24H patati e patata
 http://server.cinenaweb.us:8080/24HVision/102030/7718
-#EXTINF:-1,24HVision
-http://server.cinenaweb.us:8080/24HVision/102030/7723
-#EXTINF:-1,24HVision
-http://server.cinenaweb.us:8080/24HVision/102030/7724
-#EXTINF:-1,24HVision
-http://server.cinenaweb.us:8080/24HVision/102030/7766
 #EXTINF:-1,ff pro league
 http://server.cinenaweb.us:8080/24HVision/102030/7633
 #EXTINF:-1,csgo esl
 http://server.cinenaweb.us:8080/24HVision/102030/7634
-#EXTINF:-1,24HVision
-http://server.cinenaweb.us:8080/24HVision/102030/7705
-#EXTINF:-1,24HVision
-http://server.cinenaweb.us:8080/24HVision/102030/7657
-#EXTINF:-1,24HVision
-http://server.cinenaweb.us:8080/24HVision/102030/11354
