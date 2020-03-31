@@ -1,7 +1,5 @@
 #EXTM3U
-https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="notícias"', Record News
-https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w1461695354.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgSOysDXa76Sf2w7SsLQ8lK4jrY3FC7Effz4jlqQx5XPyz5y_Y" group-title="notícias"', CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_mainOutput2.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/bandnews-logo/" group-title="notícias"', Band News
