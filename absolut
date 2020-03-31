@@ -33,60 +33,6 @@ https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/foxsports.smil/chunkli
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:-1,espn
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/espn.smil/chunklist_b1101581_sleng.m3u8
-#EXTINF:-1,tvsd2
-https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w1278230418_b350000.m3u8
-#EXTINF:-1,pioneira
-https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:-1,z438
-http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w1161769886.m3u8
-#EXTINF:-1,z437
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1030661937.m3u8
-#EXTINF:-1,dgrau
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1545719161.m3u8
-#EXTINF:-1,LVW
-https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
-#EXTINF:-1,LVW
-https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097152.m3u8
-#EXTINF:-1,tve
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1297393765.m3u8
-#EXTINF:-1,funtelpa
-http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w1973272416.m3u8
-#EXTINF:-1,funtelpa
-http://str.portalcultura.com.br/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1,tve
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1,dclive
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8
-#EXTINF:-1,canaldoboi
-https://5e38d79ac4439.streamlock.net/canaldoboi/live/chunklist_w833435355_tkd293emF0b2tlbmhhc2g9SzEtTnZHQWhLN0hRWnZfWWMxOWpDVmpmS083NVpiYVh2bzBLMU9wdkNLYz0=.m3u8
-#EXTINF:-1,redevida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
-#EXTINF:-1,tvaparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w334659931.m3u8
-#EXTINF:-1,STsEBCLIVE
-https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8
-#EXTINF:-1,tvup
-http://caikron.com.br:1935/unipar/tvup/chunklist_w429822267.m3u8
-#EXTINF:-1,kkids
-http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
-#EXTINF:-1,gospelcartoon
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1,tvjsid
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1601604961
-#EXTINF:-1,focamundo
-https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvguara
-https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
-#EXTINF:-1,evangelizar
-http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
-#EXTINF:-1,tv31966
-http://video01.kshost.com.br/tv31966/tv31966/chunklist.m3u8
-#EXTINF:-1,pix
-https://lyqibtcyiz.singularcdn.net.br/pix/pixtv_hi.m3u8
-#EXTINF:-1,tvc
-https://7ejqucofpe.singularcdn.net.br/iptv/hls/tvc/tvc.m3u8
-#EXTINF:-1,TVGAZETA
-https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-360p.m3u8
 #EXTINF:-1,trace_brazuka
 https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/6/prog_index.m3u8
 #EXTINF:-1,trace_ayiti
@@ -147,31 +93,3 @@ http://server.cinenaweb.us:8080/24HVision/102030/7705
 http://server.cinenaweb.us:8080/24HVision/102030/7657
 #EXTINF:-1,24HVision
 http://server.cinenaweb.us:8080/24HVision/102030/11354
-#EXTINF:-1,AXN HD¹
-http://supercinetv.xyz:80/live/cliente6067/cliente6067/31920.m3u8
-#EXTINF:-1,Discovery Kids SD¹
-http://supercinetv.xyz:80/live/cliente6067/cliente6067/37733.m3u8
-#EXTINF:-1,Disney Jr HD¹
-http://supercinetv.xyz:80/live/cliente6067/cliente6067/32066.m3u8
-#EXTINF:-1,Fox Sports 2 FullHD¹
-http://supercinetv.xyz:80/live/cliente6067/cliente6067/31822.m3u8
-#EXTINF:-1,Globo EPTV Sul Minas SD¹
-http://supercinetv.xyz:80/live/cliente6067/cliente6067/31950.m3u8
-#EXTINF:-1,Globo Grande Minas SD¹
-http://supercinetv.xyz:80/live/cliente6067/cliente6067/31946.m3u8
-#EXTINF:-1,HBO HD¹
-http://supercinetv.xyz:80/live/cliente6067/cliente6067/32035.m3u8
-#EXTINF:-1,Nick Jr HD¹
-http://supercinetv.xyz:80/live/cliente6067/cliente6067/32051.m3u8
-#EXTINF:-1,Nickelodeon SD¹
-http://supercinetv.xyz:80/live/cliente6067/cliente6067/32049.m3u8
-#EXTINF:-1,Record FullHD¹
-http://supercinetv.xyz:80/live/cliente6067/cliente6067/37756.m3u8
-#EXTINF:-1,SporTV HD¹
-http://supercinetv.xyz:80/live/cliente6067/cliente6067/31818.m3u8
-#EXTINF:-1,TNT Séries HD¹
-http://supercinetv.xyz:80/live/cliente6067/cliente6067/31863.m3u8
-#EXTINF:-1,Warner Channel SD¹
-http://supercinetv.xyz:80/live/cliente6067/cliente6067/31858.m3u8
-#EXTINF:-1,Galinha Pintadinha
-http://supercinetv.xyz:80/live/cliente6067/cliente6067/37682.m3u8
