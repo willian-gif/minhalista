@@ -15,5 +15,5 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chun
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:-1,fox sports
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1101581_sleng.m3u8
-#EXTINF:-1,espn
-https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/espn.smil/chunklist_b1101581_sleng.m3u8
+#EXTINF:-1,cnn brasil
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output4.m3u8
