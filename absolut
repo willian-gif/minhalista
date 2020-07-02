@@ -19,3 +19,5 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b
 https://streaming.cnnbrasil.com.br/cnndigital_main_Output4.m3u8
 #EXTINF:-1,Fox Premium 1
 https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremiumhd/video.m3u8
+#EXTINF:-1,TNT
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tnthd/video.m3u8
