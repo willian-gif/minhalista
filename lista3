@@ -1,1 +1,217 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="RBTV ES FHD ALTERNATIVO" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group-title="Canais | Abertos",RBTV ES FHD ALTERNATIVO
+http://udq.me:80/live/2GUMD/NbZU6/13656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV EVAGILIZAR ES FHD ALTERNATIVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="Canais | Religiosos",TV EVAGILIZAR ES FHD ALTERNATIVO
+http://udq.me:80/live/2GUMD/NbZU6/13688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil FHD ALTERNATIVO " tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="Canais | Notícias",CNN Brasil FHD ALTERNATIVO 
+http://udq.me:80/live/2GUMD/NbZU6/22584.m3u8
+#EXTINF:-1 tvg-id="FoxSports2" tvg-name="FOX SPORTS 2 SD (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="Canais | Esportes",FOX SPORTS 2 SD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52539.m3u8
+#EXTINF:-1 tvg-id="TelecineTouch" tvg-name="TELECINE TOUCH FHD (ALTERNATIVO)" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title=" Canais | Filmes ",TELECINE TOUCH FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52513.m3u8
+#EXTINF:-1 tvg-id="TelecinePremium" tvg-name="TELECINE PREMIUM FHD (ALTERNATIVO)" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title=" Canais | Filmes ",TELECINE PREMIUM FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52514.m3u8
+#EXTINF:-1 tvg-id="TelecineFun" tvg-name="TELECINE FUN FHD (ALTERNATIVO)" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title=" Canais | Filmes ",TELECINE FUN FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52515.m3u8
+#EXTINF:-1 tvg-id="TelecineCult" tvg-name="TELECINE CULT FHD (ALTERNATIVO)" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title=" Canais | Filmes ",TELECINE CULT FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52516.m3u8
+#EXTINF:-1 tvg-id="TelecineAction" tvg-name="TELECINE ACTION FHD (ALTERNATIVO)" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title=" Canais | Filmes ",TELECINE ACTION FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52517.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD (ALTERNATIVO)" tvg-logo="https://image.flaticon.com/icons/png/512/870/870885.png" group-title=" Canais | Filmes ",AXN FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52518.m3u8
+#EXTINF:-1 tvg-id="CanalBrasil" tvg-name="CANAL BRASIL FHD (ALTERNATIVO)" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-1.png" group-title=" Canais | Filmes ",CANAL BRASIL FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52519.m3u8
+#EXTINF:-1 tvg-id="CanalSony" tvg-name="CANAL SONY FHD (ALTERNATIVO)" tvg-logo="https://pluspng.com/img-png/sony-png-sony-logo-png-1000.png" group-title=" Canais | Filmes ",CANAL SONY FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52520.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX FHD (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title=" Canais | Filmes ",CINEMAX FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52521.m3u8
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE FHD (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Fox_life_bg_2014.png" group-title=" Canais | Filmes ",FOX LIFE FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52522.m3u8
+#EXTINF:-1 tvg-id="TelecinePipoca" tvg-name="TELECINE PIPOCA FHD (ALTERNATIVO)" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title=" Canais | Filmes ",TELECINE PIPOCA FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52523.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD (ALTERNATIVO)" tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-media-png-logo-1.png" group-title=" Canais | Filmes ",AMC FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52524.m3u8
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD (ALTERNATIVO)" tvg-logo="https://image.winudf.com/v2/image/Y29tLmFjY2Vkby5hZS5hbmRyb2lkLmRlYnVnX2ljb25fMTUyMTg4NTU1NF8wNzg/icon.png?w=170&fakeurl=1" group-title=" Canais | Filmes ",A&E FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52525.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX FHD (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1200px-FOX_wordmark.png" group-title=" Canais | Filmes ",FOX FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52526.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD (ALTERNATIVO)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fx-logo-png-1.png" group-title=" Canais | Filmes ",FX FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52527.m3u8
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO FAMILY FHD (ALTERNATIVO)" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO FAMILY FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 FHD (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png" group-title=" Canais | Filmes ",FOX PREMIUM 2 FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52529.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 FHD (ALTERNATIVO)" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO 2 FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52530.m3u8
+#EXTINF:-1 tvg-id="HBOPlus" tvg-name="HBO PLUS FHD (ALTERNATIVO)" tvg-logo="" group-title=" Canais | Filmes ",HBO PLUS FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52532.m3u8
+#EXTINF:-1 tvg-id="HBOSignature" tvg-name="HBO SIGNATURE FHD (ALTERNATIVO)" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO SIGNATURE FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FHD (ALTERNATIVO)" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO MUNDI FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME FHD(ALTERNATIVO)" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO XTREME FHD(ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52535.m3u8
+#EXTINF:-1 tvg-id="MegaPix" tvg-name="MEGAPIX FHD (ALTERNATIVO)" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo-1.png" group-title=" Canais | Filmes ",MEGAPIX FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52536.m3u8
+#EXTINF:-1 tvg-id="Paramount" tvg-name="PARAMOUNT CHANNEL FHD (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title=" Canais | Filmes ",PARAMOUNT CHANNEL FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52537.m3u8
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY FHD (ALTERNATIVO)" tvg-logo="https://www.syfy.pt/sites/all/themes/pint_themes/base_syfywire/logo.svg" group-title=" Canais | Filmes ",SYFY FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52538.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE FHD (ALTERNATIVO)" tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png" group-title=" Canais | Filmes ",SPACE FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52540.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS FHD (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png" group-title=" Canais | Filmes ",TBS FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52541.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="WARNER FHD (ALTERNATIVO)" tvg-logo="https://images.uncyc.org/pt/d/de/Warner_Channel_Logotipo.png" group-title=" Canais | Filmes ",WARNER FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52542.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal" tvg-name="STUDIO UNIVERSAL FHD (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title=" Canais | Filmes ",STUDIO UNIVERSAL FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52543.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD (ALTERNATIVO)" tvg-logo="https://ap.imagensbrasil.org/images/2017/04/28/TNT.png" group-title=" Canais | Filmes ",TNT FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL FHD (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/468px-Universal_Channel_Brasil.svg.png" group-title=" Canais | Filmes ",UNIVERSAL CHANNEL FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52545.m3u8
+#EXTINF:-1 tvg-id="TNTSeries" tvg-name="TNT SERIES FHD (ALTERNATIVO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title=" Canais | Filmes ",TNT SERIES FHD (ALTERNATIVO)
+http://udq.me:80/live/2GUMD/NbZU6/52546.m3u8
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E HD" tvg-logo="https://image.winudf.com/v2/image/Y29tLmFjY2Vkby5hZS5hbmRyb2lkLmRlYnVnX2ljb25fMTUyMTg4NTU1NF8wNzg/icon.png?w=170&fakeurl=1" group-title=" Canais | Filmes ",A&E HD
+http://udq.me:80/live/2GUMD/NbZU6/7035.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-media-png-logo-1.png" group-title=" Canais | Filmes ",AMC HD
+http://udq.me:80/live/2GUMD/NbZU6/7037.m3u8
+#EXTINF:-1 tvg-id="CanalBrasil" tvg-name="CANAL BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-1.png" group-title=" Canais | Filmes ",CANAL BRASIL HD
+http://udq.me:80/live/2GUMD/NbZU6/7041.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://image.flaticon.com/icons/png/512/870/870885.png" group-title=" Canais | Filmes ",AXN HD
+http://udq.me:80/live/2GUMD/NbZU6/7039.m3u8
+#EXTINF:-1 tvg-id="CanalSony" tvg-name="CANAL SONY HD" tvg-logo="https://pluspng.com/img-png/sony-png-sony-logo-png-1000.png" group-title=" Canais | Filmes ",CANAL SONY HD
+http://udq.me:80/live/2GUMD/NbZU6/7043.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title=" Canais | Filmes ",CINEMAX HD
+http://udq.me:80/live/2GUMD/NbZU6/7045.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1200px-FOX_wordmark.png" group-title=" Canais | Filmes ",FOX HD
+http://udq.me:80/live/2GUMD/NbZU6/7062.m3u8
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Fox_life_bg_2014.png" group-title=" Canais | Filmes ",FOX LIFE HD
+http://udq.me:80/live/2GUMD/NbZU6/7065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png" group-title=" Canais | Filmes ",FOX PREMIUM 1 HD
+http://udq.me:80/live/2GUMD/NbZU6/7078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png" group-title=" Canais | Filmes ",FOX PREMIUM 2 HD
+http://udq.me:80/live/2GUMD/NbZU6/7081.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fx-logo-png-1.png" group-title=" Canais | Filmes ",FX HD
+http://udq.me:80/live/2GUMD/NbZU6/7083.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 HD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO 2 HD
+http://udq.me:80/live/2GUMD/NbZU6/7086.m3u8
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title=" Canais | Filmes ",HBO FAMILY HD
+http://udq.me:80/live/2GUMD/NbZU6/7113.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO HD
+http://udq.me:80/live/2GUMD/NbZU6/7163.m3u8
+#EXTINF:-1 tvg-id="HBOPlus" tvg-name="HBO PLUS HD " tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO PLUS HD 
+http://udq.me:80/live/2GUMD/NbZU6/7717.m3u8
+#EXTINF:-1 tvg-id="HBOSignature" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO SIGNATURE HD
+http://udq.me:80/live/2GUMD/NbZU6/7718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO MUNDI HD
+http://udq.me:80/live/2GUMD/NbZU6/7721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO XTREME HD
+http://udq.me:80/live/2GUMD/NbZU6/7723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO POP HD
+http://udq.me:80/live/2GUMD/NbZU6/7725.m3u8
+#EXTINF:-1 tvg-id="MegaPix" tvg-name="MEGAPIX HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png" group-title=" Canais | Filmes ",MEGAPIX HD
+http://udq.me:80/live/2GUMD/NbZU6/7727.m3u8
+#EXTINF:-1 tvg-id="Paramount" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title=" Canais | Filmes ",PARAMOUNT CHANNEL HD
+http://udq.me:80/live/2GUMD/NbZU6/13281.m3u8
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY HD" tvg-logo="https://www.syfy.pt/sites/all/themes/pint_themes/base_syfywire/logo.svg" group-title=" Canais | Filmes ",SYFY HD
+http://udq.me:80/live/2GUMD/NbZU6/13284.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE HD" tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png" group-title=" Canais | Filmes ",SPACE HD
+http://udq.me:80/live/2GUMD/NbZU6/13286.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title=" Canais | Filmes ",STUDIO UNIVERSAL HD
+http://udq.me:80/live/2GUMD/NbZU6/13288.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png" group-title=" Canais | Filmes ",TBS HD
+http://udq.me:80/live/2GUMD/NbZU6/13291.m3u8
+#EXTINF:-1 tvg-id="TelecineAction" tvg-name="TELECINE ACTION HD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title=" Canais | Filmes ",TELECINE ACTION HD
+http://udq.me:80/live/2GUMD/NbZU6/13296.m3u8
+#EXTINF:-1 tvg-id="TelecineCult" tvg-name="TELECINE CULT HD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title=" Canais | Filmes ",TELECINE CULT HD
+http://udq.me:80/live/2GUMD/NbZU6/13298.m3u8
+#EXTINF:-1 tvg-id="TelecineFun" tvg-name="TELECINE FUN HD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title=" Canais | Filmes ",TELECINE FUN HD
+http://udq.me:80/live/2GUMD/NbZU6/13299.m3u8
+#EXTINF:-1 tvg-id="TelecinePipoca" tvg-name="TELECINE PIPOCA HD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title=" Canais | Filmes ",TELECINE PIPOCA HD
+http://udq.me:80/live/2GUMD/NbZU6/13302.m3u8
+#EXTINF:-1 tvg-id="TelecinePremium" tvg-name="TELECINE PREMIUM HD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title=" Canais | Filmes ",TELECINE PREMIUM HD
+http://udq.me:80/live/2GUMD/NbZU6/13304.m3u8
+#EXTINF:-1 tvg-id="TelecineTouch" tvg-name="TELECINE TOUCH HD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title=" Canais | Filmes ",TELECINE TOUCH HD
+http://udq.me:80/live/2GUMD/NbZU6/13305.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="https://ap.imagensbrasil.org/images/2017/04/28/TNT.png" group-title=" Canais | Filmes ",TNT HD
+http://udq.me:80/live/2GUMD/NbZU6/13308.m3u8
+#EXTINF:-1 tvg-id="TNTSeries" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title=" Canais | Filmes ",TNT SERIES HD
+http://udq.me:80/live/2GUMD/NbZU6/13310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/468px-Universal_Channel_Brasil.svg.png" group-title=" Canais | Filmes ",UNIVERSAL CHANNEL HD
+http://udq.me:80/live/2GUMD/NbZU6/13312.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="WARNER CHANNEL HD" tvg-logo="https://images.uncyc.org/pt/d/de/Warner_Channel_Logotipo.png" group-title=" Canais | Filmes ",WARNER CHANNEL HD
+http://udq.me:80/live/2GUMD/NbZU6/13314.m3u8
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E SD" tvg-logo="https://image.winudf.com/v2/image/Y29tLmFjY2Vkby5hZS5hbmRyb2lkLmRlYnVnX2ljb25fMTUyMTg4NTU1NF8wNzg/icon.png?w=170&fakeurl=1" group-title=" Canais | Filmes ",A&E SD
+http://udq.me:80/live/2GUMD/NbZU6/7034.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-media-png-logo-1.png" group-title=" Canais | Filmes ",AMC SD
+http://udq.me:80/live/2GUMD/NbZU6/7036.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD" tvg-logo="https://image.flaticon.com/icons/png/512/870/870885.png" group-title=" Canais | Filmes ",AXN SD
+http://udq.me:80/live/2GUMD/NbZU6/7038.m3u8
+#EXTINF:-1 tvg-id="CanalBrasil" tvg-name="CANAL BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-1.png" group-title=" Canais | Filmes ",CANAL BRASIL SD
+http://udq.me:80/live/2GUMD/NbZU6/7040.m3u8
+#EXTINF:-1 tvg-id="CanalSony" tvg-name="CANAL SONY SD" tvg-logo="https://pluspng.com/img-png/sony-png-sony-logo-png-1000.png" group-title=" Canais | Filmes ",CANAL SONY SD
+http://udq.me:80/live/2GUMD/NbZU6/7042.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title=" Canais | Filmes ",CINEMAX SD
+http://udq.me:80/live/2GUMD/NbZU6/7044.m3u8
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Fox_life_bg_2014.png" group-title=" Canais | Filmes ",FOX LIFE SD
+http://udq.me:80/live/2GUMD/NbZU6/7064.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1200px-FOX_wordmark.png" group-title=" Canais | Filmes ",FOX SD
+http://udq.me:80/live/2GUMD/NbZU6/7063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png" group-title=" Canais | Filmes ",FOX PREMIUM 1 SD
+http://udq.me:80/live/2GUMD/NbZU6/7079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png" group-title=" Canais | Filmes ",FOX PREMIUM 2 SD
+http://udq.me:80/live/2GUMD/NbZU6/7080.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FX SD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fx-logo-png-1.png" group-title=" Canais | Filmes ",FX SD
+http://udq.me:80/live/2GUMD/NbZU6/7082.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO SD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO SD
+http://udq.me:80/live/2GUMD/NbZU6/7084.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 SD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO 2 SD
+http://udq.me:80/live/2GUMD/NbZU6/7085.m3u8
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO FAMILY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title=" Canais | Filmes ",HBO FAMILY SD
+http://udq.me:80/live/2GUMD/NbZU6/7114.m3u8
+#EXTINF:-1 tvg-id="HBOPlus" tvg-name="HBO PLUS SD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO PLUS SD
+http://udq.me:80/live/2GUMD/NbZU6/7716.m3u8
+#EXTINF:-1 tvg-id="HBOSignature" tvg-name="HBO SIGNATURE SD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO SIGNATURE SD
+http://udq.me:80/live/2GUMD/NbZU6/7719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI SD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO MUNDI SD
+http://udq.me:80/live/2GUMD/NbZU6/7720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME SD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO XTREME SD
+http://udq.me:80/live/2GUMD/NbZU6/7722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP SD" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title=" Canais | Filmes ",HBO POP SD
+http://udq.me:80/live/2GUMD/NbZU6/7724.m3u8
+#EXTINF:-1 tvg-id="MegaPix" tvg-name="MEGAPIX SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png" group-title=" Canais | Filmes ",MEGAPIX SD
+http://udq.me:80/live/2GUMD/NbZU6/7726.m3u8
+#EXTINF:-1 tvg-id="Paramount" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title=" Canais | Filmes ",PARAMOUNT CHANNEL SD
+http://udq.me:80/live/2GUMD/NbZU6/13282.m3u8
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY SD" tvg-logo="https://www.syfy.pt/sites/all/themes/pint_themes/base_syfywire/logo.svg" group-title=" Canais | Filmes ",SYFY SD
+http://udq.me:80/live/2GUMD/NbZU6/13285.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE SD" tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png" group-title=" Canais | Filmes ",SPACE SD
+http://udq.me:80/live/2GUMD/NbZU6/13287.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png" group-title=" Canais | Filmes ",TBS SD
+http://udq.me:80/live/2GUMD/NbZU6/13290.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title=" Canais | Filmes ",STUDIO UNIVERSAL SD
+http://udq.me:80/live/2GUMD/NbZU6/13289.m3u8
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title=" Canais | Filmes ",TCM SD
+http://udq.me:80/live/2GUMD/NbZU6/13292.m3u8
+#EXTINF:-1 tvg-id="TelecineAction" tvg-name="TELECINE ACTION SD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title=" Canais | Filmes ",TELECINE ACTION SD
+http://udq.me:80/live/2GUMD/NbZU6/13295.m3u8
+#EXTINF:-1 tvg-id="TelecineFun" tvg-name="TELECINE FUN SD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title=" Canais | Filmes ",TELECINE FUN SD
+http://udq.me:80/live/2GUMD/NbZU6/13300.m3u8
+#EXTINF:-1 tvg-id="TelecineCult" tvg-name="TELECINE CULT SD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title=" Canais | Filmes ",TELECINE CULT SD
+http://udq.me:80/live/2GUMD/NbZU6/13297.m3u8
+#EXTINF:-1 tvg-id="TelecinePipoca" tvg-name="TELECINE PIPOCA SD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title=" Canais | Filmes ",TELECINE PIPOCA SD
+http://udq.me:80/live/2GUMD/NbZU6/13301.m3u8
+#EXTINF:-1 tvg-id="TelecinePremium" tvg-name="TELECINE PREMIUM SD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title=" Canais | Filmes ",TELECINE PREMIUM SD
+http://udq.me:80/live/2GUMD/NbZU6/13303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH SD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/98/Telecine.png/revision/latest/scale-to-width-down/340?cb=20190227172201" group-title=" Canais | Filmes ",TELECINE TOUCH SD
+http://udq.me:80/live/2GUMD/NbZU6/13306.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT SD" tvg-logo="https://ap.imagensbrasil.org/images/2017/04/28/TNT.png" group-title=" Canais | Filmes ",TNT SD
+http://udq.me:80/live/2GUMD/NbZU6/13307.m3u8
+#EXTINF:-1 tvg-id="TNTSeries" tvg-name="TNT SERIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title=" Canais | Filmes ",TNT SERIES SD
+http://udq.me:80/live/2GUMD/NbZU6/13309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/468px-Universal_Channel_Brasil.svg.png" group-title=" Canais | Filmes ",UNIVERSAL CHANNEL SD
+http://udq.me:80/live/2GUMD/NbZU6/13311.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="WARNER CHANNEL SD" tvg-logo="https://images.uncyc.org/pt/d/de/Warner_Channel_Logotipo.png" group-title=" Canais | Filmes ",WARNER CHANNEL SD
+http://udq.me:80/live/2GUMD/NbZU6/13313.m3u8
+#EXTINF:-1 tvg-id="FilmArts" tvg-name="FILM & ARTS SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title=" Canais | Filmes ",FILM & ARTS SD
+http://udq.me:80/live/2GUMD/NbZU6/13315.m3u8
