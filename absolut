@@ -809,6 +809,20 @@ http://srvx.io:80/live/D2Vbk/x5dXT/1822.m3u8
 http://srvx.io:80/live/D2Vbk/x5dXT/2118.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Legendados",FX SD [Legendado]
 http://srvx.io:80/live/D2Vbk/x5dXT/1506.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News FHD
+http://srvx.io:80/live/D2Vbk/x5dXT/1943.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Alternativos",Globo News FHD [Alter]
+http://srvx.io:80/live/D2Vbk/x5dXT/45161.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News FHD [H265]
+http://srvx.io:80/live/D2Vbk/x5dXT/25449.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Alternativos",Globo News FHD [H265] [Alter]
+http://srvx.io:80/live/D2Vbk/x5dXT/29464.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News HD
+http://srvx.io:80/live/D2Vbk/x5dXT/1819.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Alternativos",Globo News HD [Alter]
+http://srvx.io:80/live/D2Vbk/x5dXT/2367.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News SD
+http://srvx.io:80/live/D2Vbk/x5dXT/1820.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob FHD [H265]
 http://srvx.io:80/live/D2Vbk/x5dXT/25448.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Alternativos",Gloob FHD [H265] [Alter]
