@@ -1,1 +1,1177 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AMCB" tvg-name="AMC HD" tvg-logo="https://logos.servidor.tv/amc.jpg" group-title="Canais: Filme e Série",AMC HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1498
+#EXTINF:-1 tvg-id="AMCB" tvg-name="AMC HD+" tvg-logo="https://logos.servidor.tv/amc.jpg" group-title="Canais: Filme e Série",AMC HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/373
+#EXTINF:-1 tvg-id="ANIPB" tvg-name="Animal Planet 4K UHD" tvg-logo="https://logos.servidor.tv/animalplanet.png" group-title="Canais: 4K UHD",Animal Planet 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56505
+#EXTINF:-1 tvg-id="ANIPB" tvg-name="Animal Planet HD" tvg-logo="https://logos.servidor.tv/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1497
+#EXTINF:-1 tvg-id="ANIPB" tvg-name="Animal Planet HD+" tvg-logo="https://logos.servidor.tv/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/371
+#EXTINF:-1 tvg-id="ARTE1" tvg-name="Arte 1 HD+" tvg-logo="https://logos.servidor.tv/arte1.jpg" group-title="Canais: Variedade e Música",Arte 1 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/15
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| As Aventuras de Jackie Chan" tvg-logo="https://logos.servidor.tv/c21badd84a757ee66ed3fff17ff244b7.jpg" group-title="Canais: 24 Horas",|24h| As Aventuras de Jackie Chan
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32589
+#EXTINF:-1 tvg-id="AXNB" tvg-name="AXN HD" tvg-logo="https://logos.servidor.tv/axn.jpg" group-title="Canais: Filme e Série",AXN HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1496
+#EXTINF:-1 tvg-id="AXNB" tvg-name="AXN HD+" tvg-logo="https://logos.servidor.tv/axn.jpg" group-title="Canais: Filme e Série",AXN HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/369
+#EXTINF:-1 tvg-id="BABYBR" tvg-name="Baby TV SD" tvg-logo="https://logos.servidor.tv/babytv.png" group-title="Canais: Infantil",Baby TV SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/367
+#EXTINF:-1 tvg-id="BBAHIAH" tvg-name="Band 4K UHD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: 4K UHD",Band 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56512
+#EXTINF:-1 tvg-id="BBAHIAH" tvg-name="Band Bahia HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band Bahia HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63324
+#EXTINF:-1 tvg-id="BBAHIAH" tvg-name="Band Bahia HD+" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band Bahia HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63325
+#EXTINF:-1 tvg-id="BBAHIAH" tvg-name="Band Campinas HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band Campinas HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63323
+#EXTINF:-1 tvg-id="" tvg-name="Band Curitiba HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band Curitiba HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/105087
+#EXTINF:-1 tvg-id="BBAHIAH" tvg-name="Band Maringa HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band Maringa HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63322
+#EXTINF:-1 tvg-id="BANDN" tvg-name="Band News HD" tvg-logo="https://logos.servidor.tv/bandnews.png" group-title="Canais: Notícia",Band News HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1494
+#EXTINF:-1 tvg-id="BANDN" tvg-name="Band News HD+" tvg-logo="https://logos.servidor.tv/bandnews.png" group-title="Canais: Notícia",Band News HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/363
+#EXTINF:-1 tvg-id="BBAHIAH" tvg-name="Band PR HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band PR HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63321
+#EXTINF:-1 tvg-id="BBAHIAH" tvg-name="Band PR HD+" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band PR HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63320
+#EXTINF:-1 tvg-id="BBAHIAH" tvg-name="Band RJ HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band RJ HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63319
+#EXTINF:-1 tvg-id="BBAHIAH" tvg-name="Band SC HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band SC HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63318
+#EXTINF:-1 tvg-id="BBAHIAH" tvg-name="Band SP HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band SP HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/489
+#EXTINF:-1 tvg-id="BBAHIAH" tvg-name="Band SP HD+" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band SP HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/484
+#EXTINF:-1 tvg-id="BANDSP" tvg-name="Band Sports HD" tvg-logo="https://logos.servidor.tv/bandsports.png" group-title="Canais: Esporte",Band Sports HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1495
+#EXTINF:-1 tvg-id="BANDSP" tvg-name="Band Sports HD+" tvg-logo="https://logos.servidor.tv/bandsports.png" group-title="Canais: Esporte",Band Sports HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/360
+#EXTINF:-1 tvg-id="" tvg-name="Band Uberlandia HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Aberto",Band Uberlandia HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113747
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Beastars" tvg-logo="https://logos.servidor.tv/beastars.png" group-title="Canais: 24 Horas",|24h| Beastars
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33088
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="https://logos.servidor.tv/bis.png" group-title="Canais: Variedade e Música",BIS HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1493
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD+" tvg-logo="https://logos.servidor.tv/bis.png" group-title="Canais: Variedade e Música",BIS HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/358
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Bleach" tvg-logo="https://logos.servidor.tv/bleach.png" group-title="Canais: 24 Horas",|24h| Bleach
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33089
+#EXTINF:-1 tvg-id="BOAVONH" tvg-name="Boa Vontade HD+" tvg-logo="https://logos.servidor.tv/boavontade.jpg" group-title="Canais: Religião",Boa Vontade HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53499
+#EXTINF:-1 tvg-id="BOAVONH" tvg-name="Boa Vontade SD" tvg-logo="https://logos.servidor.tv/boavontade.jpg" group-title="Canais: Religião",Boa Vontade SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/22508
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Bob Esponja" tvg-logo="https://logos.servidor.tv/94336a363c529a5350ce2e50ccb49e5b.jpg" group-title="Canais: 24 Horas",|24h| Bob Esponja
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32590
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Boku no Hero Academia" tvg-logo="https://logos.servidor.tv/bokunoheroacademia.png" group-title="Canais: 24 Horas",|24h| Boku no Hero Academia
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33090
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Boruto" tvg-logo="https://logos.servidor.tv/boruto.png" group-title="Canais: 24 Horas",|24h| Boruto
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33091
+#EXTINF:-1 tvg-id="CAN26HD" tvg-name="Canal 26 Argentina HD" tvg-logo="https://logos.servidor.tv/canal26.png" group-title="Canais: Notícia",Canal 26 Argentina HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63317
+#EXTINF:-1 tvg-id="CNLBRSH" tvg-name="Canal Brasil HD" tvg-logo="https://logos.servidor.tv/canalbrasil.jpg" group-title="Canais: Filme e Série",Canal Brasil HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/353
+#EXTINF:-1 tvg-id="CANBOI" tvg-name="Canal do Boi HD" tvg-logo="https://logos.servidor.tv/canaldoboi.png" group-title="Canais: Aberto",Canal do Boi HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/29771
+#EXTINF:-1 tvg-id="CRU" tvg-name="Canal Rural HD" tvg-logo="https://logos.servidor.tv/canalrural.gif" group-title="Canais: Aberto",Canal Rural HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/29770
+#EXTINF:-1 tvg-id="CANCAOH" tvg-name="Canção Nova HD+" tvg-logo="https://logos.servidor.tv/754f20fd138da4ac2265060e8284d736.png" group-title="Canais: Religião",Canção Nova HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53496
+#EXTINF:-1 tvg-id="CANCAOH" tvg-name="Canção Nova SD" tvg-logo="https://logos.servidor.tv/754f20fd138da4ac2265060e8284d736.png" group-title="Canais: Religião",Canção Nova SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33237
+#EXTINF:-1 tvg-id="Cariocão Play" tvg-name="Cariocão Play 1 HD" tvg-logo="https://logos.servidor.tv/e22ff7744475c029d502da4396987a78.png" group-title="Canais: Esporte PPV",Cariocão Play 1 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102687
+#EXTINF:-1 tvg-id="Cariocão Play" tvg-name="Cariocão Play 2 HD" tvg-logo="https://logos.servidor.tv/e22ff7744475c029d502da4396987a78.png" group-title="Canais: Esporte PPV",Cariocão Play 2 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102686
+#EXTINF:-1 tvg-id="Cariocão Play" tvg-name="Cariocão Play 3 HD" tvg-logo="https://logos.servidor.tv/e22ff7744475c029d502da4396987a78.png" group-title="Canais: Esporte PPV",Cariocão Play 3 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102685
+#EXTINF:-1 tvg-id="Cariocão Play" tvg-name="Cariocão Play 4 HD" tvg-logo="https://logos.servidor.tv/e22ff7744475c029d502da4396987a78.png" group-title="Canais: Esporte PPV",Cariocão Play 4 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102684
+#EXTINF:-1 tvg-id="TOONB" tvg-name="Cartoon Network 4K UHD" tvg-logo="https://logos.servidor.tv/cartoonnetwork.jpg" group-title="Canais: 4K UHD",Cartoon Network 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56502
+#EXTINF:-1 tvg-id="TOONB" tvg-name="Cartoon Network HD" tvg-logo="https://logos.servidor.tv/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1491
+#EXTINF:-1 tvg-id="TOONB" tvg-name="Cartoon Network HD+" tvg-logo="https://logos.servidor.tv/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/349
+#EXTINF:-1 tvg-id="BOOMB" tvg-name="Cartoonito HD" tvg-logo="https://logos.servidor.tv/boomerang.png" group-title="Canais: Infantil",Cartoonito HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1492
+#EXTINF:-1 tvg-id="BOOMB" tvg-name="Cartoonito HD+" tvg-logo="https://logos.servidor.tv/boomerang.png" group-title="Canais: Infantil",Cartoonito HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/355
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Caverna do Dragão" tvg-logo="https://logos.servidor.tv/cavernadodragao.png" group-title="Canais: 24 Horas",|24h| Caverna do Dragão
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33092
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN SD" tvg-logo="https://logos.servidor.tv/cgtn.png" group-title="Canais: Notícia",CGTN SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63316
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Chaves" tvg-logo="https://logos.servidor.tv/lQFO5cPoYfKrACayWItroAi1Wdp_small.jpg" group-title="Canais: 24 Horas",|24h| Chaves
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32626
+#EXTINF:-1 tvg-id="CHEFTV" tvg-name="Chef TV HD" tvg-logo="https://logos.servidor.tv/cheftv.png" group-title="Canais: Variedade e Música",Chef TV HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53518
+#EXTINF:-1 tvg-id="CHEFTV" tvg-name="Chef TV HD+" tvg-logo="https://logos.servidor.tv/cheftv.png" group-title="Canais: Variedade e Música",Chef TV HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53519
+#EXTINF:-1 tvg-id="CNBRAS" tvg-name="Cine Brasil HD" tvg-logo="https://logos.servidor.tv/cinebrasil.png" group-title="Canais: Filme e Série",Cine Brasil HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63315
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 1" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 1
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33230
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 2" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 2
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33231
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 3" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 3
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33232
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 4" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 4
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33233
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 5" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 5
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33234
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 6" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 6
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33235
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 7" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 7
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33236
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 8" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 8
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63314
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 9" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 9
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63313
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 10" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 10
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63312
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 11" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 11
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63311
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 12" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 12
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63310
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 13" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 13
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63309
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 14" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 14
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63308
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 15" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 15
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63307
+#EXTINF:-1 tvg-id="FOXLBHD" tvg-name="CineCanal HD" tvg-logo="https://logos.servidor.tv/starlife.png" group-title="Canais: Variedade e Música",CineCanal HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1472
+#EXTINF:-1 tvg-id="FOXLBHD" tvg-name="CineCanal HD+" tvg-logo="https://logos.servidor.tv/starlife.png" group-title="Canais: Variedade e Música",CineCanal HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/303
+#EXTINF:-1 tvg-id="CINEMXB" tvg-name="Cinemax HD" tvg-logo="https://logos.servidor.tv/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1490
+#EXTINF:-1 tvg-id="CINEMXB" tvg-name="Cinemax HD+" tvg-logo="https://logos.servidor.tv/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/347
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Clássicos Walt Disney" tvg-logo="https://logos.servidor.tv/054cb580da77a3a7cf0579d0fc2dcbc0.jpg" group-title="Canais: 24 Horas",|24h| Clássicos Walt Disney
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32624
+#EXTINF:-1 tvg-id="CNNB" tvg-name="CNN Brasil HD" tvg-logo="https://logos.servidor.tv/cnnbrasil.png" group-title="Canais: Notícia",CNN Brasil HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/21417
+#EXTINF:-1 tvg-id="CNNB" tvg-name="CNN Brasil HD+" tvg-logo="https://logos.servidor.tv/cnnbrasil.png" group-title="Canais: Notícia",CNN Brasil HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/21418
+#EXTINF:-1 tvg-id="CNNE" tvg-name="CNN Espanhol SD" tvg-logo="https://logos.servidor.tv/CNN.png" group-title="Canais: Notícia",CNN Espanhol SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/345
+#EXTINF:-1 tvg-id="CNNIB" tvg-name="CNN Internacional SD" tvg-logo="https://logos.servidor.tv/CNN.png" group-title="Canais: Notícia",CNN Internacional SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/344
+#EXTINF:-1 tvg-id="CNT" tvg-name="CNT HD+" tvg-logo="https://logos.servidor.tv/cnt.png" group-title="Canais: Variedade e Música",CNT HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53497
+#EXTINF:-1 tvg-id="COMBATC" tvg-name="Combate 4K UHD" tvg-logo="https://logos.servidor.tv/combate.jpg" group-title="Canais: 4K UHD",Combate 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56511
+#EXTINF:-1 tvg-id="COMBATC" tvg-name="Combate HD" tvg-logo="https://logos.servidor.tv/combate.jpg" group-title="Canais: Esporte",Combate HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1489
+#EXTINF:-1 tvg-id="COMBATC" tvg-name="Combate HD+" tvg-logo="https://logos.servidor.tv/combate.jpg" group-title="Canais: Esporte",Combate HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/342
+#EXTINF:-1 tvg-id="COMCENT" tvg-name="Comedy Central 4K UHD" tvg-logo="https://logos.servidor.tv/comedycentral.jpg" group-title="Canais: 4K UHD",Comedy Central 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113802
+#EXTINF:-1 tvg-id="COMCENT" tvg-name="Comedy Central HD" tvg-logo="https://logos.servidor.tv/comedycentral.jpg" group-title="Canais: Filme e Série",Comedy Central HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1488
+#EXTINF:-1 tvg-id="COMCENT" tvg-name="Comedy Central HD+" tvg-logo="https://logos.servidor.tv/comedycentral.jpg" group-title="Canais: Filme e Série",Comedy Central HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/340
+#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 1 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 1 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33267
+#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 1 HD+" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 1 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33271
+#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 2 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 2 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33268
+#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 2 HD+" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 2 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33272
+#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 3 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 3 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33269
+#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 3 HD+" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 3 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33273
+#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 4 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 4 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33270
+#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 4 HD+" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 4 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33274
+#EXTINF:-1 tvg-id="CURTA" tvg-name="Curta! SD" tvg-logo="https://logos.servidor.tv/curta.png" group-title="Canais: Variedade e Música",Curta! SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/338
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN 1 HD" tvg-logo="https://logos.servidor.tv/dazn.jpg" group-title="Canais: Esporte PPV",DAZN 1 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102683
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN 2 HD" tvg-logo="https://logos.servidor.tv/dazn.jpg" group-title="Canais: Esporte PPV",DAZN 2 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102682
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN 3 HD" tvg-logo="https://logos.servidor.tv/dazn.jpg" group-title="Canais: Esporte PPV",DAZN 3 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102681
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN 4 HD" tvg-logo="https://logos.servidor.tv/dazn.jpg" group-title="Canais: Esporte PPV",DAZN 4 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102680
+#EXTINF:-1 tvg-id="" tvg-name="DC Comics 01 HD" tvg-logo="https://logos.servidor.tv/dccomics.png" group-title="Canais: Filme e Série",DC Comics 01 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63302
+#EXTINF:-1 tvg-id="" tvg-name="DC Comics 02 HD" tvg-logo="https://logos.servidor.tv/dccomics.png" group-title="Canais: Filme e Série",DC Comics 02 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63301
+#EXTINF:-1 tvg-id="TDCB" tvg-name="Discovery Channel HD" tvg-logo="https://logos.servidor.tv/discoverychannel.png" group-title="Canais: Documentário",Discovery Channel HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1487
+#EXTINF:-1 tvg-id="TDCB" tvg-name="Discovery Channel HD+" tvg-logo="https://logos.servidor.tv/discoverychannel.png" group-title="Canais: Documentário",Discovery Channel HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/337
+#EXTINF:-1 tvg-id="DHEAB" tvg-name="Discovery Home &amp; Health HD" tvg-logo="https://logos.servidor.tv/discoveryhomehealth.jpg" group-title="Canais: Variedade e Música",Discovery Home &amp; Health HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1518
+#EXTINF:-1 tvg-id="DHEAB" tvg-name="Discovery Home & Health HD+" tvg-logo="https://logos.servidor.tv/discoveryhomehealth.jpg" group-title="Canais: Variedade e Música",Discovery Home & Health HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/334
+#EXTINF:-1 tvg-id="DKNB" tvg-name="Discovery Kids HD" tvg-logo="https://logos.servidor.tv/discoverykids.jpg" group-title="Canais: Infantil",Discovery Kids HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1483
+#EXTINF:-1 tvg-id="DKNB" tvg-name="Discovery Kids HD+" tvg-logo="https://logos.servidor.tv/discoverykids.jpg" group-title="Canais: Infantil",Discovery Kids HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/332
+#EXTINF:-1 tvg-id="DSB" tvg-name="Discovery Science HD" tvg-logo="https://logos.servidor.tv/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1482
+#EXTINF:-1 tvg-id="DSB" tvg-name="Discovery Science HD+" tvg-logo="https://logos.servidor.tv/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/330
+#EXTINF:-1 tvg-id="DISCHD" tvg-name="Discovery Theater HD" tvg-logo="https://logos.servidor.tv/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1486
+#EXTINF:-1 tvg-id="DISCHD" tvg-name="Discovery Theater HD+" tvg-logo="https://logos.servidor.tv/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/329
+#EXTINF:-1 tvg-id="DTBHD" tvg-name="Discovery Turbo HD" tvg-logo="https://logos.servidor.tv/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1481
+#EXTINF:-1 tvg-id="DTBHD" tvg-name="Discovery Turbo HD+" tvg-logo="https://logos.servidor.tv/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/328
+#EXTINF:-1 tvg-id="DWHDB" tvg-name="Discovery World HD" tvg-logo="https://logos.servidor.tv/discoveryworld.jpg" group-title="Canais: Documentário",Discovery World HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1485
+#EXTINF:-1 tvg-id="DWHDB" tvg-name="Discovery World HD+" tvg-logo="https://logos.servidor.tv/discoveryworld.jpg" group-title="Canais: Documentário",Discovery World HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/326
+#EXTINF:-1 tvg-id="DISHD" tvg-name="Disney Channel HD" tvg-logo="https://logos.servidor.tv/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1480
+#EXTINF:-1 tvg-id="DISHD" tvg-name="Disney Channel HD+" tvg-logo="https://logos.servidor.tv/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/325
+#EXTINF:-1 tvg-id="" tvg-name="Djing Music TV SD" tvg-logo="https://logos.servidor.tv/djing.png" group-title="Canais: Variedade e Música",Djing Music TV SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63300
+#EXTINF:-1 tvg-id="DOGBRHD" tvg-name="DOG TV HD" tvg-logo="https://logos.servidor.tv/63a48035d178489bb3e9d42c8d5284bc.png" group-title="Canais: Variedade e Música",DOG TV HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33239
+#EXTINF:-1 tvg-id="DOGBRHD" tvg-name="DOG TV HD+" tvg-logo="https://logos.servidor.tv/63a48035d178489bb3e9d42c8d5284bc.png" group-title="Canais: Variedade e Música",DOG TV HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33238
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Dois Homens e Meio" tvg-logo="https://logos.servidor.tv/doishomensemeio.png" group-title="Canais: 24 Horas",|24h| Dois Homens e Meio
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33113
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Dragon Ball" tvg-logo="https://logos.servidor.tv/dragonball.png" group-title="Canais: 24 Horas",|24h| Dragon Ball
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33093
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Dragon Ball GT" tvg-logo="https://logos.servidor.tv/dragonballgt.png" group-title="Canais: 24 Horas",|24h| Dragon Ball GT
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33094
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Dragon Ball Heroes" tvg-logo="https://logos.servidor.tv/a0ecbc19e5c854d3115005d7ae47990c.png" group-title="Canais: 24 Horas",|24h| Dragon Ball Heroes
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32594
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Dragon Ball Super" tvg-logo="https://logos.servidor.tv/412d425881bd5b03aa049f1ba655143c.jpg" group-title="Canais: 24 Horas",|24h| Dragon Ball Super
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32623
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Dragon Ball Z" tvg-logo="https://logos.servidor.tv/726264f3487200fc4a50d834a7bae713.jpg" group-title="Canais: 24 Horas",|24h| Dragon Ball Z
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32622
+#EXTINF:-1 tvg-id="ETVB" tvg-name="E! HD" tvg-logo="https://logos.servidor.tv/e.png" group-title="Canais: Variedade e Música",E! HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/318
+#EXTINF:-1 tvg-id="Eleven Sports AoVivo" tvg-name="Eleven Sports AoVivo 1 HD" tvg-logo="https://logos.servidor.tv/a06a9745fa04b77f40f6c720d24a885a.png" group-title="Canais: Esporte PPV",Eleven Sports AoVivo 1 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102679
+#EXTINF:-1 tvg-id="Eleven Sports AoVivo" tvg-name="Eleven Sports AoVivo 2 HD" tvg-logo="https://logos.servidor.tv/a06a9745fa04b77f40f6c720d24a885a.png" group-title="Canais: Esporte PPV",Eleven Sports AoVivo 2 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102678
+#EXTINF:-1 tvg-id="Eleven Sports AoVivo" tvg-name="Eleven Sports AoVivo 3 HD" tvg-logo="https://logos.servidor.tv/a06a9745fa04b77f40f6c720d24a885a.png" group-title="Canais: Esporte PPV",Eleven Sports AoVivo 3 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102677
+#EXTINF:-1 tvg-id="Eleven Sports AoVivo" tvg-name="Eleven Sports AoVivo 4 HD" tvg-logo="https://logos.servidor.tv/a06a9745fa04b77f40f6c720d24a885a.png" group-title="Canais: Esporte PPV",Eleven Sports AoVivo 4 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102676
+#EXTINF:-1 tvg-id="Eleven Sports AoVivo" tvg-name="Eleven Sports AoVivo 5 HD" tvg-logo="https://logos.servidor.tv/a06a9745fa04b77f40f6c720d24a885a.png" group-title="Canais: Esporte PPV",Eleven Sports AoVivo 5 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102675
+#EXTINF:-1 tvg-id="Eleven Sports AoVivo" tvg-name="Eleven Sports AoVivo 6 HD" tvg-logo="https://logos.servidor.tv/a06a9745fa04b77f40f6c720d24a885a.png" group-title="Canais: Esporte PPV",Eleven Sports AoVivo 6 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102674
+#EXTINF:-1 tvg-id="Eleven Sports OnDemand" tvg-name="Eleven Sports OnDemand 1 HD" tvg-logo="https://logos.servidor.tv/a06a9745fa04b77f40f6c720d24a885a.png" group-title="Canais: Esporte PPV",Eleven Sports OnDemand 1 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102673
+#EXTINF:-1 tvg-id="Eleven Sports OnDemand" tvg-name="Eleven Sports OnDemand 2 HD" tvg-logo="https://logos.servidor.tv/a06a9745fa04b77f40f6c720d24a885a.png" group-title="Canais: Esporte PPV",Eleven Sports OnDemand 2 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102672
+#EXTINF:-1 tvg-id="Eleven Sports OnDemand" tvg-name="Eleven Sports OnDemand 3 HD" tvg-logo="https://logos.servidor.tv/a06a9745fa04b77f40f6c720d24a885a.png" group-title="Canais: Esporte PPV",Eleven Sports OnDemand 3 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102705
+#EXTINF:-1 tvg-id="Eleven Sports OnDemand" tvg-name="Eleven Sports OnDemand 4 HD" tvg-logo="https://logos.servidor.tv/a06a9745fa04b77f40f6c720d24a885a.png" group-title="Canais: Esporte PPV",Eleven Sports OnDemand 4 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102704
+#EXTINF:-1 tvg-id="Eleven Sports OnDemand" tvg-name="Eleven Sports OnDemand 5 HD" tvg-logo="https://logos.servidor.tv/a06a9745fa04b77f40f6c720d24a885a.png" group-title="Canais: Esporte PPV",Eleven Sports OnDemand 5 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102703
+#EXTINF:-1 tvg-id="Eleven Sports OnDemand" tvg-name="Eleven Sports OnDemand 6 HD" tvg-logo="https://logos.servidor.tv/a06a9745fa04b77f40f6c720d24a885a.png" group-title="Canais: Esporte PPV",Eleven Sports OnDemand 6 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102702
+#EXTINF:-1 tvg-id="Eleven Sports OnDemand" tvg-name="Eleven Sports OnDemand 7 HD" tvg-logo="https://logos.servidor.tv/a06a9745fa04b77f40f6c720d24a885a.png" group-title="Canais: Esporte PPV",Eleven Sports OnDemand 7 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102701
+#EXTINF:-1 tvg-id="Eleven Sports OnDemand" tvg-name="Eleven Sports OnDemand 8 HD" tvg-logo="https://logos.servidor.tv/a06a9745fa04b77f40f6c720d24a885a.png" group-title="Canais: Esporte PPV",Eleven Sports OnDemand 8 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102700
+#EXTINF:-1 tvg-id="Eleven Sports OnDemand" tvg-name="Eleven Sports OnDemand 9 HD" tvg-logo="https://logos.servidor.tv/a06a9745fa04b77f40f6c720d24a885a.png" group-title="Canais: Esporte PPV",Eleven Sports OnDemand 9 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102699
+#EXTINF:-1 tvg-id="Eleven Sports OnDemand" tvg-name="Eleven Sports OnDemand 10 HD" tvg-logo="https://logos.servidor.tv/a06a9745fa04b77f40f6c720d24a885a.png" group-title="Canais: Esporte PPV",Eleven Sports OnDemand 10 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102698
+#EXTINF:-1 tvg-id="Eleven Sports OnDemand" tvg-name="Eleven Sports OnDemand 11 HD" tvg-logo="https://logos.servidor.tv/a06a9745fa04b77f40f6c720d24a885a.png" group-title="Canais: Esporte PPV",Eleven Sports OnDemand 11 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102697
+#EXTINF:-1 tvg-id="Eleven Sports OnDemand" tvg-name="Eleven Sports OnDemand 12 HD" tvg-logo="https://logos.servidor.tv/a06a9745fa04b77f40f6c720d24a885a.png" group-title="Canais: Esporte PPV",Eleven Sports OnDemand 12 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102696
+#EXTINF:-1 tvg-id="ESPNBRH" tvg-name="ESPN 1 4K UHD" tvg-logo="https://logos.servidor.tv/espn.jpg" group-title="Canais: 4K UHD",ESPN 1 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56498
+#EXTINF:-1 tvg-id="ESPNBRS" tvg-name="ESPN HD" tvg-logo="https://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/92902
+#EXTINF:-1 tvg-id="ESPNBRS" tvg-name="ESPN HD+" tvg-logo="https://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/92903
+#EXTINF:-1 tvg-id="ESPNBRH" tvg-name="ESPN 2 HD" tvg-logo="https://logos.servidor.tv/espn2.png" group-title="Canais: Esporte",ESPN 2 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1477
+#EXTINF:-1 tvg-id="ESPNBRH" tvg-name="ESPN 2 HD+" tvg-logo="https://logos.servidor.tv/espn2.png" group-title="Canais: Esporte",ESPN 2 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/309
+#EXTINF:-1 tvg-id="ESPNHDB" tvg-name="ESPN 3 4K UHD" tvg-logo="https://logos.servidor.tv/espn3.png" group-title="Canais: 4K UHD",ESPN 3 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113803
+#EXTINF:-1 tvg-id="ESPNHDB" tvg-name="ESPN 3 HD" tvg-logo="https://logos.servidor.tv/espn3.png" group-title="Canais: Esporte",ESPN 3 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1476
+#EXTINF:-1 tvg-id="ESPNHDB" tvg-name="ESPN 3 HD+" tvg-logo="https://logos.servidor.tv/espn3.png" group-title="Canais: Esporte",ESPN 3 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/314
+#EXTINF:-1 tvg-id="FXSPRT" tvg-name="ESPN 4 4K UHD" tvg-logo="https://logos.servidor.tv/espn4.png" group-title="Canais: 4K UHD",ESPN 4 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56507
+#EXTINF:-1 tvg-id="FXSPRT" tvg-name="ESPN 4 HD" tvg-logo="https://logos.servidor.tv/espn4.png" group-title="Canais: Esporte",ESPN 4 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/92904
+#EXTINF:-1 tvg-id="FXSPRT" tvg-name="ESPN 4 HD+" tvg-logo="https://logos.servidor.tv/espn4.png" group-title="Canais: Esporte",ESPN 4 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/298
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra HD" tvg-logo="https://logos.servidor.tv/espnextra.png" group-title="Canais: Esporte",ESPN Extra HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113745
+#EXTINF:-1 tvg-id="ESPNEHD" tvg-name="ESPN Extra HD+" tvg-logo="https://logos.servidor.tv/espnextra.png" group-title="Canais: Esporte",ESPN Extra HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/311
+#EXTINF:-1 tvg-id="Estadio TNT Sports" tvg-name="Estádio TNT Sports 1 HD" tvg-logo="https://logos.servidor.tv/d6a70e2ca78bfc2018b6bcf6e985ec90.png" group-title="Canais: Esporte PPV",Estádio TNT Sports 1 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102671
+#EXTINF:-1 tvg-id="Estadio TNT Sports" tvg-name="Estádio TNT Sports 2 HD" tvg-logo="https://logos.servidor.tv/d6a70e2ca78bfc2018b6bcf6e985ec90.png" group-title="Canais: Esporte PPV",Estádio TNT Sports 2 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102670
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Eu, a Patroa e as Crianças" tvg-logo="https://logos.servidor.tv/83adf16b5322c408d16b68278723a3f5.jpg" group-title="Canais: 24 Horas",|24h| Eu, a Patroa e as Crianças
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32621
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Family Guy" tvg-logo="https://logos.servidor.tv/familyguy.png" group-title="Canais: 24 Horas",|24h| Family Guy
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56540
+#EXTINF:-1 tvg-id="FASHBR" tvg-name="Fashion TV HD" tvg-logo="https://logos.servidor.tv/48c7565704e030003fd1d40a1ad4c166.png" group-title="Canais: Variedade e Música",Fashion TV HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33241
+#EXTINF:-1 tvg-id="FASHBR" tvg-name="Fashion TV HD+" tvg-logo="https://logos.servidor.tv/48c7565704e030003fd1d40a1ad4c166.png" group-title="Canais: Variedade e Música",Fashion TV HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33240
+#EXTINF:-1 tvg-id="FABB" tvg-name="Film & Arts HD+" tvg-logo="https://logos.servidor.tv/bcd000ebc7d21ef2d78616d2671a16ee.png" group-title="Canais: Variedade e Música",Film & Arts HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33242
+#EXTINF:-1 tvg-id="FABB" tvg-name="Film & Arts SD" tvg-logo="https://logos.servidor.tv/bcd000ebc7d21ef2d78616d2671a16ee.png" group-title="Canais: Variedade e Música",Film & Arts SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33243
+#EXTINF:-1 tvg-id="FISHHD" tvg-name="Fish TV SD" tvg-logo="https://logos.servidor.tv/fishtv.jpg" group-title="Canais: Variedade e Música",Fish TV SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/307
+#EXTINF:-1 tvg-id="FNBRHD" tvg-name="Food Network HD" tvg-logo="https://logos.servidor.tv/foodnetwork.png" group-title="Canais: Variedade e Música",Food Network HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1474
+#EXTINF:-1 tvg-id="FNBRHD" tvg-name="Food Network HD+" tvg-logo="https://logos.servidor.tv/foodnetwork.png" group-title="Canais: Variedade e Música",Food Network HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/306
+#EXTINF:-1 tvg-id="MFOR1" tvg-name="Formula 1 TV HD" tvg-logo="https://logos.servidor.tv/f1.png" group-title="Canais: Esporte PPV",Formula 1 TV HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63293
+#EXTINF:-1 tvg-id="FXNEWSC" tvg-name="Fox News HD" tvg-logo="https://logos.servidor.tv/foxnews.png" group-title="Canais: Notícia",Fox News HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53516
+#EXTINF:-1 tvg-id="FXNEWSC" tvg-name="Fox News HD+" tvg-logo="https://logos.servidor.tv/foxnews.png" group-title="Canais: Notícia",Fox News HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53515
+#EXTINF:-1 tvg-id="FS2HDBR" tvg-name="Fox Sports 2 4K UHD" tvg-logo="https://logos.servidor.tv/foxsports2.jpg" group-title="Canais: 4K UHD",Fox Sports 2 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56500
+#EXTINF:-1 tvg-id="FS2HDBR" tvg-name="Fox Sports 2 HD" tvg-logo="https://logos.servidor.tv/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1501
+#EXTINF:-1 tvg-id="FS2HDBR" tvg-name="Fox Sports 2 HD+" tvg-logo="https://logos.servidor.tv/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/300
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Friends" tvg-logo="https://logos.servidor.tv/friends.png" group-title="Canais: 24 Horas",|24h| Friends
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33114
+#EXTINF:-1 tvg-id="" tvg-name="Furacão Live HD" tvg-logo="https://logos.servidor.tv/furacao.png" group-title="Canais: Esporte PPV",Furacão Live HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113749
+#EXTINF:-1 tvg-id="FUTRA" tvg-name="Futura HD+" tvg-logo="https://logos.servidor.tv/futura.png" group-title="Canais: Aberto",Futura HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53490
+#EXTINF:-1 tvg-id="FXB" tvg-name="FX HD" tvg-logo="https://logos.servidor.tv/fx.jpg" group-title="Canais: Filme e Série",FX HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1469
+#EXTINF:-1 tvg-id="FXB" tvg-name="FX HD+" tvg-logo="https://logos.servidor.tv/fx.jpg" group-title="Canais: Filme e Série",FX HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/294
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Galinha Pintadinha" tvg-logo="https://logos.servidor.tv/3d94d4acf88c16ced5dca83f3efe20a3.jpg" group-title="Canais: 24 Horas",|24h| Galinha Pintadinha
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32609
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo 4K UHD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: 4K UHD",Globo 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56487
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Bahia HD" tvg-logo="https://logos.servidor.tv/globotvbahia.jpg" group-title="Canais: Globo",Globo Bahia HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/260
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Bahia HD+" tvg-logo="https://logos.servidor.tv/globotvbahia.jpg" group-title="Canais: Globo",Globo Bahia HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2707
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Brasilia HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Brasilia HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/291
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Centro America HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Centro America HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2712
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo EPTV Campinas HD" tvg-logo="https://logos.servidor.tv/globoeptv.jpg" group-title="Canais: Globo",Globo EPTV Campinas HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/289
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo EPTV Campinas HD+" tvg-logo="https://logos.servidor.tv/globoeptv.jpg" group-title="Canais: Globo",Globo EPTV Campinas HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2711
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="https://logos.servidor.tv/globoeptv.jpg" group-title="Canais: Globo",Globo EPTV Ribeirão Preto HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/287
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo EPTV Ribeirão Preto HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo EPTV Ribeirão Preto HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2952
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo EPTV Sul Minas HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo EPTV Sul Minas HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/4469
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo EPTV Sul Minas HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo EPTV Sul Minas HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/4468
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo EPTV São Carlos HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo EPTV São Carlos HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2941
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo EPTV São Carlos HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo EPTV São Carlos HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2940
+#EXTINF:-1 tvg-id="Globo Esporte" tvg-name="Globo Esporte 1 HD" tvg-logo="https://logos.servidor.tv/2ff3aa515249f0dd3a11baa398f4ef0f.png" group-title="Canais: Esporte PPV",Globo Esporte 1 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102689
+#EXTINF:-1 tvg-id="Globo Esporte" tvg-name="Globo Esporte 2 HD" tvg-logo="https://logos.servidor.tv/2ff3aa515249f0dd3a11baa398f4ef0f.png" group-title="Canais: Esporte PPV",Globo Esporte 2 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102688
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Goiânia SD" tvg-logo="https://logos.servidor.tv/globotvanhanguera.jpg" group-title="Canais: Globo",Globo Goiânia SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/262
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Inter TV Alto Litoral HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Inter TV Alto Litoral HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53507
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Inter TV Cabugi HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Inter TV Cabugi HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53476
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Inter TV Cabugi HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo Inter TV Cabugi HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33244
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Inter TV dos Vales HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Inter TV dos Vales HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53470
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Inter TV dos Vales HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Inter TV dos Vales HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53471
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Inter TV Grande Minas HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/4471
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Inter TV Grande Minas HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Inter TV Grande Minas HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/4470
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Inter TV Serra Mar HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Inter TV Serra Mar HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53487
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Inter TV Serra Mar HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Inter TV Serra Mar HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53486
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Manaus" tvg-logo="https://logos.servidor.tv/globoredeamazonica.png" group-title="Canais: Globo",Globo Manaus
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/19
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Manaus HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo Manaus HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33250
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Minas HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Minas HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/279
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Minas HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Minas HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2713
+#EXTINF:-1 tvg-id="GLN" tvg-name="Globo News HD" tvg-logo="https://logos.servidor.tv/globonews.png" group-title="Canais: Notícia",Globo News HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1468
+#EXTINF:-1 tvg-id="GLN" tvg-name="Globo News HD+" tvg-logo="https://logos.servidor.tv/globonews.png" group-title="Canais: Notícia",Globo News HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/277
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Nordeste HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Nordeste HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/275
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Nordeste HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Nordeste HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2714
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo NSC Blumenal HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo NSC Blumenal HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53513
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo NSC Centro Oeste HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo NSC Centro Oeste HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53501
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo NSC Criciuma HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo NSC Criciuma HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53504
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo NSC Floripa HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo NSC Floripa HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2710
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo NSC Joinville HD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo NSC Joinville HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33246
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo NSC Joinville HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo NSC Joinville HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33245
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo NSC TV Chapeco HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo NSC TV Chapeco HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53505
+#EXTINF:-1 tvg-id="" tvg-name="Globo PB TV Paraíba HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Aberto",Globo PB TV Paraíba HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113736
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo RBS Poa HD" tvg-logo="https://logos.servidor.tv/globorbs.png" group-title="Canais: Globo",Globo RBS Poa HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1467
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo RBS Poa HD+" tvg-logo="https://logos.servidor.tv/globorbs.png" group-title="Canais: Globo",Globo RBS Poa HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/271
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo RBS TV Caixias do Sul HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RBS TV Caixias do Sul HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53503
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo RBS TV Pelotas HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RBS TV Pelotas HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53495
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo RBS TV Santa Maria HD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo RBS TV Santa Maria HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33249
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo RBS TV Santa Maria HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo RBS TV Santa Maria HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33248
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Recife HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Recife HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53473
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Recife HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Recife HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53472
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Rede Amazonica HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Rede Amazonica HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53478
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Rede Amazonica HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Rede Amazonica HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53477
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo RJ HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RJ HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1504
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo RJ HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RJ HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/268
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo RPC Curitiba HD" tvg-logo="https://logos.servidor.tv/globorpc.png" group-title="Canais: Globo",Globo RPC Curitiba HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/266
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo RPC Curitiba HD+" tvg-logo="https://logos.servidor.tv/globorpc.png" group-title="Canais: Globo",Globo RPC Curitiba HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2709
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo RPC Foz do Iguaçu HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RPC Foz do Iguaçu HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53483
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo RPC Foz do Iguaçu HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RPC Foz do Iguaçu HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53482
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo RPC Maringá HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RPC Maringá HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53485
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo RPC Maringá HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RPC Maringá HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53484
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo RPC Paraná HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RPC Paraná HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53475
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo RPC Paraná HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RPC Paraná HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53474
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo RPC Ponta Grossa HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RPC Ponta Grossa HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53502
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo RPC TV Paranavai HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo RPC TV Paranavai HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63292
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo S.J Rio Preto HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo S.J Rio Preto HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2945
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo S.J Rio Preto HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo S.J Rio Preto HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2944
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Sergipe HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo Sergipe HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/250
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo SP TV Tem Itapetininga HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo SP TV Tem Itapetininga HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63291
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo São Paulo HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo São Paulo HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1466
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo São Paulo HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo São Paulo HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/265
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Anhanguera Goiânia  HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo TV Anhanguera Goiânia  HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33251
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Anhanguera HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Anhanguera HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2708
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Asa Branca HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Asa Branca HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53479
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Asa Branca HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo TV Asa Branca HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33252
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Cabo Branco HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Cabo Branco HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53481
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Cabo Branco HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Cabo Branco HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53480
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Clube Piaui HD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo TV Clube Piaui HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33254
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Clube Piaui HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo TV Clube Piaui HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33253
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube Teresina HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Aberto",Globo TV Clube Teresina HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113735
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Diario Mogi HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Diario Mogi HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2947
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Diario Mogi HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Diario Mogi HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2946
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Fronteira HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Fronteira HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2943
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Fronteira HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Fronteira HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2942
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="https://logos.servidor.tv/tvgazeta.jpg" group-title="Canais: Globo",Globo TV Gazeta Alagoas HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/75
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Gazeta Alagoas HD+" tvg-logo="https://logos.servidor.tv/tvgazeta.jpg" group-title="Canais: Globo",Globo TV Gazeta Alagoas HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/4467
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta ES Vitoria HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Aberto",Globo TV Gazeta ES Vitoria HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113734
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Tv Gazeta Sul ES HD" tvg-logo="https://logos.servidor.tv/globogazetasul.png" group-title="Canais: Globo",Globo Tv Gazeta Sul ES HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33185
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo Tv Gazeta Sul ES HD+" tvg-logo="https://logos.servidor.tv/globogazetasul.png" group-title="Canais: Globo",Globo Tv Gazeta Sul ES HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33186
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Integração HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Integração HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/22505
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Integração HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Integração HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/22504
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Integração J.F HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Integração J.F HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53506
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Liberal" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Liberal
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2706
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Liberal Belem HD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo TV Liberal Belem HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33256
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Liberal Belem HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo TV Liberal Belem HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33255
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Mirante HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Mirante HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2705
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Morena HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Morena HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2704
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Rio Sul HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Rio Sul HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53494
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Santa Cruz SD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Santa Cruz SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/29774
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Tem Bauru SD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Globo",Globo TV Tem Bauru SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33257
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV TEM Sorocaba HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV TEM Sorocaba HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2949
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV TEM Sorocaba HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV TEM Sorocaba HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2948
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV TRIBUNA HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV TRIBUNA HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2954
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV TRIBUNA HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV TRIBUNA HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2953
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV VANGUARDA HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV VANGUARDA HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2951
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV VANGUARDA HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV VANGUARDA HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2950
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo TV Verdes Mares HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo TV Verdes Mares HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2703
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="Gloob HD" tvg-logo="https://logos.servidor.tv/gloob.jpg" group-title="Canais: Infantil",Gloob HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1499
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="Gloob HD+" tvg-logo="https://logos.servidor.tv/gloob.jpg" group-title="Canais: Infantil",Gloob HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/686
+#EXTINF:-1 tvg-id="GLBINHD" tvg-name="Gloobinho HD" tvg-logo="https://logos.servidor.tv/gloobinho.png" group-title="Canais: Infantil",Gloobinho HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1515
+#EXTINF:-1 tvg-id="GLBINHD" tvg-name="Gloobinho HD+" tvg-logo="https://logos.servidor.tv/gloobinho.png" group-title="Canais: Infantil",Gloobinho HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/237
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="https://logos.servidor.tv/gnt.jpg" group-title="Canais: Variedade e Música",GNT HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/235
+#EXTINF:-1 tvg-id="Guia de Programação" tvg-name="Guia de Programação Esportes" tvg-logo="https://logos.servidor.tv/0fc239e9cebbb5d172e17e593b9f89b3.png" group-title="Canais: Esporte",Guia de Programação Esportes
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102693
+#EXTINF:-1 tvg-id="Guia de Programação" tvg-name="Guia de Programação PPV" tvg-logo="https://logos.servidor.tv/0fc239e9cebbb5d172e17e593b9f89b3.png" group-title="Canais: Esporte PPV",Guia de Programação PPV
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102692
+#EXTINF:-1 tvg-id="H2B" tvg-name="H2 HD" tvg-logo="https://logos.servidor.tv/h2.png" group-title="Canais: Documentário",H2 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1465
+#EXTINF:-1 tvg-id="H2B" tvg-name="H2 HD+" tvg-logo="https://logos.servidor.tv/h2.png" group-title="Canais: Documentário",H2 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/233
+#EXTINF:-1 tvg-id="HBO2B" tvg-name="HBO 2 HD" tvg-logo="https://logos.servidor.tv/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1460
+#EXTINF:-1 tvg-id="HBO2B" tvg-name="HBO 2 HD+" tvg-logo="https://logos.servidor.tv/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/231
+#EXTINF:-1 tvg-id="HBOB" tvg-name="HBO 4K UHD" tvg-logo="https://logos.servidor.tv/hbo.png" group-title="Canais: 4K UHD",HBO 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56496
+#EXTINF:-1 tvg-id="HBOB" tvg-name="HBO HD" tvg-logo="https://logos.servidor.tv/hbo.png" group-title="Canais: Filme e Série",HBO HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1463
+#EXTINF:-1 tvg-id="HBOB" tvg-name="HBO HD+" tvg-logo="https://logos.servidor.tv/hbo.png" group-title="Canais: Filme e Série",HBO HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/227
+#EXTINF:-1 tvg-id="HBOFBE" tvg-name="HBO Family HD" tvg-logo="https://logos.servidor.tv/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1464
+#EXTINF:-1 tvg-id="HBOFBE" tvg-name="HBO Family HD+" tvg-logo="https://logos.servidor.tv/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/229
+#EXTINF:-1 tvg-id="HBO Max" tvg-name="HBO Max 1 HD" tvg-logo="https://logos.servidor.tv/hbomax.png" group-title="Canais: Esporte PPV",HBO Max 1 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102669
+#EXTINF:-1 tvg-id="HBO Max" tvg-name="HBO Max 2 HD" tvg-logo="https://logos.servidor.tv/hbomax.png" group-title="Canais: Esporte PPV",HBO Max 2 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102668
+#EXTINF:-1 tvg-id="HBO Max" tvg-name="HBO Max 3 HD" tvg-logo="https://logos.servidor.tv/hbomax.png" group-title="Canais: Esporte PPV",HBO Max 3 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102667
+#EXTINF:-1 tvg-id="HBO Max" tvg-name="HBO Max 4 HD" tvg-logo="https://logos.servidor.tv/hbomax.png" group-title="Canais: Esporte PPV",HBO Max 4 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102666
+#EXTINF:-1 tvg-id="HBOMSD" tvg-name="HBO Mundi HD" tvg-logo="https://logos.servidor.tv/hbomundi.jpg" group-title="Canais: Filme e Série",HBO Mundi HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1457
+#EXTINF:-1 tvg-id="HBOMSD" tvg-name="HBO Mundi HD+" tvg-logo="https://logos.servidor.tv/hbomundi.jpg" group-title="Canais: Filme e Série",HBO Mundi HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/211
+#EXTINF:-1 tvg-id="HBOPB" tvg-name="HBO Plus HD" tvg-logo="https://logos.servidor.tv/hboplus.png" group-title="Canais: Filme e Série",HBO Plus HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1462
+#EXTINF:-1 tvg-id="HBOPB" tvg-name="HBO Plus HD+" tvg-logo="https://logos.servidor.tv/hboplus.png" group-title="Canais: Filme e Série",HBO Plus HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/226
+#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO Pop HD" tvg-logo="https://logos.servidor.tv/hbopop.jpg" group-title="Canais: Filme e Série",HBO Pop HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1455
+#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO Pop HD+" tvg-logo="https://logos.servidor.tv/hbopop.jpg" group-title="Canais: Filme e Série",HBO Pop HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/207
+#EXTINF:-1 tvg-id="HBOSB" tvg-name="HBO Signature HD" tvg-logo="https://logos.servidor.tv/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1461
+#EXTINF:-1 tvg-id="HBOSB" tvg-name="HBO Signature HD+" tvg-logo="https://logos.servidor.tv/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/224
+#EXTINF:-1 tvg-id="HBOXTRM" tvg-name="HBO Xtreme 4K UHD" tvg-logo="https://logos.servidor.tv/hboxtreme.jpg" group-title="Canais: 4K UHD",HBO Xtreme 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56490
+#EXTINF:-1 tvg-id="HBOXTRM" tvg-name="HBO Xtreme HD" tvg-logo="https://logos.servidor.tv/hboxtreme.jpg" group-title="Canais: Filme e Série",HBO Xtreme HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1456
+#EXTINF:-1 tvg-id="HBOXTRM" tvg-name="HBO Xtreme HD+" tvg-logo="https://logos.servidor.tv/hboxtreme.jpg" group-title="Canais: Filme e Série",HBO Xtreme HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/209
+#EXTINF:-1 tvg-id="HGTVB" tvg-name="HGTV HD" tvg-logo="https://logos.servidor.tv/hgtv.png" group-title="Canais: Variedade e Música",HGTV HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33265
+#EXTINF:-1 tvg-id="HGTVB" tvg-name="HGTV HD+" tvg-logo="https://logos.servidor.tv/hgtv.png" group-title="Canais: Variedade e Música",HGTV HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33266
+#EXTINF:-1 tvg-id="HCB" tvg-name="History Channel HD" tvg-logo="https://logos.servidor.tv/thehistorychannel.png" group-title="Canais: Documentário",History Channel HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1459
+#EXTINF:-1 tvg-id="HCB" tvg-name="History Channel HD+" tvg-logo="https://logos.servidor.tv/thehistorychannel.png" group-title="Canais: Documentário",History Channel HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/95
+#EXTINF:-1 tvg-id="THUR" tvg-name="Hit Music Channel HD" tvg-logo="https://logos.servidor.tv/hitmusic.png" group-title="Canais: Variedade e Música",Hit Music Channel HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63288
+#EXTINF:-1 tvg-id="ISATBR" tvg-name="i Sat HD" tvg-logo="https://logos.servidor.tv/isat.png" group-title="Canais: Filme e Série",i Sat HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53514
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Evangélica Cristo Vive HD" tvg-logo="https://logos.servidor.tv/igrejacristo.png" group-title="Canais: Religião",Igreja Evangélica Cristo Vive HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63287
+#EXTINF:-1 tvg-id="IDB" tvg-name="Investigacao Discovery HD" tvg-logo="https://logos.servidor.tv/investigacaodiscovery.jpg" group-title="Canais: Documentário",Investigacao Discovery HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1514
+#EXTINF:-1 tvg-id="IDB" tvg-name="Investigação Discovery HD+" tvg-logo="https://logos.servidor.tv/investigacaodiscovery.jpg" group-title="Canais: Documentário",Investigação Discovery HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/218
+#EXTINF:-1 tvg-id="" tvg-name="JP News HD" tvg-logo="https://logos.servidor.tv/jpnews.png" group-title="Canais: Notícia",JP News HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/64548
+#EXTINF:-1 tvg-id="" tvg-name="JP News HD+" tvg-logo="https://logos.servidor.tv/jpnews.png" group-title="Canais: Notícia",JP News HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/64547
+#EXTINF:-1 tvg-id="LIFEBHD" tvg-name="Lifetime HD" tvg-logo="https://logos.servidor.tv/lifetime.png" group-title="Canais: Filme e Série",Lifetime HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1458
+#EXTINF:-1 tvg-id="LIFEBHD" tvg-name="Lifetime HD+" tvg-logo="https://logos.servidor.tv/lifetime.png" group-title="Canais: Filme e Série",Lifetime HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/216
+#EXTINF:-1 tvg-id="" tvg-name="Like HD" tvg-logo="https://logos.servidor.tv/like.png" group-title="Canais: Variedade e Música",Like HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63286
+#EXTINF:-1 tvg-id="" tvg-name="Like HD+" tvg-logo="https://logos.servidor.tv/like.png" group-title="Canais: Variedade e Música",Like HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63285
+#EXTINF:-1 tvg-id="24h" tvg-name="Loading TV HD+" tvg-logo="https://logos.servidor.tv/loadingtv.png" group-title="Canais: Variedade e Música",Loading TV HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53509
+#EXTINF:-1 tvg-id="" tvg-name="Loupe HD" tvg-logo="https://logos.servidor.tv/loupe.png" group-title="Canais: Variedade e Música",Loupe HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63940
+#EXTINF:-1 tvg-id="NATUR" tvg-name="Love Nature HD+" tvg-logo="https://logos.servidor.tv/lovenature.png" group-title="Canais: Variedade e Música",Love Nature HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63284
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Luluzinha" tvg-logo="https://logos.servidor.tv/b69ff6ed96fa4047b090e1cfffd77a27.jpg" group-title="Canais: 24 Horas",|24h| Luluzinha
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32629
+#EXTINF:-1 tvg-id="GLOBOHD" tvg-name="Mais Globosat HD" tvg-logo="https://logos.servidor.tv/maisglobosat.png" group-title="Canais: Variedade e Música",Mais Globosat HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/213
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Masha e o Urso" tvg-logo="https://logos.servidor.tv/467fe2284004a47bda10cd1f17143dd7.jpg" group-title="Canais: 24 Horas",|24h| Masha e o Urso
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32593
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Medabots" tvg-logo="https://logos.servidor.tv/e210927a2cb7a7d825d1076778fc2959.jpg" group-title="Canais: 24 Horas",|24h| Medabots
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32608
+#EXTINF:-1 tvg-id="MGPIX" tvg-name="Megapix 4K UHD" tvg-logo="https://logos.servidor.tv/megapix.png" group-title="Canais: 4K UHD",Megapix 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56501
+#EXTINF:-1 tvg-id="MGPIX" tvg-name="Megapix HD" tvg-logo="https://logos.servidor.tv/megapix.png" group-title="Canais: Filme e Série",Megapix HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1454
+#EXTINF:-1 tvg-id="MGPIX" tvg-name="Megapix HD+" tvg-logo="https://logos.servidor.tv/megapix.png" group-title="Canais: Filme e Série",Megapix HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/204
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Mickey Mouse Cartoon" tvg-logo="https://logos.servidor.tv/2bb72187feaa09b5f53391d430669692.jpg" group-title="Canais: 24 Horas",|24h| Mickey Mouse Cartoon
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32598
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Mickey Mouse Clássico" tvg-logo="https://logos.servidor.tv/mickeyclassico.png" group-title="Canais: 24 Horas",|24h| Mickey Mouse Clássico
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32597
+#EXTINF:-1 tvg-id="" tvg-name="Modo Viagem HD" tvg-logo="https://logos.servidor.tv/maisglobosatb.png" group-title="Canais: Documentário",Modo Viagem HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63283
+#EXTINF:-1 tvg-id="" tvg-name="Modo Viagem HD+" tvg-logo="https://logos.servidor.tv/maisglobosatb.png" group-title="Canais: Documentário",Modo Viagem HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63282
+#EXTINF:-1 tvg-id="" tvg-name="Mosaico Premiere HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Mosaico Premiere HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63264
+#EXTINF:-1 tvg-id="VH1B" tvg-name="MTV 00's HD" tvg-logo="https://i.imgur.com/cmDmsJV.png" group-title="Canais: Variedade e Música",MTV 00's HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/65
+#EXTINF:-1 tvg-id="" tvg-name="MTV Are you the One? HD" tvg-logo="https://logos.servidor.tv/mtvare.png" group-title="Canais: Variedade e Música",MTV Are you the One? HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63945
+#EXTINF:-1 tvg-id="MTVB" tvg-name="MTV HD" tvg-logo="https://logos.servidor.tv/mtv.jpg" group-title="Canais: Variedade e Música",MTV HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1453
+#EXTINF:-1 tvg-id="MTVB" tvg-name="MTV HD+" tvg-logo="https://logos.servidor.tv/mtv.jpg" group-title="Canais: Variedade e Música",MTV HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/202
+#EXTINF:-1 tvg-id="MSW" tvg-name="Multishow 4K UHD" tvg-logo="https://logos.servidor.tv/multishow.png" group-title="Canais: 4K UHD",Multishow 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56503
+#EXTINF:-1 tvg-id="MSW" tvg-name="Multishow HD" tvg-logo="https://logos.servidor.tv/multishow.png" group-title="Canais: Variedade e Música",Multishow HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1452
+#EXTINF:-1 tvg-id="MSW" tvg-name="Multishow HD+" tvg-logo="https://logos.servidor.tv/multishow.png" group-title="Canais: Variedade e Música",Multishow HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/199
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Mundo Bita" tvg-logo="https://logos.servidor.tv/a857d7d773d7f92e9918d53f07eb8f27.jpg" group-title="Canais: 24 Horas",|24h| Mundo Bita
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32607
+#EXTINF:-1 tvg-id="MBBHD" tvg-name="Music Box Brazil HD" tvg-logo="https://logos.servidor.tv/musicbox.png" group-title="Canais: Variedade e Música",Music Box Brazil HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63263
+#EXTINF:-1 tvg-id="MBBHD" tvg-name="Music Box Brazil HD+" tvg-logo="https://logos.servidor.tv/musicbox.png" group-title="Canais: Variedade e Música",Music Box Brazil HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63262
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Nanatsu no Taizai" tvg-logo="https://logos.servidor.tv/nanatsunotaizai.png" group-title="Canais: 24 Horas",|24h| Nanatsu no Taizai
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33095
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Naruto" tvg-logo="https://logos.servidor.tv/naruto.png" group-title="Canais: 24 Horas",|24h| Naruto
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33096
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Naruto Shippuden" tvg-logo="https://logos.servidor.tv/narutoshippuden.png" group-title="Canais: 24 Horas",|24h| Naruto Shippuden
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33097
+#EXTINF:-1 tvg-id="NGCB" tvg-name="National Geographic 4K UHD" tvg-logo="https://logos.servidor.tv/nationalgeographic.jpg" group-title="Canais: 4K UHD",National Geographic 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56499
+#EXTINF:-1 tvg-id="NGCB" tvg-name="National Geographic HD+" tvg-logo="https://logos.servidor.tv/nationalgeographic.jpg" group-title="Canais: Documentário",National Geographic HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/196
+#EXTINF:-1 tvg-id="NHKBR" tvg-name="NHK HD" tvg-logo="https://logos.servidor.tv/nhk.png" group-title="Canais: Variedade e Música",NHK HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63245
+#EXTINF:-1 tvg-id="NJRBRHD" tvg-name="Nick JR HD" tvg-logo="https://logos.servidor.tv/nickjr.png" group-title="Canais: Infantil",Nick JR HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1503
+#EXTINF:-1 tvg-id="NJRBRHD" tvg-name="Nick JR HD+" tvg-logo="https://logos.servidor.tv/nickjr.png" group-title="Canais: Infantil",Nick JR HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/187
+#EXTINF:-1 tvg-id="NICHD" tvg-name="Nickelodeon HD" tvg-logo="https://logos.servidor.tv/nick.jpg" group-title="Canais: Infantil",Nickelodeon HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1449
+#EXTINF:-1 tvg-id="NICHD" tvg-name="Nickelodeon HD+" tvg-logo="https://logos.servidor.tv/nick.jpg" group-title="Canais: Infantil",Nickelodeon HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/188
+#EXTINF:-1 tvg-id="NordesteFC" tvg-name="NordesteFC 1 HD" tvg-logo="https://logos.servidor.tv/ef1040656d0a6e9b8fc5af4881b63cf4.png" group-title="Canais: Esporte PPV",NordesteFC 1 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102665
+#EXTINF:-1 tvg-id="NordesteFC" tvg-name="NordesteFC 2 HD" tvg-logo="https://logos.servidor.tv/ef1040656d0a6e9b8fc5af4881b63cf4.png" group-title="Canais: Esporte PPV",NordesteFC 2 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102664
+#EXTINF:-1 tvg-id="NordesteFC" tvg-name="NordesteFC 3 HD" tvg-logo="https://logos.servidor.tv/ef1040656d0a6e9b8fc5af4881b63cf4.png" group-title="Canais: Esporte PPV",NordesteFC 3 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102663
+#EXTINF:-1 tvg-id="NordesteFC" tvg-name="NordesteFC 4 HD" tvg-logo="https://logos.servidor.tv/ef1040656d0a6e9b8fc5af4881b63cf4.png" group-title="Canais: Esporte PPV",NordesteFC 4 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102662
+#EXTINF:-1 tvg-id="NOVOTHD" tvg-name="Novo Tempo HD" tvg-logo="https://logos.servidor.tv/novotempo.jpg" group-title="Canais: Religião",Novo Tempo HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/22507
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| O Pequeno Urso" tvg-logo="https://logos.servidor.tv/0dc1830acacc5dd5c401478242ee42f8.jpg" group-title="Canais: 24 Horas",|24h| O Pequeno Urso
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32630
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| O Show da Luna" tvg-logo="https://logos.servidor.tv/084c030736e2e02b7d6f9b89efa449c7.jpg" group-title="Canais: 24 Horas",|24h| O Show da Luna
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32606
+#EXTINF:-1 tvg-id="O Tempo Sports" tvg-name="O Tempo Sports HD" tvg-logo="https://logos.servidor.tv/6908e437fe8c36389f668b86e8859e36.png" group-title="Canais: Esporte PPV",O Tempo Sports HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102661
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="https://logos.servidor.tv/off.png" group-title="Canais: Variedade e Música",OFF HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/183
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| One Punch Man" tvg-logo="https://logos.servidor.tv/onepunchman.png" group-title="Canais: 24 Horas",|24h| One Punch Man
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33098
+#EXTINF:-1 tvg-id="OneFootball" tvg-name="OneFootball 1 HD" tvg-logo="https://logos.servidor.tv/13ec19213f7df05db0be8cb23378b4b2.png" group-title="Canais: Esporte PPV",OneFootball 1 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102660
+#EXTINF:-1 tvg-id="OneFootball" tvg-name="OneFootball 2 HD" tvg-logo="https://logos.servidor.tv/13ec19213f7df05db0be8cb23378b4b2.png" group-title="Canais: Esporte PPV",OneFootball 2 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102659
+#EXTINF:-1 tvg-id="OneFootball" tvg-name="OneFootball 3 HD" tvg-logo="https://logos.servidor.tv/13ec19213f7df05db0be8cb23378b4b2.png" group-title="Canais: Esporte PPV",OneFootball 3 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102658
+#EXTINF:-1 tvg-id="OneFootball" tvg-name="OneFootball 4 HD" tvg-logo="https://logos.servidor.tv/13ec19213f7df05db0be8cb23378b4b2.png" group-title="Canais: Esporte PPV",OneFootball 4 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102657
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Operação Fronteira: América do Sul" tvg-logo="https://f.i.uol.com.br/fotografia/2020/03/13/15841247755e6bd367a7e44_1584124775_3x2_md.jpg" group-title="Canais: 24 Horas",|24h| Operação Fronteira: América do Sul
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32681
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Os Cavaleiros do Zodíaco" tvg-logo="https://logos.servidor.tv/oscavaleirosdozodiaco.png" group-title="Canais: 24 Horas",|24h| Os Cavaleiros do Zodíaco
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33100
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Os Simpsons" tvg-logo="https://logos.servidor.tv/ced53d26e045bc8376c2fd469c9ed59f.jpg" group-title="Canais: 24 Horas",|24h| Os Simpsons
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32591
+#EXTINF:-1 tvg-id="" tvg-name="Pai Eterno HD" tvg-logo="https://logos.servidor.tv/paieterno.jpg" group-title="Canais: Religião",Pai Eterno HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/22509
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Papa-Léguas e Coiote" tvg-logo="https://logos.servidor.tv/82d210a469387d9d5db847fe869f4f0a.jpg" group-title="Canais: 24 Horas",|24h| Papa-Léguas e Coiote
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32605
+#EXTINF:-1 tvg-id="PARAMBH" tvg-name="Paramount Channel HD" tvg-logo="https://logos.servidor.tv/paramount.jpg" group-title="Canais: Filme e Série",Paramount Channel HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1448
+#EXTINF:-1 tvg-id="PARAMBH" tvg-name="Paramount Channel HD+" tvg-logo="https://logos.servidor.tv/paramount.jpg" group-title="Canais: Filme e Série",Paramount Channel HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/181
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Patrulha Canina" tvg-logo="https://logos.servidor.tv/6cdcafdbd3c8856d103b4f1e67ef5e26.jpg" group-title="Canais: 24 Horas",|24h| Patrulha Canina
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32604
+#EXTINF:-1 tvg-id="" tvg-name="People are Awesome HD" tvg-logo="https://logos.servidor.tv/people.png" group-title="Canais: Variedade e Música",People are Awesome HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63946
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Peppa Pig" tvg-logo="https://logos.servidor.tv/d5f99332ba57d15b3c0c5464caf639aa.jpg" group-title="Canais: 24 Horas",|24h| Peppa Pig
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32631
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Pica-Pau" tvg-logo="https://logos.servidor.tv/f93374e8176706953debae9e7b74cdc3.jpg" group-title="Canais: 24 Horas",|24h| Pica-Pau
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32588
+#EXTINF:-1 tvg-id="PLSHOP" tvg-name="Polishop HD+" tvg-logo="https://logos.servidor.tv/polishop.png" group-title="Canais: Aberto",Polishop HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53498
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Polícia 24 Horas" tvg-logo="https://logos.servidor.tv/9a3d39b345432abd0a13595b63a358c2.jpg" group-title="Canais: 24 Horas",|24h| Polícia 24 Horas
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32596
+#EXTINF:-1 tvg-id="" tvg-name="Power Couple HD" tvg-logo="https://logos.servidor.tv/powercouple.png" group-title="Canais: 24 Horas",Power Couple HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113750
+#EXTINF:-1 tvg-id="PR2SHD" tvg-name="Premiere 2 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1511
+#EXTINF:-1 tvg-id="PR2SHD" tvg-name="Premiere 2 HD+" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/172
+#EXTINF:-1 tvg-id="PR3UBE" tvg-name="Premiere 3 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1510
+#EXTINF:-1 tvg-id="PR3UBE" tvg-name="Premiere 3 HD+" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/170
+#EXTINF:-1 tvg-id="PRMR4" tvg-name="Premiere 4 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1509
+#EXTINF:-1 tvg-id="PRMR4" tvg-name="Premiere 4 HD+" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/168
+#EXTINF:-1 tvg-id="PRM5BR" tvg-name="Premiere 5 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1508
+#EXTINF:-1 tvg-id="PRM5BR" tvg-name="Premiere 5 HD+" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/166
+#EXTINF:-1 tvg-id="PRM6BR" tvg-name="Premiere 6 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1507
+#EXTINF:-1 tvg-id="PRM6BR" tvg-name="Premiere 6 HD+" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/164
+#EXTINF:-1 tvg-id="PRM7BR" tvg-name="Premiere 7 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1506
+#EXTINF:-1 tvg-id="PRM7BR" tvg-name="Premiere 7 HD+" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/162
+#EXTINF:-1 tvg-id="PREM8HD" tvg-name="Premiere 8 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 8 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63207
+#EXTINF:-1 tvg-id="PFCHDOI" tvg-name="Premiere Clubes 4K UHD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: 4K UHD",Premiere Clubes 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56509
+#EXTINF:-1 tvg-id="PFCHDOI" tvg-name="Premiere Clubes HD" tvg-logo="https://logos.servidor.tv/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1447
+#EXTINF:-1 tvg-id="PFCHDOI" tvg-name="Premiere Clubes HD+" tvg-logo="https://logos.servidor.tv/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/159
+#EXTINF:-1 tvg-id="PRMBOXB" tvg-name="Prime Box Brasil HD" tvg-logo="https://logos.servidor.tv/primeboxbrasil.png" group-title="Canais: Filme e Série",Prime Box Brasil HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/4456
+#EXTINF:-1 tvg-id="PRMBOXB" tvg-name="Prime Box Brasil HD+" tvg-logo="https://logos.servidor.tv/primeboxbrasil.png" group-title="Canais: Filme e Série",Prime Box Brasil HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/157
+#EXTINF:-1 tvg-id="RAIISP" tvg-name="RAI Internacional SD" tvg-logo="https://logos.servidor.tv/rai.png" group-title="Canais: Notícia",RAI Internacional SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63206
+#EXTINF:-1 tvg-id="RBIB" tvg-name="RBI HD+" tvg-logo="https://logos.servidor.tv/rbi.png" group-title="Canais: Religião",RBI HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53489
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record 4K UHD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: 4K UHD",Record 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56510
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record BA HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record BA HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/29777
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record Belem HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Belem HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/29775
+#EXTINF:-1 tvg-id="" tvg-name="Record Campinas - TV Thaiti HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Campinas - TV Thaiti HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113738
+#EXTINF:-1 tvg-id="" tvg-name="Record Cuiabá TV Vila Real HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Cuiabá TV Vila Real HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113729
+#EXTINF:-1 tvg-id="" tvg-name="Record Curitiba HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Curitiba HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/105088
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record DF HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record DF HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/29776
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record GO HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record GO HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/29779
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record Interior RJ HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Interior RJ HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63205
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record Interior SP HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Interior SP HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63204
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record Itapoãn HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Itapoãn HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63203
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record Litoral e Vale HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Litoral e Vale HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63202
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record Manaus HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Manaus HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63201
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record MG HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record MG HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/29778
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record Minas HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Minas HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63200
+#EXTINF:-1 tvg-id="RECNEW" tvg-name="Record News HD" tvg-logo="https://logos.servidor.tv/recordnews.jpg" group-title="Canais: Notícia",Record News HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1513
+#EXTINF:-1 tvg-id="RECNEW" tvg-name="Record News HD+" tvg-logo="https://logos.servidor.tv/recordnews.jpg" group-title="Canais: Notícia",Record News HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/405
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record PA HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record PA HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/29782
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record PR - RIC Maringá HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record PR - RIC Maringá HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63199
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record PR - RIC Maringá HD+" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record PR - RIC Maringá HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63198
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record Recife HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Recife HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63197
+#EXTINF:-1 tvg-id="" tvg-name="Record Rio Preto HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Rio Preto HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113731
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record RJ HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record RJ HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/29780
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record RS HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record RS HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/29781
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record SC HD+" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record SC HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63196
+#EXTINF:-1 tvg-id="" tvg-name="Record SicTV RO HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record SicTV RO HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113730
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record SP HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record SP HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/403
+#EXTINF:-1 tvg-id="RECI" tvg-name="Record SP HD+" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record SP HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/148
+#EXTINF:-1 tvg-id="" tvg-name="Record Uberlandia" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Aberto",Record Uberlandia
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113744
+#EXTINF:-1 tvg-id="REDEBR" tvg-name="Rede Brasil HD+" tvg-logo="https://logos.servidor.tv/redebrasil.png" group-title="Canais: Religião",Rede Brasil HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53493
+#EXTINF:-1 tvg-id="GNSIS" tvg-name="Rede Genisis HD+" tvg-logo="https://logos.servidor.tv/redegenisis.png" group-title="Canais: Religião",Rede Genisis HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53511
+#EXTINF:-1 tvg-id="RG" tvg-name="Rede Gospel HD+" tvg-logo="https://logos.servidor.tv/ed6af461cd7714d4393e2315e7d6eea8.png" group-title="Canais: Religião",Rede Gospel HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33261
+#EXTINF:-1 tvg-id="RG" tvg-name="Rede Gospel SD" tvg-logo="https://logos.servidor.tv/ed6af461cd7714d4393e2315e7d6eea8.png" group-title="Canais: Religião",Rede Gospel SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33262
+#EXTINF:-1 tvg-id="RSUPER" tvg-name="Rede Super HD" tvg-logo="https://logos.servidor.tv/redesuper.png" group-title="Canais: Religião",Rede Super HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53488
+#EXTINF:-1 tvg-id="REDESPH" tvg-name="RedeTV! 4K UHD" tvg-logo="https://logos.servidor.tv/redetv.png" group-title="Canais: 4K UHD",RedeTV! 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56495
+#EXTINF:-1 tvg-id="REDESPH" tvg-name="RedeTV! HD" tvg-logo="https://logos.servidor.tv/redetv.png" group-title="Canais: Aberto",RedeTV! HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/136
+#EXTINF:-1 tvg-id="UNIAOTV" tvg-name="Rede União HD" tvg-logo="https://logos.servidor.tv/redeuniao.png" group-title="Canais: Aberto",Rede União HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63195
+#EXTINF:-1 tvg-id="RV" tvg-name="Rede Vida HD" tvg-logo="https://logos.servidor.tv/redevida.jpg" group-title="Canais: Religião",Rede Vida HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/22506
+#EXTINF:-1 tvg-id="" tvg-name="RedeTV! Pampa HD" tvg-logo="http://fanc.tmsimg.com/assets/s104209_ll_h3_aa.png" group-title="Canais: Aberto",RedeTV! Pampa HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113737
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Rick and Morty" tvg-logo="https://logos.servidor.tv/rickandmorty.png" group-title="Canais: 24 Horas",|24h| Rick and Morty
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33101
+#EXTINF:-1 tvg-id="RITTVD" tvg-name="RIT TV SD" tvg-logo="https://logos.servidor.tv/rittv.jpg" group-title="Canais: Religião",RIT TV SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/22510
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="Rá Tim Bum HD" tvg-logo="https://logos.servidor.tv/tvratimbum.png" group-title="Canais: Infantil",Rá Tim Bum HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/72
+#EXTINF:-1 tvg-id="" tvg-name="Sabor & Arte HD" tvg-logo="https://logos.servidor.tv/sabor.jpg" group-title="Canais: Aberto",Sabor & Arte HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113743
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Sai de Baixo" tvg-logo="https://logos.servidor.tv/saidebaixo.png" group-title="Canais: 24 Horas",|24h| Sai de Baixo
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33115
+#EXTINF:-1 tvg-id="" tvg-name="Santuário de Fátima HD" tvg-logo="https://logos.servidor.tv/santuariofatima.png" group-title="Canais: Religião",Santuário de Fátima HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63146
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT 4K UHD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: 4K UHD",SBT 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56506
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT Brasilia HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT Brasilia HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63194
+#EXTINF:-1 tvg-id="" tvg-name="SBT Caruaru HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT Caruaru HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113746
+#EXTINF:-1 tvg-id="" tvg-name="SBT Curitiba HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT Curitiba HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/105089
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT GO HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT GO HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63193
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1512
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD+" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/402
+#EXTINF:-1 tvg-id="" tvg-name="SBT Itapoan HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT Itapoan HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113732
+#EXTINF:-1 tvg-id="" tvg-name="SBT MG TV Alterosa HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT MG TV Alterosa HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113733
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT Paraná HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT Paraná HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63192
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT PI TV Cidade Verde HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT PI TV Cidade Verde HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63191
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT RJ HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63190
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RS HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT RS HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63189
+#EXTINF:-1 tvg-id="" tvg-name="SBT Uberlandia" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT Uberlandia
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113742
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Scooby-Doo!" tvg-logo="https://logos.servidor.tv/38371fef7d829c7f8b0e2fedf7a04334.jpg" group-title="Canais: 24 Horas",|24h| Scooby-Doo!
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32603
+#EXTINF:-1 tvg-id="SESCTV" tvg-name="Sesc TV HD+" tvg-logo="https://logos.servidor.tv/sesc.png" group-title="Canais: Aberto",Sesc TV HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63188
+#EXTINF:-1 tvg-id="SHPT" tvg-name="Shoptime SD" tvg-logo="https://logos.servidor.tv/shoptime.png" group-title="Canais: Variedade e Música",Shoptime SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/29773
+#EXTINF:-1 tvg-id="SMITHHD" tvg-name="Smithsonian HD" tvg-logo="https://logos.servidor.tv/smithsonian.png" group-title="Canais: Variedade e Música",Smithsonian HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63186
+#EXTINF:-1 tvg-id="SMITHHD" tvg-name="Smithsonian HD+" tvg-logo="https://logos.servidor.tv/smithsonian.png" group-title="Canais: Variedade e Música",Smithsonian HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63185
+#EXTINF:-1 tvg-id="SETB" tvg-name="Sony HD" tvg-logo="https://logos.servidor.tv/sony.png" group-title="Canais: Filme e Série",Sony HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1446
+#EXTINF:-1 tvg-id="SETB" tvg-name="Sony HD+" tvg-logo="https://logos.servidor.tv/sony.png" group-title="Canais: Filme e Série",Sony HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/127
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| South Park" tvg-logo="https://logos.servidor.tv/6e77e6ec9ed4394409126116a070253a.jpg" group-title="Canais: 24 Horas",|24h| South Park
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32602
+#EXTINF:-1 tvg-id="SPACEB" tvg-name="Space 4K UHD" tvg-logo="https://logos.servidor.tv/space.png" group-title="Canais: 4K UHD",Space 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56485
+#EXTINF:-1 tvg-id="SPACEB" tvg-name="Space HD" tvg-logo="https://logos.servidor.tv/space.png" group-title="Canais: Filme e Série",Space HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1445
+#EXTINF:-1 tvg-id="SPACEB" tvg-name="Space HD+" tvg-logo="https://logos.servidor.tv/space.png" group-title="Canais: Filme e Série",Space HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/125
+#EXTINF:-1 tvg-id="SPORVHD" tvg-name="SporTV 4K UHD" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: 4K UHD",SporTV 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56504
+#EXTINF:-1 tvg-id="SPORVHD" tvg-name="SporTV HD" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1444
+#EXTINF:-1 tvg-id="SPORVHD" tvg-name="SporTV HD+" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/119
+#EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SporTV 2 HD" tvg-logo="https://logos.servidor.tv/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1443
+#EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SporTV 2 HD+" tvg-logo="https://logos.servidor.tv/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/123
+#EXTINF:-1 tvg-id="SP3HDOI" tvg-name="SporTV 3 HD" tvg-logo="https://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1442
+#EXTINF:-1 tvg-id="SP3HDOI" tvg-name="SporTV 3 HD+" tvg-logo="https://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/121
+#EXTINF:-1 tvg-id="FOXB" tvg-name="Star Channel 4K UHD" tvg-logo="https://logos.servidor.tv/starchannel.png" group-title="Canais: 4K UHD",Star Channel 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56488
+#EXTINF:-1 tvg-id="FOXB" tvg-name="Star Channel HD" tvg-logo="https://logos.servidor.tv/starchannel.png" group-title="Canais: Filme e Série",Star Channel HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1473
+#EXTINF:-1 tvg-id="FOXB" tvg-name="Star Channel HD+" tvg-logo="https://logos.servidor.tv/starchannel.png" group-title="Canais: Filme e Série",Star Channel HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/304
+#EXTINF:-1 tvg-id="" tvg-name="Star Hits HD" tvg-logo="https://logos.servidor.tv/starhits.png" group-title="Canais: Aberto",Star Hits HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113741
+#EXTINF:-1 tvg-id="" tvg-name="Star Hits HD+" tvg-logo="https://logos.servidor.tv/starhits.png" group-title="Canais: Aberto",Star Hits HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113740
+#EXTINF:-1 tvg-id="STAR+" tvg-name="Star+ 1 HD" tvg-logo="https://logos.servidor.tv/3b33f9051e5a4ee85b61d51dee6c0fb1.png" group-title="Canais: Esporte PPV",Star+ 1 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102656
+#EXTINF:-1 tvg-id="STAR+" tvg-name="Star+ 2 HD" tvg-logo="https://logos.servidor.tv/3b33f9051e5a4ee85b61d51dee6c0fb1.png" group-title="Canais: Esporte PPV",Star+ 2 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102655
+#EXTINF:-1 tvg-id="STAR+" tvg-name="Star+ 3 HD" tvg-logo="https://logos.servidor.tv/3b33f9051e5a4ee85b61d51dee6c0fb1.png" group-title="Canais: Esporte PPV",Star+ 3 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102654
+#EXTINF:-1 tvg-id="STAR+" tvg-name="Star+ 4 HD" tvg-logo="https://logos.servidor.tv/3b33f9051e5a4ee85b61d51dee6c0fb1.png" group-title="Canais: Esporte PPV",Star+ 4 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102653
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 5 HD" tvg-logo="https://logos.servidor.tv/3b33f9051e5a4ee85b61d51dee6c0fb1.png" group-title="Canais: Esporte PPV",Star+ 5 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102712
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 6 HD" tvg-logo="https://logos.servidor.tv/3b33f9051e5a4ee85b61d51dee6c0fb1.png" group-title="Canais: Esporte PPV",Star+ 6 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102709
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 7 HD" tvg-logo="https://logos.servidor.tv/3b33f9051e5a4ee85b61d51dee6c0fb1.png" group-title="Canais: Esporte PPV",Star+ 7 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102711
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 8 HD" tvg-logo="https://logos.servidor.tv/3b33f9051e5a4ee85b61d51dee6c0fb1.png" group-title="Canais: Esporte PPV",Star+ 8 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102710
+#EXTINF:-1 tvg-id="STUBR" tvg-name="Studio Universal HD" tvg-logo="https://logos.servidor.tv/studiouniversal.png" group-title="Canais: Filme e Série",Studio Universal HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1441
+#EXTINF:-1 tvg-id="STUBR" tvg-name="Studio Universal HD+" tvg-logo="https://logos.servidor.tv/studiouniversal.png" group-title="Canais: Filme e Série",Studio Universal HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/117
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Super Campeões J" tvg-logo="https://logos.servidor.tv/supercampeoesj.png" group-title="Canais: 24 Horas",|24h| Super Campeões J
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33102
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Super Choque" tvg-logo="https://logos.servidor.tv/f47d92020e13150d80f89e4116290500.jpg" group-title="Canais: 24 Horas",|24h| Super Choque
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32627
+#EXTINF:-1 tvg-id="SYFYB" tvg-name="Syfy HD" tvg-logo="https://logos.servidor.tv/syfy.png" group-title="Canais: Filme e Série",Syfy HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1440
+#EXTINF:-1 tvg-id="SYFYB" tvg-name="Syfy HD+" tvg-logo="https://logos.servidor.tv/syfy.png" group-title="Canais: Filme e Série",Syfy HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/115
+#EXTINF:-1 tvg-id="TMFRE16" tvg-name="Tastemade HD" tvg-logo="https://logos.servidor.tv/tastemade.png" group-title="Canais: Variedade e Música",Tastemade HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63941
+#EXTINF:-1 tvg-id="BRZTBS" tvg-name="TBS HD" tvg-logo="https://logos.servidor.tv/tbs.png" group-title="Canais: Filme e Série",TBS HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113
+#EXTINF:-1 tvg-id="TCMB" tvg-name="TCM HD" tvg-logo="https://logos.servidor.tv/tcm.png" group-title="Canais: Filme e Série",TCM HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/99
+#EXTINF:-1 tvg-id="TCA" tvg-name="Telecine Action HD" tvg-logo="https://logos.servidor.tv/telecineaction.png" group-title="Canais: Filme e Série",Telecine Action HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1438
+#EXTINF:-1 tvg-id="TCA" tvg-name="Telecine Action HD+" tvg-logo="https://logos.servidor.tv/telecineaction.png" group-title="Canais: Filme e Série",Telecine Action HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/111
+#EXTINF:-1 tvg-id="TCCL" tvg-name="Telecine Cult HD" tvg-logo="https://logos.servidor.tv/telecinecult.jpg" group-title="Canais: Filme e Série",Telecine Cult HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1437
+#EXTINF:-1 tvg-id="TCCL" tvg-name="Telecine Cult HD+" tvg-logo="https://logos.servidor.tv/telecinecult.jpg" group-title="Canais: Filme e Série",Telecine Cult HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/109
+#EXTINF:-1 tvg-id="TCF" tvg-name="Telecine Fun HD" tvg-logo="https://logos.servidor.tv/telecinefun.png" group-title="Canais: Filme e Série",Telecine Fun HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1436
+#EXTINF:-1 tvg-id="TCF" tvg-name="Telecine Fun HD+" tvg-logo="https://logos.servidor.tv/telecinefun.png" group-title="Canais: Filme e Série",Telecine Fun HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/107
+#EXTINF:-1 tvg-id="TCPIP" tvg-name="Telecine Pipoca 4K UHD" tvg-logo="https://logos.servidor.tv/telecinepipoca.png" group-title="Canais: 4K UHD",Telecine Pipoca 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56489
+#EXTINF:-1 tvg-id="TCPIP" tvg-name="Telecine Pipoca HD" tvg-logo="https://logos.servidor.tv/telecinepipoca.png" group-title="Canais: Filme e Série",Telecine Pipoca HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1435
+#EXTINF:-1 tvg-id="TCPIP" tvg-name="Telecine Pipoca HD+" tvg-logo="https://logos.servidor.tv/telecinepipoca.png" group-title="Canais: Filme e Série",Telecine Pipoca HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/105
+#EXTINF:-1 tvg-id="TCP" tvg-name="Telecine Premium 4K UHD" tvg-logo="https://logos.servidor.tv/telecinepremium.png" group-title="Canais: 4K UHD",Telecine Premium 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56497
+#EXTINF:-1 tvg-id="TCP" tvg-name="Telecine Premium HD" tvg-logo="https://logos.servidor.tv/telecinepremium.png" group-title="Canais: Filme e Série",Telecine Premium HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1434
+#EXTINF:-1 tvg-id="TCP" tvg-name="Telecine Premium HD+" tvg-logo="https://logos.servidor.tv/telecinepremium.png" group-title="Canais: Filme e Série",Telecine Premium HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/103
+#EXTINF:-1 tvg-id="TCTCH" tvg-name="Telecine Touch HD" tvg-logo="https://logos.servidor.tv/telecinetouch.png" group-title="Canais: Filme e Série",Telecine Touch HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1439
+#EXTINF:-1 tvg-id="TCTCH" tvg-name="Telecine Touch HD+" tvg-logo="https://logos.servidor.tv/telecinetouch.png" group-title="Canais: Filme e Série",Telecine Touch HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/101
+#EXTINF:-1 tvg-id="TVIVAHD" tvg-name="Terra Viva HD+" tvg-logo="https://logos.servidor.tv/terraviva.png" group-title="Canais: Aberto",Terra Viva HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53500
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Timão e Pumba" tvg-logo="https://logos.servidor.tv/timaoepumba.png" group-title="Canais: 24 Horas",|24h| Timão e Pumba
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33103
+#EXTINF:-1 tvg-id="TLCBRAZ" tvg-name="TLC HD" tvg-logo="https://logos.servidor.tv/tlc.png" group-title="Canais: Variedade e Música",TLC HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/94
+#EXTINF:-1 tvg-id="TNTHDB" tvg-name="TNT 4K UHD" tvg-logo="https://logos.servidor.tv/tnt.png" group-title="Canais: 4K UHD",TNT 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56492
+#EXTINF:-1 tvg-id="TNTHDB" tvg-name="TNT HD" tvg-logo="https://logos.servidor.tv/tnt.png" group-title="Canais: Filme e Série",TNT HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1433
+#EXTINF:-1 tvg-id="TNTHDB" tvg-name="TNT HD+" tvg-logo="https://logos.servidor.tv/tnt.png" group-title="Canais: Filme e Série",TNT HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/92
+#EXTINF:-1 tvg-id="TNTSBHD" tvg-name="TNT Series HD" tvg-logo="https://logos.servidor.tv/tntseries.png" group-title="Canais: Filme e Série",TNT Series HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1432
+#EXTINF:-1 tvg-id="TNTSBHD" tvg-name="TNT Séries 4K UHD" tvg-logo="https://logos.servidor.tv/tntseries.png" group-title="Canais: 4K UHD",TNT Séries 4K UHD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/56491
+#EXTINF:-1 tvg-id="TNTSBHD" tvg-name="TNT Séries HD+" tvg-logo="https://logos.servidor.tv/tntseries.png" group-title="Canais: Filme e Série",TNT Séries HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/90
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Todo Mundo Odeia o Chris" tvg-logo="https://logos.servidor.tv/d365303be8ecb3046ea28ac72f2fb9af.jpg" group-title="Canais: 24 Horas",|24h| Todo Mundo Odeia o Chris
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32625
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Tokyo Ghoul" tvg-logo="https://logos.servidor.tv/tokyoghoul.png" group-title="Canais: 24 Horas",|24h| Tokyo Ghoul
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33104
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Tom e Jerry" tvg-logo="https://logos.servidor.tv/e59f6d6407b4b8062718363e33e5595e.jpg" group-title="Canais: 24 Horas",|24h| Tom e Jerry
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32600
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Toma Lá, Dá Cá" tvg-logo="https://logos.servidor.tv/tomaladaca.png" group-title="Canais: 24 Horas",|24h| Toma Lá, Dá Cá
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33116
+#EXTINF:-1 tvg-id="TOONCB" tvg-name="Tooncast HD" tvg-logo="https://logos.servidor.tv/217f9f912144f6e0002eafd178774f57.png" group-title="Canais: Infantil",Tooncast HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33263
+#EXTINF:-1 tvg-id="TBRAZUC" tvg-name="Trace Brazuca HD" tvg-logo="https://logos.servidor.tv/tracebrazuca.png" group-title="Canais: Variedade e Música",Trace Brazuca HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63173
+#EXTINF:-1 tvg-id="TBRAZUC" tvg-name="Trace Brazuca HD+" tvg-logo="https://logos.servidor.tv/tracebrazuca.png" group-title="Canais: Variedade e Música",Trace Brazuca HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63172
+#EXTINF:-1 tvg-id="TRAVBR" tvg-name="Travel Box HD+" tvg-logo="https://logos.servidor.tv/travelbox.png" group-title="Canais: Variedade e Música",Travel Box HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53508
+#EXTINF:-1 tvg-id="TRUTVB" tvg-name="Tru TV HD" tvg-logo="https://logos.servidor.tv/trutv.png" group-title="Canais: Variedade e Música",Tru TV HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53510
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Três Espiãs Demais" tvg-logo="https://logos.servidor.tv/tresespiasdemais.png" group-title="Canais: 24 Horas",|24h| Três Espiãs Demais
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33105
+#EXTINF:-1 tvg-id="APAR" tvg-name="TV Aparecida HD" tvg-logo="https://logos.servidor.tv/tvaparecida.png" group-title="Canais: Religião",TV Aparecida HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33184
+#EXTINF:-1 tvg-id="TVBRHD" tvg-name="TV Brasil HD" tvg-logo="https://logos.servidor.tv/tvbrasil.jpg" group-title="Canais: Aberto",TV Brasil HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/22513
+#EXTINF:-1 tvg-id="TVEB2" tvg-name="TV Brasil 2 HD+" tvg-logo="https://logos.servidor.tv/tvbrasil2.png" group-title="Canais: Aberto",TV Brasil 2 HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53492
+#EXTINF:-1 tvg-id="CAMARA" tvg-name="TV Camara HD" tvg-logo="https://logos.servidor.tv/tvcamara.jpg" group-title="Canais: Aberto",TV Camara HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/22511
+#EXTINF:-1 tvg-id="" tvg-name="TV Clipes Gospel SD" tvg-logo="https://logos.servidor.tv/clipesgospel.png" group-title="Canais: Variedade e Música",TV Clipes Gospel SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63171
+#EXTINF:-1 tvg-id="TVCOMBH" tvg-name="TV Comunitária HD+" tvg-logo="https://logos.servidor.tv/tvcomunitaria.png" group-title="Canais: Aberto",TV Comunitária HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/53491
+#EXTINF:-1 tvg-id="CULTUHD" tvg-name="TV Cultura HD" tvg-logo="https://logos.servidor.tv/cultura.jpg" group-title="Canais: Aberto",TV Cultura HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/29772
+#EXTINF:-1 tvg-id="TVDIACE" tvg-name="TV Diario HD" tvg-logo="https://logos.servidor.tv/tvdiario.png" group-title="Canais: Aberto",TV Diario HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/4473
+#EXTINF:-1 tvg-id="TVDIACE" tvg-name="TV Diario HD+" tvg-logo="https://logos.servidor.tv/tvdiario.png" group-title="Canais: Aberto",TV Diario HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/4472
+#EXTINF:-1 tvg-id="" tvg-name="TV Diário do Sertão HD" tvg-logo="https://logos.servidor.tv/tvdiariosertao.png" group-title="Canais: Aberto",TV Diário do Sertão HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63145
+#EXTINF:-1 tvg-id="ESCOLA" tvg-name="TV Escola HD" tvg-logo="https://logos.servidor.tv/tvescola.jpg" group-title="Canais: Aberto",TV Escola HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/22514
+#EXTINF:-1 tvg-id="TVEVCBA" tvg-name="TV Evangelizar HD" tvg-logo="https://logos.servidor.tv/5c5583291e6ac7dd894161af04603563.png" group-title="Canais: Religião",TV Evangelizar HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/33264
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta" tvg-logo="https://logos.servidor.tv/tvgazeta.jpg" group-title="Canais: Aberto",TV Gazeta
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113748
+#EXTINF:-1 tvg-id="JUSTI" tvg-name="TV Justiça HD" tvg-logo="https://logos.servidor.tv/tvjustica.jpg" group-title="Canais: Aberto",TV Justiça HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/22512
+#EXTINF:-1 tvg-id="" tvg-name="TV Leão De Juda HD" tvg-logo="https://logos.servidor.tv/leaojudas.png" group-title="Canais: Religião",TV Leão De Juda HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63170
+#EXTINF:-1 tvg-id="" tvg-name="TV Marajoara HD" tvg-logo="https://logos.servidor.tv/tvmarajoara.png" group-title="Canais: Aberto",TV Marajoara HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63169
+#EXTINF:-1 tvg-id="" tvg-name="TV Meio Norte Piauí" tvg-logo="https://logos.servidor.tv/redemeionorte.jpg" group-title="Canais: Aberto",TV Meio Norte Piauí
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113728
+#EXTINF:-1 tvg-id="TV NSports" tvg-name="TV NSports 1 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="Canais: Esporte PPV",TV NSports 1 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102652
+#EXTINF:-1 tvg-id="TV NSports" tvg-name="TV NSports 2 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="Canais: Esporte PPV",TV NSports 2 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102651
+#EXTINF:-1 tvg-id="TV NSports" tvg-name="TV NSports 3 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="Canais: Esporte PPV",TV NSports 3 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102650
+#EXTINF:-1 tvg-id="TV NSports" tvg-name="TV NSports 4 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="Canais: Esporte PPV",TV NSports 4 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102649
+#EXTINF:-1 tvg-id="TV NSports" tvg-name="TV NSports 5 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="Canais: Esporte PPV",TV NSports 5 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102648
+#EXTINF:-1 tvg-id="TV NSports" tvg-name="TV NSports 6 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="Canais: Esporte PPV",TV NSports 6 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102647
+#EXTINF:-1 tvg-id="" tvg-name="TV NSports 7 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="Canais: Esporte PPV",TV NSports 7 HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/102708
+#EXTINF:-1 tvg-id="SENADOH" tvg-name="TV Senado HD" tvg-logo="https://logos.servidor.tv/tvsenado.jpg" group-title="Canais: Aberto",TV Senado HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/22515
+#EXTINF:-1 tvg-id="" tvg-name="TV Terceiro Anjo SD" tvg-logo="https://logos.servidor.tv/terceiroanjo.png" group-title="Canais: Religião",TV Terceiro Anjo SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63164
+#EXTINF:-1 tvg-id="TVWA" tvg-name="TV WA HD" tvg-logo="https://logos.servidor.tv/tvwa.png" group-title="Canais: Variedade e Música",TV WA HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63162
+#EXTINF:-1 tvg-id="TVWA" tvg-name="TV WA HD+" tvg-logo="https://logos.servidor.tv/tvwa.png" group-title="Canais: Variedade e Música",TV WA HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63163
+#EXTINF:-1 tvg-id="TV5BRZ" tvg-name="TV5 SD" tvg-logo="https://logos.servidor.tv/tv5.png" group-title="Canais: Variedade e Música",TV5 SD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/69
+#EXTINF:-1 tvg-id="ZYA299" tvg-name="TVE Bahia HD" tvg-logo="https://logos.servidor.tv/tvebahia.jpg" group-title="Canais: Aberto",TVE Bahia HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/63161
+#EXTINF:-1 tvg-id="" tvg-name="TVE International HD" tvg-logo="https://logos.servidor.tv/tveinternational.png" group-title="Canais: Aberto",TVE International HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/113739
+#EXTINF:-1 tvg-id="24h" tvg-name="|24h| Um Maluco no Pedaço" tvg-logo="https://logos.servidor.tv/dbfa8ccc994f646a37d7f8ae25976fa1.jpg" group-title="Canais: 24 Horas",|24h| Um Maluco no Pedaço
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/32592
+#EXTINF:-1 tvg-id="UNVRBHD" tvg-name="Universal Channel HD" tvg-logo="https://logos.servidor.tv/universalchannel.jpg" group-title="Canais: Filme e Série",Universal Channel HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1431
+#EXTINF:-1 tvg-id="UNVRBHD" tvg-name="Universal Channel HD+" tvg-logo="https://logos.servidor.tv/universalchannel.jpg" group-title="Canais: Filme e Série",Universal Channel HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/67
+#EXTINF:-1 tvg-id="VIVABR" tvg-name="Viva HD" tvg-logo="https://logos.servidor.tv/viva.jpg" group-title="Canais: Variedade e Música",Viva HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/2680
+#EXTINF:-1 tvg-id="VIVABR" tvg-name="Viva HD+" tvg-logo="https://logos.servidor.tv/viva.jpg" group-title="Canais: Variedade e Música",Viva HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/10
+#EXTINF:-1 tvg-id="WBB" tvg-name="Warner Channel HD" tvg-logo="https://logos.servidor.tv/warnerchannel.png" group-title="Canais: Filme e Série",Warner Channel HD
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/1430
+#EXTINF:-1 tvg-id="WBB" tvg-name="Warner Channel HD+" tvg-logo="https://logos.servidor.tv/warnerchannel.png" group-title="Canais: Filme e Série",Warner Channel HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/61
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WooHoo HD+" tvg-logo="https://logos.servidor.tv/woohoo.jpg" group-title="Canais: Variedade e Música",WooHoo HD+
+http://canaishd.servidor.tv:8080/iubyap/hsd3eg/59
